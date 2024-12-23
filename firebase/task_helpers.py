@@ -17,9 +17,9 @@ def create_task(uuid, axes, statement_type):
         **statement_chosen
     }
 
-    doc = user_tasks_ref.add(task_doc)
+    id, _ = user_tasks_ref.add(task_doc)
 
-    return {'id': doc.id, **task_doc}
+    return {'id': id, **task_doc}
 
 
 def get_all_tasks(uuid):
