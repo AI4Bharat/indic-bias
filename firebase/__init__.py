@@ -20,7 +20,6 @@ emails_ref = db.collection('emails')
 statements_ref = db.collection('statements')
 
 allowed_emails = [doc.id for doc in emails_ref.stream()]
-
 # DB INIT SCRIPT
 '''
 
@@ -33,6 +32,4 @@ for email in user_emails:
 for email in admin_emails:
     emails_ref.document(email).set({'role': 'admin'})
 
-for question in init_questions:
-    questions_ref.add({'question': question})
 '''
