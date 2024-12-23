@@ -16,7 +16,7 @@ def get_all_statements():
 
 def get_statements_by_type(axes, statement_type):
     result = []
-    for question in statements_ref.where(filter=FieldFilter('axes', '==', axes)).where(FieldFilter('type', '==', statement_type)).stream():
+    for question in statements_ref.where(filter=FieldFilter('axes', '==', axes)).where(filter=FieldFilter('type', '==', statement_type)).stream():
         question = question.to_dict() | {'id': question.id}
         result.append(question)
 
