@@ -1,42 +1,27 @@
 import streamlit as st
-import requests
 
-from firebase.login_helpers import sign_in_with_email_and_password
-
-st.set_page_config('')
-
-
-def exception_to_dict(exception):
-    """
-    Converts an exception object to a dictionary representation.
-
-    Args:
-        exception (Exception): The exception object to convert.
-
-    Returns:
-        dict: A dictionary containing details about the exception.
-    """
-    return {
-        "type": type(exception).__name__,
-        "message": str(exception),
-    }
-
+from firebase.login_helpers import sign_in_with_oauth, getAuthorisationLink
+from firebase import allowed_emails
 
 st.title('Indic Bias')
 st.subheader('By AI4Bharat')
 
-email = st.text_input('Email')
-password = st.text_input('Password',type='password')
+if st.query_params.get('code'):
+    with st.spinner('Logging in'):
+        oAuth_code = st.query_params.get('code')
+        userObj = sign_in_with_oauth(oAuth_code)
+    st.session_state.userObj = userObj
 
-if st.button('Submit'):
-    try:
-        login = sign_in_with_email_and_password(email, password)
+    st.switch_page('pages/user.py')
 
-        st.session_state.userObj = login
-
-        st.switch_page('pages/user.py')
-
-    except requests.exceptions.HTTPError as e:
-        st.toast('Invalid Credentials.Please try again')
-
-
+else:
+    st.markdown(
+        f"""
+        <a href="{getAuthorisationLink()}" target="_self">
+            <button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">
+                Sign in with Google
+            </button>
+        </a>
+        """,
+        unsafe_allow_html=True
+    )
