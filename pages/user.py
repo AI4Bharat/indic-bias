@@ -12,3 +12,16 @@ if userObj.get("email") not in allowed_emails:
     st.switch_page('main.py')
 
 st.markdown(f"## **Welcome {userObj['displayName']}**")
+# st.write(userObj)
+if st.button("Create Task"):
+    st.switch_page('pages/create_task.py')
+
+
+
+
+
+
+
+
+
+
