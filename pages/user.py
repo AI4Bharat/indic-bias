@@ -5,6 +5,8 @@ from firebase import allowed_emails
 if "userObj" not in st.session_state:
     st.session_state.error = {'message': 'Please log in to continue.'}
     st.switch_page('main.py')
+
+
 userObj = st.session_state.userObj
 
 if userObj.get("email") not in allowed_emails:

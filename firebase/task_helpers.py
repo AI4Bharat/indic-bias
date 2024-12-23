@@ -13,9 +13,15 @@ def create_task(uuid, axes, statement_type):
 
     task_doc = {
         'createdAt': firestore.SERVER_TIMESTAMP,
+        'isCompleted': False,
         **statement_chosen
     }
 
     doc = user_tasks_ref.add(task_doc)
 
     return {'id': doc.id, **task_doc}
+
+
+def get_all_tasks(uuid):
+    user_tasks_ref = master_ref.document(uuid).collection('tasks')
+    return [{'id': doc.id, **doc.to_dict()} for doc in user_tasks_ref.stream()]
