@@ -6,6 +6,9 @@ from firebase import allowed_emails
 st.title('Indic Bias')
 st.subheader('By AI4Bharat')
 
+if 'error' in st.session_state:
+    st.toast(st.session_state.error['message'])
+
 if st.query_params.get('code'):
     with st.spinner('Logging in'):
         oAuth_code = st.query_params.get('code')
