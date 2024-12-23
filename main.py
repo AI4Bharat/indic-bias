@@ -1,7 +1,6 @@
 import streamlit as st
 
 from firebase.login_helpers import sign_in_with_oauth, getAuthorisationLink
-from firebase import allowed_emails
 
 st.title('Indic Bias')
 st.subheader('By AI4Bharat')
