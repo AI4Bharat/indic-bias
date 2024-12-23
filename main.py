@@ -1,6 +1,6 @@
 import streamlit as st
 
-from firebase.login_helpers import sign_in_with_oauth, getAuthorisationLink
+from firebase.login_helpers import sign_in_with_oauth, getAuthorisationLink,create_user_doc
 
 st.title('Indic Bias')
 st.subheader('By AI4Bharat')
@@ -13,6 +13,8 @@ if st.query_params.get('code'):
         oAuth_code = st.query_params.get('code')
         userObj = sign_in_with_oauth(oAuth_code)
     st.session_state.userObj = userObj
+
+    create_user_doc(userObj)
 
     st.switch_page('pages/user.py')
 

@@ -4,7 +4,7 @@ import json
 import requests
 import streamlit as st
 
-from firebase import web_api_key, oauth_client
+from firebase import web_api_key, oauth_client, master_ref, firestore
 
 
 def raise_detailed_error(request_object):
@@ -55,6 +55,21 @@ def getAuthorisationLink():
         scope=["email", "profile"],
     ))
     return authorization_url
+
+
+def create_user_doc(userObj):
+    uuid = userObj.get('localId')
+    user_ref = master_ref.document(uuid)
+
+    user_details = {
+        'email': userObj['email'],
+        'name': userObj['displayName'],
+        'createdAt': firestore.SERVER_TIMESTAMP
+    }
+    if not user_ref.get().to_dict():
+        user_ref.set(user_details)
+
+    return True
 
 
 async def get_token(code):
