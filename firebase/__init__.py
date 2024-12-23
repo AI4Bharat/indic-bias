@@ -1,7 +1,6 @@
 import streamlit as st
 from firebase_admin import credentials, initialize_app, get_app, firestore
 from httpx_oauth.clients.google import GoogleOAuth2
-from firebase.utils import init_questions
 
 app = None
 try:
