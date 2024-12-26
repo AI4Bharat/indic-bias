@@ -1,0 +1,5 @@
+./.streamlit/secrets.toml
+.idea
+.venv
+
+./firebase/db_init.py
