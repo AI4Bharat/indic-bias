@@ -18,6 +18,7 @@ master_ref = db.collection('master')
 
 emails_ref = db.collection('emails')
 statements_ref = db.collection('statements')
+questions_ref = db.collection('questions')
 
 allowed_emails = [doc.id for doc in emails_ref.stream()]
 # DB INIT SCRIPT
