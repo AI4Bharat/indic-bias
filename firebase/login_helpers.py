@@ -3,7 +3,6 @@ import json
 
 import requests
 import streamlit as st
-
 from firebase import web_api_key, oauth_client, master_ref, firestore
 
 
