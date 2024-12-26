@@ -1,3 +1,0 @@
-streamlit
-httpx-oauth
-firebase-admin
