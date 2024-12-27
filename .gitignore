@@ -3,3 +3,5 @@
 .venv
 
 ./firebase/db_init.py
+
+./firebase/Statements_by_Axes_and_Types.csv

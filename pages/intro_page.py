@@ -1,9 +1,9 @@
 import streamlit as st
 
 from firebase.question_helpers import get_questions_by_type, get_statement_by_user
+from firebase.question_helpers import store_answers
 
 st.set_page_config(layout="wide")
-
 st.title("Introduction")
 
 if 's_index' not in st.session_state:
@@ -17,21 +17,34 @@ def next_element():
 def previous_element():
     st.session_state['s_index'] -= 1
 
+
+def trigger_change(target, value):
+    target = value
+
+
 task = st.session_state.task
 uuid = st.session_state.userObj.get('localId')
-statements = get_statement_by_user(uuid,task['axes'], task['type'] )
+
+statements = get_statement_by_user(uuid, task['axes'], task['type'])
+statement_ids = list(map(lambda x: x['id'], statements))
 
 curr_statement = statements[st.session_state.s_index]
-
 
 questions = get_questions_by_type(task['axes'])
 
 if "answers" not in st.session_state:
     st.session_state['answers'] = {}
 
-    for s_index in range(len(statements)):
-        st.session_state['answers'][s_index] = {}
+    for statement in statements:
+        st.session_state['answers'][statement['id']] = {}
 
+        for q_index, question in enumerate(questions):
+            question_copy = question.copy()
+            if "options" in question_copy:
+                del question_copy["options"]
+            st.session_state['answers'][statement['id']][q_index] = {**question_copy}
+
+st.write(st.session_state.answers)
 l, c, r = st.columns(3)
 
 with l:
@@ -41,27 +54,43 @@ with c:
 with r:
     st.button('Next', on_click=next_element, disabled=st.session_state['s_index'] == len(statements) - 1)
 
-st.markdown(f"#### **{curr_statement['statement']}**")
+with st.container(border=True):
+    st.markdown(f" <h3 style='text-align: center;'> {curr_statement['statement']}</h3>", unsafe_allow_html=True)
 
-answers = st.session_state.answers[st.session_state.s_index]
+answers = st.session_state.answers[statement_ids[st.session_state.s_index]]
+
+
+def update_dict(answer_key, element_key):
+    def callback():
+        answers[answer_key]['answer'] = st.session_state[element_key]
+
+    return callback
+
 
 for q_index, question in enumerate(questions):
-    st.markdown(f"{q_index + 1}. {question['question']}")
-    if question['type'] == 'Fillups':
-        answers[q_index] = st.text_input("", value=answers.get(q_index), key=f'{st.session_state.s_index}{q_index}')
-    elif question['type'] == 'MSQ':
-        answers[q_index] = st.multiselect("", default=answers.get(q_index), options=question['options'], key=f'{st.session_state.s_index}{q_index}')
+    st.markdown(f"<h5>{q_index + 1}. {question['question']}<h5>", unsafe_allow_html=True)
+
+    if question['type'] == 'text':
+        answers[q_index]['answer'] = st.text_input("Enter your answer",
+                                                   value=answers[q_index].get('answer', ''),
+                                                   key=f'{st.session_state.s_index}{q_index}',
+                                                   on_change=update_dict(q_index, f'{st.session_state.s_index}{q_index}'),
+                                                   label_visibility="collapsed",
+                                                   )
+    elif question['type'] == 'msq':
+        answers[q_index]['answer'] = st.multiselect("Select your answer",
+                                                    default=answers[q_index].get('answer', []),
+                                                    options=question['options'],
+                                                    key=f'{st.session_state.s_index}{q_index}',
+                                                    label_visibility="collapsed")
     else:
-        answers[q_index] = st.radio("", index=question['options'].index(answers.get(q_index)) if answers.get(q_index) else 0,
-                                    options=question['options'],
-                                    key=f'{st.session_state.s_index}{q_index}')
+        answers[q_index]['answer'] = st.radio("Select your answer",
+                                              index=question['options'].index(answers[q_index].get('answer')) if answers[q_index].get('answer') in
+                                                                                                                 question['options'] else 0,
+                                              options=question['options'],
+                                              key=f'{st.session_state.s_index}{q_index}',
+                                              label_visibility="collapsed")
 
-l_down, c_down, r_down = st.columns(3)
-
-with l_down:
-    st.button('Previous', on_click=previous_element, disabled=st.session_state['s_index'] == 0, key='down_0')
-with c_down:
-    st.write(f"Statement {st.session_state.s_index + 1}/{len(statements)}", key='down_1')
-with r_down:
-    st.button('Next', on_click=next_element, disabled=st.session_state['s_index'] == len(statements) - 1, key='down_2')
-
+if st.button("Submit"):
+    store_answers(uuid, st.session_state.answers)
+    st.toast('Saved Successfully')

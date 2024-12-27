@@ -29,7 +29,7 @@ axes = st.selectbox("Axes", axes_types)
 task_type = st.selectbox("Task Types", task_types)
 
 if st.button("Next"):
-    task = {"axes":axes,"type":task_type}
+    task = {"axes": axes, "type": task_type}
 
     st.session_state.task = task
     st.session_state.statements = get_statements_by_type(axes, task_type)
