@@ -63,3 +63,4 @@ with c_down:
     st.write(f"Statement {st.session_state.s_index + 1}/{len(statements)}", key='down_1')
 with r_down:
     st.button('Next', on_click=next_element, disabled=st.session_state['s_index'] == len(statements) - 1, key='down_2')
+
