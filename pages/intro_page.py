@@ -1,6 +1,6 @@
 import streamlit as st
 
-from firebase.question_helpers import get_questions_by_type
+from firebase.question_helpers import get_questions_by_type, get_statement_by_user
 
 st.set_page_config(layout="wide")
 
@@ -17,12 +17,13 @@ def next_element():
 def previous_element():
     st.session_state['s_index'] -= 1
 
-
-statements = st.session_state.statements
+task = st.session_state.task
+uuid = st.session_state.userObj.get('localId')
+statements = get_statement_by_user(uuid,task['axes'], task['type'] )
 
 curr_statement = statements[st.session_state.s_index]
 
-task = st.session_state.task
+
 questions = get_questions_by_type(task['axes'])
 
 if "answers" not in st.session_state:
