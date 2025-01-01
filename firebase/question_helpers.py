@@ -47,10 +47,11 @@ def get_statement_by_user(uuid, axes, axes_type):
     return result
 
 
-def store_answers(uuid, answers):
+def store_answers(uuid, answers, task_id):
+    task_ref = master_ref.document(uuid).collection("tasks").document(task_id)
+    task_ref.update({'is_annotated': True})
     for task_id, task_answer in answers.items():
         task_ref = master_ref.document(uuid).collection("tasks").document(task_id)
-
         for answer_idx, answer in task_answer.items():
             if answer.get('answer'):
                 task_ref.collection('answers').document(answer['id']).set(answer)

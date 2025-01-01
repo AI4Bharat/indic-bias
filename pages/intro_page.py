@@ -26,7 +26,6 @@ task = st.session_state.task
 uuid = st.session_state.userObj.get('localId')
 
 statements = get_statement_by_user(uuid, task['axes'], task['type'])
-print(statements)
 statement_ids = list(map(lambda x: x['id'], statements))
 
 curr_statement = statements[st.session_state.s_index]
@@ -106,7 +105,7 @@ for q_index, question in enumerate(questions):
                                               label_visibility="collapsed")
 is_submit_enabled = all_questions_answered()
 if st.button("Submit", disabled=not is_submit_enabled, on_click=next_element):
-    store_answers(uuid, st.session_state.answers)
+    store_answers(uuid, st.session_state.answers, statement_ids[st.session_state.s_index])
     st.toast('Saved Successfully')
 
     # st.session_state['redirect'] = True
