@@ -1,31 +1,33 @@
+import requests
 import streamlit as st
 
-from firebase.login_helpers import sign_in_with_oauth, getAuthorisationLink,create_user_doc
+from firebase.login_helpers import sign_in_with_email_and_password
+
+st.set_page_config('')
+
+
+def exception_to_dict(exception):
+    """
+    Converts an exception object to a dictionary representation.
+    Args:
+        exception (Exception): The exception object to convert.
+    Returns:
+        dict: A dictionary containing details about the exception.
+    """
+    return {
+        "type": type(exception).__name__,
+        "message": str(exception),
+    }
+
 
 st.title('Indic Bias')
 st.subheader('By AI4Bharat')
-
-if 'error' in st.session_state:
-    st.toast(st.session_state.error['message'])
-
-if st.query_params.get('code'):
-    with st.spinner('Logging in'):
-        oAuth_code = st.query_params.get('code')
-        userObj = sign_in_with_oauth(oAuth_code)
-    st.session_state.userObj = userObj
-
-    create_user_doc(userObj)
-
-    st.switch_page('pages/user.py')
-
-else:
-    st.markdown(
-        f"""
-        <a href="{getAuthorisationLink()}" target="_self">
-            <button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">
-                Sign in with Google
-            </button>
-        </a>
-        """,
-        unsafe_allow_html=True
-    )
+email = st.text_input('Email')
+password = st.text_input('Password', type='password')
+if st.button('Submit'):
+    try:
+        login = sign_in_with_email_and_password(email, password)
+        st.session_state.userObj = login
+        st.switch_page('pages/user.py')
+    except requests.exceptions.HTTPError as e:
+        st.toast('Invalid Credentials.Please try again')
