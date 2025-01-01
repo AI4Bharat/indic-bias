@@ -22,10 +22,12 @@ def trigger_change(target, value):
     target = value
 
 
+
 task = st.session_state.task
 uuid = st.session_state.userObj.get('localId')
 
 statements = get_statement_by_user(uuid, task['axes'], task['type'])
+print(statements)
 statement_ids = list(map(lambda x: x['id'], statements))
 
 curr_statement = statements[st.session_state.s_index]
@@ -44,7 +46,7 @@ if "answers" not in st.session_state:
                 del question_copy["options"]
             st.session_state['answers'][statement['id']][q_index] = {**question_copy}
 
-st.write(st.session_state.answers)
+
 l, c, r = st.columns(3)
 
 with l:
@@ -65,6 +67,19 @@ def update_dict(answer_key, element_key):
         answers[answer_key]['answer'] = st.session_state[element_key]
 
     return callback
+
+def all_questions_answered():
+    current_answers = st.session_state.answers[statement_ids[st.session_state.s_index]]
+    for q_index, question in enumerate(questions):
+        # Check if the answer exists and is non-empty
+        answer = current_answers[q_index].get('answer', None)
+        if question['type'] == 'text' and not answer:  # For text questions
+            return False
+        elif question['type'] == 'msq' and not answer:  # For multiple select questions
+            return False
+        elif question['type'] != 'text' and question['type'] != 'msq' and answer is None:  # For radio buttons or other types
+            return False
+    return True
 
 
 for q_index, question in enumerate(questions):
@@ -90,7 +105,9 @@ for q_index, question in enumerate(questions):
                                               options=question['options'],
                                               key=f'{st.session_state.s_index}{q_index}',
                                               label_visibility="collapsed")
-
-if st.button("Submit"):
+is_submit_enabled = all_questions_answered()
+if st.button("Submit", disabled=not is_submit_enabled, on_click=next_element):
     store_answers(uuid, st.session_state.answers)
     st.toast('Saved Successfully')
+
+    # st.session_state['redirect'] = True

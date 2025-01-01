@@ -5,6 +5,7 @@ from firebase import db, questions_ref, master_ref
 statements_ref = db.collection('statements')
 
 
+
 def get_all_statements():
     result = []
     for question in statements_ref.stream():
@@ -34,7 +35,7 @@ def get_questions_by_type(axes):
 def get_statement_by_user(uuid, axes, axes_type):
     result = []
     for statement in master_ref.document(uuid).collection("tasks").where(filter=FieldFilter('axes', '==', axes)).where(
-            filter=FieldFilter('type', '==', axes_type)).stream():
+            filter=FieldFilter('type', '==', axes_type)).where( filter=FieldFilter('is_annotated', '==', False)).stream():
         statement = statement.to_dict() | {'id': statement.id}
         result.append(statement)
     return result
