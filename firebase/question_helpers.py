@@ -1,9 +1,8 @@
-from google.cloud.firestore_v1.base_query import FieldFilter
+from google.cloud.firestore_v1.base_query import FieldFilter, And
 
 from firebase import db, questions_ref, master_ref
 
 statements_ref = db.collection('statements')
-
 
 
 def get_all_statements():
@@ -34,8 +33,15 @@ def get_questions_by_type(axes):
 
 def get_statement_by_user(uuid, axes, axes_type):
     result = []
-    for statement in master_ref.document(uuid).collection("tasks").where(filter=FieldFilter('axes', '==', axes)).where(
-            filter=FieldFilter('type', '==', axes_type)).where( filter=FieldFilter('is_annotated', '==', False)).stream():
+    query = master_ref.document(uuid).collection("tasks").where(
+        filter=And([
+            FieldFilter('axes', '==', axes),
+            FieldFilter('type', '==', axes_type),
+            FieldFilter('is_annotated', '==', False)
+        ])
+    )
+
+    for statement in query.stream():
         statement = statement.to_dict() | {'id': statement.id}
         result.append(statement)
     return result

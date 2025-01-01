@@ -22,7 +22,6 @@ def trigger_change(target, value):
     target = value
 
 
-
 task = st.session_state.task
 uuid = st.session_state.userObj.get('localId')
 
@@ -46,7 +45,6 @@ if "answers" not in st.session_state:
                 del question_copy["options"]
             st.session_state['answers'][statement['id']][q_index] = {**question_copy}
 
-
 l, c, r = st.columns(3)
 
 with l:
@@ -67,6 +65,7 @@ def update_dict(answer_key, element_key):
         answers[answer_key]['answer'] = st.session_state[element_key]
 
     return callback
+
 
 def all_questions_answered():
     current_answers = st.session_state.answers[statement_ids[st.session_state.s_index]]
