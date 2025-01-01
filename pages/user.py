@@ -2,7 +2,7 @@ import streamlit as st
 
 from firebase import allowed_emails
 from firebase.question_helpers import get_statements_by_type
-
+'''
 if "userObj" not in st.session_state:
     st.session_state.error = {'message': 'Please log in to continue.'}
     st.switch_page('main.py')
@@ -21,7 +21,7 @@ if "userObj" in st.session_state:
 else:
     st.session_state.error = {'message': 'Please login first'}
     st.switch_page('main.py')
-
+'''
 axes_types = ["Bias", "Stereotype", "Toxicity", "Harmful Activities"]
 task_types = ['Sentiment', 'Plausibility', 'Judgement', 'Classification', 'Generation']
 

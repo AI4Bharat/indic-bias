@@ -1,4 +1,3 @@
-import requests
 import streamlit as st
 
 from firebase.login_helpers import sign_in_with_email_and_password
@@ -25,9 +24,6 @@ st.subheader('By AI4Bharat')
 email = st.text_input('Email')
 password = st.text_input('Password', type='password')
 if st.button('Submit'):
-    try:
-        login = sign_in_with_email_and_password(email, password)
-        st.session_state.userObj = login
-        st.switch_page('pages/user.py')
-    except requests.exceptions.HTTPError as e:
-        st.toast('Invalid Credentials.Please try again')
+    login = sign_in_with_email_and_password(email, password)
+    st.session_state.userObj = login
+    st.switch_page('pages/user.py')
