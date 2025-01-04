@@ -2,7 +2,9 @@ import streamlit as st
 
 from firebase import allowed_emails
 from firebase.question_helpers import get_statements_by_type
-'''
+if "statements" in st.session_state:
+    del st.session_state["statements"]
+
 if "userObj" not in st.session_state:
     st.session_state.error = {'message': 'Please log in to continue.'}
     st.switch_page('main.py')
@@ -21,7 +23,11 @@ if "userObj" in st.session_state:
 else:
     st.session_state.error = {'message': 'Please login first'}
     st.switch_page('main.py')
-'''
+
+if "message" in st.session_state:
+    st.toast(st.session_state.message['message'])
+    del st.session_state["message"]
+
 axes_types = ["Bias", "Stereotype", "Toxicity", "Harmful Activities"]
 task_types = ['Sentiment', 'Plausibility', 'Judgement', 'Classification', 'Generation']
 
@@ -30,7 +36,10 @@ task_type = st.selectbox("Task Types", task_types)
 
 if st.button("Next"):
     task = {"axes": axes, "type": task_type}
-
+    if "answers" in st.session_state:
+        del st.session_state["answers"]
+    if "s_index" in st.session_state:
+        del st.session_state["s_index"]
     st.session_state.task = task
     st.session_state.statements = get_statements_by_type(axes, task_type)
     st.switch_page('pages/intro_page.py')

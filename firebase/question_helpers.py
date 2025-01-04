@@ -23,12 +23,16 @@ def get_statements_by_type(axes, statement_type):
     return result
 
 
-def get_questions_by_type(axes):
+def get_questions_by_type(axes, task_type):
     result = []
+    # Fetch questions from Firestore collection
     for question in questions_ref.document('_'.join(axes.lower().split())).collection("questions").stream():
         question = question.to_dict() | {'id': question.id}
-        result.append(question)
+        # Filter by 'sub_axe'
+        if question.get('sub_axe') == task_type:
+            result.append(question)
     return result
+
 
 
 def get_statement_by_user(uuid, axes, axes_type):
