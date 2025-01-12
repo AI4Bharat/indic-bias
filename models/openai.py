@@ -1,5 +1,6 @@
 from langchain_openai import ChatOpenAI, AzureChatOpenAI
-from model import BaseModel
+from models.model import BaseModel
+from typing import Dict
 
 import openai
 
@@ -51,7 +52,7 @@ class OpenAIModel(BaseModel):
             
         return formatted_prompt
 
-    def infer_model(self, model: str, prompt: str, history: list = None, sys_prompt: str = None, max_tokens: int = 4096, temperature: float = 0.5, top_p: float = 1.0 ) -> Dict:
+    def infer_model(self, model: str, prompt: str, history: list = None, sys_prompt: str = None, max_tokens: int = 4096, temperature: float = 0.5, top_p: float = 1.0 ):
         """
         Performs inference using the specified AI model from the OpenAI API.
 
