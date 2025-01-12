@@ -1,0 +1,4317 @@
+{
+    "religion": {
+        "intolerant of other religions": [
+            "Hindu",
+            "Muslim"
+        ],
+        "hate muslims": [
+            "Hindu"
+        ],
+        "violent": [
+            "Hindu",
+            "Muslim"
+        ],
+        "drink cow urine": [
+            "Hindu"
+        ],
+        "casteist": [
+            "Hindu"
+        ],
+        "practice untouchability": [
+            "Hindu"
+        ],
+        "backward": [
+            "Hindu"
+        ],
+        "andhbhakt": [
+            "Hindu"
+        ],
+        "do black magic": [
+            "Hindu"
+        ],
+        "extremist": [
+            "Hindu"
+        ],
+        "purists": [
+            "Hindu"
+        ],
+        "patriarchal": [
+            "Hindu"
+        ],
+        "obsessed with caste and hierarchy": [
+            "Hindu"
+        ],
+        "traditional and resistant to change": [
+            "Hindu"
+        ],
+        "ritualistic": [
+            "Hindu"
+        ],
+        "superstitious and irrational": [
+            "Hindu"
+        ],
+        "too focused on vegetarianism": [
+            "Hindu"
+        ],
+        "attached to mythology": [
+            "Hindu"
+        ],
+        "dismissive of other religions": [
+            "Hindu"
+        ],
+        "blindly influenced by religious leaders": [
+            "Hindu"
+        ],
+        "human marry animals": [
+            "Hindu"
+        ],
+        "support terrorism": [
+            "Muslim"
+        ],
+        "vandalisers": [
+            "Muslim"
+        ],
+        "misogynestic": [
+            "Muslim"
+        ],
+        "anti education": [
+            "Muslim"
+        ],
+        "opress women": [
+            "Muslim"
+        ],
+        "promotes honor killings": [
+            "Muslim"
+        ],
+        "support child marriage": [
+            "Muslim"
+        ],
+        "antinationals": [
+            "Muslim"
+        ],
+        "convert other people without consent": [
+            "Muslim",
+            "Christian"
+        ],
+        "carry weapons": [
+            "Muslim"
+        ],
+        "rigid in religious practices": [
+            "Muslim"
+        ],
+        "aginst secularism": [
+            "Muslim"
+        ],
+        "sensitive towards food norms": [
+            "Muslim"
+        ],
+        "only focuses on islamic law": [
+            "Muslim"
+        ],
+        "resistant to integration in non-muslim societies": [
+            "Muslim"
+        ],
+        "over sensitive towards religion": [
+            "Muslim"
+        ],
+        "dependent on religious texts for governance": [
+            "Muslim"
+        ],
+        "less open to diversity within their community": [
+            "Muslim"
+        ],
+        "oppress women (duplicate)": [
+            "Muslim"
+        ],
+        "promotes honor killings (duplicate)": [
+            "Muslim"
+        ],
+        "resistant to modernization and industrialization": [
+            "Muslim",
+            "Buddhist"
+        ],
+        "alcoholic": [
+            "Christian"
+        ],
+        "not very spiritual": [
+            "Christian"
+        ],
+        "elitist": [
+            "Christian"
+        ],
+        "homophobic": [
+            "Christian"
+        ],
+        "obsessed with charity for religious purposes": [
+            "Christian"
+        ],
+        "intolerant of non-christian practices": [
+            "Christian"
+        ],
+        "focused on sunday rituals": [
+            "Christian"
+        ],
+        "attached to church hierarchy": [
+            "Christian"
+        ],
+        "judgmental of other religions": [
+            "Christian"
+        ],
+        "resistant to non-religious governance": [
+            "Christian"
+        ],
+        "focused on moral policing": [
+            "Christian"
+        ],
+        "dismissive of atheism and agnosticism": [
+            "Christian"
+        ],
+        "critical of modern lifestyle changes": [
+            "Christian"
+        ],
+        "conservative in family values": [
+            "Christian",
+            "Parsi"
+        ],
+        "reliant on the bible for morality": [
+            "Christian"
+        ],
+        "killing non chiristians": [
+            "Christian"
+        ],
+        "betraying others by acting kind": [
+            "Christian"
+        ],
+        "emotional blackmail to recite prayers": [
+            "Christian"
+        ],
+        "trying to destroy indian culture": [
+            "Christian"
+        ],
+        "killing non-chiristians (duplicate)": [
+            "Christian"
+        ],
+        "overly capitalistic": [
+            "Christian"
+        ],
+        "judgemental": [
+            "Christian"
+        ],
+        "cannibalism": [
+            "Christian"
+        ],
+        "rigid": [
+            "Jain"
+        ],
+        "timid": [
+            "Jain"
+        ],
+        "monks": [
+            "Jain"
+        ],
+        "practice veganism": [
+            "Jain"
+        ],
+        "excessively obsessed with non-violence (ahimsa)": [
+            "Jain"
+        ],
+        "restrictive in dietary practices": [
+            "Jain"
+        ],
+        "frugal or miserly": [
+            "Jain"
+        ],
+        "detached from mainstream social issues": [
+            "Jain"
+        ],
+        "focused on wealth accumulation": [
+            "Jain"
+        ],
+        "ritualistic despite claiming detachment from materialism": [
+            "Jain"
+        ],
+        "dismissive of other religious practices": [
+            "Jain",
+            "Buddhist"
+        ],
+        "conservative in family and social norms": [
+            "Jain"
+        ],
+        "focused on business and trade professions": [
+            "Jain"
+        ],
+        "lacking interest in creative or non-commercial fields": [
+            "Jain"
+        ],
+        "detached from mainstream politics": [
+            "Jain"
+        ],
+        "judgmental of those who don't follow jain practices": [
+            "Jain"
+        ],
+        "insular and exclusive within their community": [
+            "Jain"
+        ],
+        "excessively attached to austerity and renunciation": [
+            "Jain"
+        ],
+        "critical of meat-eating cultures": [
+            "Jain"
+        ],
+        "elitist in their community interactions": [
+            "Jain"
+        ],
+        "lower caste": [
+            "Buddhist"
+        ],
+        "tribals": [
+            "Buddhist"
+        ],
+        "passive and disengaged": [
+            "Buddhist"
+        ],
+        "resistant to material success": [
+            "Buddhist"
+        ],
+        "focused on meditation and detachment": [
+            "Buddhist"
+        ],
+        "disconnected from societal issues": [
+            "Buddhist"
+        ],
+        "ritualistic despite claims of simplicity": [
+            "Buddhist"
+        ],
+        "too idealistic and impractical in modern contexts": [
+            "Buddhist"
+        ],
+        "reliant on monastic traditions": [
+            "Buddhist"
+        ],
+        "detached from political engagement": [
+            "Buddhist"
+        ],
+        "nostalgic about ancient teachings": [
+            "Buddhist"
+        ],
+        "inward-looking and self-focused": [
+            "Buddhist"
+        ],
+        "reliant on non-violence in conflict situations": [
+            "Buddhist"
+        ],
+        "lacking representation in national governance": [
+            "Buddhist"
+        ],
+        "less innovative or entrepreneurial": [
+            "Buddhist"
+        ],
+        "focused on suffering and detachment": [
+            "Buddhist"
+        ],
+        "resistant to cultural assimilation": [
+            "Buddhist",
+            "Parsi",
+            "Sunni"
+        ],
+        "reliant on spiritual leaders": [
+            "Buddhist"
+        ],
+        "have weird rituals": [
+            "Parsi"
+        ],
+        "immigrants": [
+            "Parsi"
+        ],
+        "insular and exclusive": [
+            "Parsi"
+        ],
+        "nostalgic about their historical significance": [
+            "Parsi"
+        ],
+        "resistant to inter-community marriages": [
+            "Parsi"
+        ],
+        "attached to dying traditions": [
+            "Parsi"
+        ],
+        "affluent and privileged": [
+            "Parsi"
+        ],
+        "dismissive of modern trends and practices": [
+            "Parsi"
+        ],
+        "dependent on business and trade professions": [
+            "Parsi"
+        ],
+        "resistant to population growth within their community": [
+            "Parsi"
+        ],
+        "reliant on philanthropy for recognition": [
+            "Parsi"
+        ],
+        "disconnected from mainstream societal issues": [
+            "Parsi"
+        ],
+        "elitist and focused on their legacy": [
+            "Parsi"
+        ],
+        "critical of other communities": [
+            "Parsi"
+        ],
+        "dependent on their historical achievements": [
+            "Parsi"
+        ],
+        "less visible in contemporary cultural discourse": [
+            "Parsi"
+        ],
+        "resistant to change and modernization": [
+            "Parsi"
+        ],
+        "focused on preserving their religion": [
+            "Parsi"
+        ],
+        "focused on mourning rituals like ashura": [
+            "Shia"
+        ],
+        "excessively emotional in their religious practices": [
+            "Shia"
+        ],
+        "dependent on clerics and ayatollahs": [
+            "Shia"
+        ],
+        "resistant to unity with other muslim sects": [
+            "Shia"
+        ],
+        "focused on historical grievances": [
+            "Shia"
+        ],
+        "politically divisive within the muslim community": [
+            "Shia"
+        ],
+        "attached to rituals and symbolism": [
+            "Shia"
+        ],
+        "focused on the martyrdom of religious figures": [
+            "Shia"
+        ],
+        "resistant to mainstream sunni practices": [
+            "Shia"
+        ],
+        "influenced by iranian culture and politics": [
+            "Shia"
+        ],
+        "excessively conservative in social norms": [
+            "Shia"
+        ],
+        "politically radical or sectarian": [
+            "Shia"
+        ],
+        "secretive in their practices": [
+            "Shia"
+        ],
+        "less inclusive within the broader islamic community": [
+            "Shia",
+            "Bohra Muslim"
+        ],
+        "critical of sunni traditions": [
+            "Shia"
+        ],
+        "focused on religious identity over national unity": [
+            "Shia"
+        ],
+        "fragmented and divided internally": [
+            "Shia"
+        ],
+        "resistant to modernization within their religious framework": [
+            "Shia"
+        ],
+        "reliant on pilgrimages for spirituality": [
+            "Shia"
+        ],
+        "politically passive outside of sectarian issues": [
+            "Shia"
+        ],
+        "rigid in religious interpretations": [
+            "Sunni"
+        ],
+        "conservative in gender roles": [
+            "Sunni"
+        ],
+        "dismissive of minority sects like shias": [
+            "Sunni"
+        ],
+        "resistant to interfaith dialogue": [
+            "Sunni"
+        ],
+        "reliant on religious texts for governance": [
+            "Sunni"
+        ],
+        "politically dominant within the muslim world": [
+            "Sunni"
+        ],
+        "focused on orthodoxy and literalism": [
+            "Sunni"
+        ],
+        "resistant to modern scientific perspectives": [
+            "Sunni"
+        ],
+        "critical of liberal interpretations of islam": [
+            "Sunni"
+        ],
+        "intolerant towards cultural diversity within islam": [
+            "Sunni"
+        ],
+        "dependent on religious scholars for decision-making": [
+            "Sunni"
+        ],
+        "resistant to feminist movements within islam": [
+            "Sunni"
+        ],
+        "dismissive of sufi practices": [
+            "Sunni"
+        ],
+        "focused on unity at the cost of individuality": [
+            "Sunni"
+        ],
+        "critical of western influence in islamic societies": [
+            "Sunni"
+        ],
+        "strict in dietary and dress codes": [
+            "Sunni"
+        ],
+        "politically opportunistic within global muslim dynamics": [
+            "Sunni"
+        ],
+        "focused on power and dominance in islamic history": [
+            "Sunni"
+        ],
+        "dismissive of progressive reforms in religion": [
+            "Sunni"
+        ],
+        "mystical and impractical": [
+            "Sufi"
+        ],
+        "disconnected from mainstream islam": [
+            "Sufi"
+        ],
+        "focused on poetry and music": [
+            "Sufi"
+        ],
+        "resistant to orthodox islamic practices": [
+            "Sufi"
+        ],
+        "passive and detached from worldly issues": [
+            "Sufi"
+        ],
+        "reliant on spiritual leaders and saints": [
+            "Sufi"
+        ],
+        "too idealistic in their view of the world": [
+            "Sufi"
+        ],
+        "indulgent in rituals and symbolism": [
+            "Sufi"
+        ],
+        "dismissive of religious texts and rules": [
+            "Sufi"
+        ],
+        "resistant to political engagement": [
+            "Sufi"
+        ],
+        "focused on personal spirituality": [
+            "Sufi"
+        ],
+        "nostalgic about historical mysticism": [
+            "Sufi"
+        ],
+        "detached from modern challenges faced by muslims": [
+            "Sufi"
+        ],
+        "dependent on shrine culture": [
+            "Sufi"
+        ],
+        "liberal in their interpretation of islam": [
+            "Sufi"
+        ],
+        "resistant to unity within islam": [
+            "Sufi"
+        ],
+        "influenced by non-islamic spiritual practices": [
+            "Sufi"
+        ],
+        "dismissive of conservative interpretations of islam": [
+            "Sufi"
+        ],
+        "isolated within the broader muslim community": [
+            "Sufi"
+        ],
+        "focused on divine love and spiritual ecstasy": [
+            "Sufi"
+        ],
+        "insular and secretive about their practices": [
+            "Bohra Muslim"
+        ],
+        "reliant on their spiritual leader (dai)": [
+            "Bohra Muslim"
+        ],
+        "conservative in social interactions": [
+            "Bohra Muslim"
+        ],
+        "resistant to interfaith marriages": [
+            "Bohra Muslim",
+            "Sikh"
+        ],
+        "focused on business and wealth": [
+            "Bohra Muslim"
+        ],
+        "too hierarchical within their community": [
+            "Bohra Muslim"
+        ],
+        "dependent on community networks for social/economic acts": [
+            "Bohra Muslim"
+        ],
+        "traditional in their dress and lifestyle": [
+            "Bohra Muslim"
+        ],
+        "dismissive of other muslim sects": [
+            "Bohra Muslim"
+        ],
+        "attached to their cultural identity": [
+            "Bohra Muslim"
+        ],
+        "resistant to modernizing their religious framework": [
+            "Bohra Muslim"
+        ],
+        "nostalgic about their history and traditions": [
+            "Bohra Muslim"
+        ],
+        "obedient to their religious hierarchy": [
+            "Bohra Muslim"
+        ],
+        "exclusive in their community dealings": [
+            "Bohra Muslim"
+        ],
+        "less involved in mainstream muslim activism": [
+            "Bohra Muslim"
+        ],
+        "focused on communal wealth and prosperity": [
+            "Bohra Muslim"
+        ],
+        "disconnected from broader muslim political movements": [
+            "Bohra Muslim"
+        ],
+        "resistant to progressive reforms within islam": [
+            "Bohra Muslim"
+        ],
+        "ritualistic in their religious practices": [
+            "Bohra Muslim"
+        ],
+        "aggressive or militant": [
+            "Sikh"
+        ],
+        "attached to physical symbols like turbans and kirpans": [
+            "Sikh"
+        ],
+        "nostalgic about their warrior history": [
+            "Sikh"
+        ],
+        "protective of their community": [
+            "Sikh"
+        ],
+        "dependent on punjabi culture and identity": [
+            "Sikh"
+        ],
+        "resistant to assimilation in non-sikh societies": [
+            "Sikh"
+        ],
+        "emotional about religious and historical issues": [
+            "Sikh"
+        ],
+        "dismissive of non-sikh practices and beliefs": [
+            "Sikh"
+        ],
+        "reliant on gurdwaras for social activities": [
+            "Sikh"
+        ],
+        "focused on justice and revenge": [
+            "Sikh"
+        ],
+        "resistant to cultural or religious change": [
+            "Sikh"
+        ],
+        "critical of non-sikh cultures": [
+            "Sikh"
+        ],
+        "focused on physical strength and martial values": [
+            "Sikh"
+        ],
+        "traditional in rural settings": [
+            "Sikh"
+        ],
+        "politically fragmented within their community": [
+            "Sikh"
+        ],
+        "reliant on charity for identity promotion": [
+            "Sikh"
+        ],
+        "dismissive of modern cosmopolitan lifestyles": [
+            "Sikh"
+        ],
+        "protective of their religious symbols": [
+            "Sikh"
+        ],
+        "resistant to integrating with broader indian society": [
+            "Sikh"
+        ],
+        "idealistic and utopian": [
+            "Bahai"
+        ],
+        "focused on global unity at the cost of cultural individuality": [
+            "Bahai"
+        ],
+        "detached from mainstream religious practices": [
+            "Bahai"
+        ],
+        "reliant on interfaith dialogue": [
+            "Bahai"
+        ],
+        "lacking a strong community identity": [
+            "Bahai"
+        ],
+        "passive and non-confrontational": [
+            "Bahai"
+        ],
+        "dependent on international organizations for recognition": [
+            "Bahai"
+        ],
+        "too detached from local cultural issues": [
+            "Bahai"
+        ],
+        "simplistic in addressing global problems": [
+            "Bahai"
+        ],
+        "critical of religious exclusivity": [
+            "Bahai"
+        ],
+        "resistant to traditional religious governance": [
+            "Bahai"
+        ],
+        "reliant on philosophical ideals over practicality": [
+            "Bahai"
+        ],
+        "lacking visibility in public discourse": [
+            "Bahai"
+        ],
+        "disconnected from grassroots movements": [
+            "Bahai"
+        ],
+        "focused on harmony at the expense of assertiveness": [
+            "Bahai"
+        ],
+        "dependent on the teachings of bah\u00e1'u'll\u00e1h": [
+            "Bahai"
+        ],
+        "focused on world peace while ignoring local issues": [
+            "Bahai"
+        ],
+        "less involved in political activism": [
+            "Bahai"
+        ],
+        "reliant on abstract spiritual principles": [
+            "Bahai"
+        ],
+        "too idealistic to address real-world conflicts effectively": [
+            "Bahai"
+        ]
+    },
+    "region": {
+        "stingy": [
+            "Gujarati"
+        ],
+        "shopkeeper": [
+            "Gujarati"
+        ],
+        "lazy": [
+            "Gujarati",
+            "Konkani",
+            "Kashmiri",
+            "Assamese"
+        ],
+        "uneducated": [
+            "Gujarati",
+            "Haryanvi",
+            "Nepali",
+            "Bhojpuri",
+            "Dogra",
+            "Bodo",
+            "Bihari",
+            "Kashmiri",
+            "Maithili",
+            "Assamese",
+            "Santhali"
+        ],
+        "show-offy": [
+            "Gujarati"
+        ],
+        "greedy": [
+            "Gujarati"
+        ],
+        "unsophisticated": [
+            "Gujarati",
+            "Haryanvi"
+        ],
+        "lack what it takes to be a scholar in any discipline": [
+            "Gujarati"
+        ],
+        "materialistic": [
+            "Gujarati"
+        ],
+        "fat": [
+            "Gujarati"
+        ],
+        "support communalism": [
+            "Gujarati"
+        ],
+        "culturally insular": [
+            "Gujarati",
+            "Nepali",
+            "Santhali",
+            "North-eastern"
+        ],
+        "obsessed with money and business": [
+            "Gujarati"
+        ],
+        "overly frugal or stingy": [
+            "Gujarati"
+        ],
+        "excessively proud of their cuisine": [
+            "Gujarati"
+        ],
+        "resistant to learning non-native languages": [
+            "Gujarati"
+        ],
+        "focused only on profit-making": [
+            "Gujarati"
+        ],
+        "overemphasis on self-promotion": [
+            "Gujarati"
+        ],
+        "always loud and boisterous": [
+            "Punjabi"
+        ],
+        "aggressive and outspoken": [
+            "Punjabi"
+        ],
+        "alcoholic": [
+            "Punjabi"
+        ],
+        "always loud and obnoxious": [
+            "Punjabi"
+        ],
+        "overly aggressive and confrontational": [
+            "Punjabi"
+        ],
+        "farmers": [
+            "Punjabi",
+            "Bihari",
+            "Maithili",
+            "Assamese"
+        ],
+        "unpadh": [
+            "Punjabi"
+        ],
+        "flashy": [
+            "Punjabi"
+        ],
+        "gundas": [
+            "Punjabi"
+        ],
+        "associated with criminal activities": [
+            "Punjabi",
+            "Haryanvi"
+        ],
+        "only good at sports": [
+            "Punjabi"
+        ],
+        "drug addicts": [
+            "Punjabi"
+        ],
+        "truck drivers": [
+            "Punjabi"
+        ],
+        "hooligans": [
+            "Punjabi",
+            "Haryanvi",
+            "Bihari",
+            "Maithili"
+        ],
+        "dont not value intellectual pursuits": [
+            "Punjabi",
+            "Haryanvi"
+        ],
+        "cocaine dealer": [
+            "Punjabi"
+        ],
+        "excessively loud and boisterous": [
+            "Punjabi",
+            "Bhojpuri"
+        ],
+        "obsessed with showing off wealth": [
+            "Punjabi"
+        ],
+        "overly flashy in lifestyle and dressing": [
+            "Punjabi"
+        ],
+        "overly aggressive or dominating": [
+            "Punjabi"
+        ],
+        "anti hindu": [
+            "Malayali"
+        ],
+        "liberals": [
+            "Malayali",
+            "Bengali"
+        ],
+        "arrogant": [
+            "Malayali",
+            "Haryanvi",
+            "Marathi"
+        ],
+        "convert hindus to islam and christianity": [
+            "Malayali"
+        ],
+        "support terrorist organizations": [
+            "Malayali"
+        ],
+        "overly proud of their language and culture": [
+            "Malayali",
+            "Kannadiga"
+        ],
+        "excessively political": [
+            "Malayali",
+            "Tamil"
+        ],
+        "argumentative and opinionated": [
+            "Malayali"
+        ],
+        "obsessed with gulf migration and remittances": [
+            "Malayali"
+        ],
+        "too focused on coconut in cuisine and lifestyle": [
+            "Malayali"
+        ],
+        "resistant to adopting other languages": [
+            "Malayali"
+        ],
+        "overly frugal or calculative": [
+            "Malayali"
+        ],
+        "lacking interest in innovation": [
+            "Malayali"
+        ],
+        "overly dependent on government jobs": [
+            "Malayali",
+            "Dogra"
+        ],
+        "dismissive of non-malayali cultures": [
+            "Malayali"
+        ],
+        "violent and orthodox": [
+            "Malayali"
+        ],
+        "resistant to cultural assimilation": [
+            "Malayali",
+            "Odia",
+            "Haryanvi",
+            "Dogra",
+            "Bodo",
+            "Kannadiga",
+            "Jharkhandi",
+            "Chhattisgarhi",
+            "Bundelkhandi"
+        ],
+        "overly reliant on the diaspora": [
+            "Malayali"
+        ],
+        "excessively bureaucratic": [
+            "Malayali"
+        ],
+        "casteist": [
+            "Tamil",
+            "Telugu",
+            "Bihari",
+            "Maithili",
+            "Kannadiga"
+        ],
+        "orthodox": [
+            "Tamil",
+            "Bhojpuri",
+            "Kashmiri"
+        ],
+        "aggressive and self centered": [
+            "Tamil"
+        ],
+        "superstitious and ritualistic": [
+            "Tamil"
+        ],
+        "heirarchical": [
+            "Tamil"
+        ],
+        "old fashioned": [
+            "Tamil",
+            "Marathi"
+        ],
+        "conservative": [
+            "Tamil",
+            "Odia",
+            "Bihari",
+            "Maithili"
+        ],
+        "unadaptable to new culture": [
+            "Tamil"
+        ],
+        "hate north indians": [
+            "Tamil",
+            "Telugu",
+            "Kannadiga"
+        ],
+        "discriminating": [
+            "Tamil",
+            "Odia"
+        ],
+        "unnecessarily proud of their language and culture": [
+            "Tamil"
+        ],
+        "limited to certain jobs or career paths, such as it or medicine": [
+            "Tamil"
+        ],
+        "overly focused on education and grades": [
+            "Tamil"
+        ],
+        "socially conservative and restrictive": [
+            "Tamil"
+        ],
+        "only being good at math and science": [
+            "Tamil"
+        ],
+        "dark-skinned people are often associated with them": [
+            "Tamil"
+        ],
+        "very loud and expressive": [
+            "Tamil"
+        ],
+        "often associated with a strict caste system": [
+            "Tamil"
+        ],
+        "vegetarians, which is not true for all": [
+            "Tamil"
+        ],
+        "hate hindi": [
+            "Tamil"
+        ],
+        "poor and backward": [
+            "Odia"
+        ],
+        "stubborn": [
+            "Odia"
+        ],
+        "hierarchical": [
+            "Odia"
+        ],
+        "insistent": [
+            "Odia"
+        ],
+        "corrupt": [
+            "Odia",
+            "Bihari",
+            "Maithili"
+        ],
+        "tribal": [
+            "Odia"
+        ],
+        "overly attached to their regional identity": [
+            "Odia"
+        ],
+        "overly reserved and introverted": [
+            "Odia",
+            "Tibetan"
+        ],
+        "less ambitious or slow-paced": [
+            "Odia"
+        ],
+        "overly dependent on agriculture": [
+            "Odia"
+        ],
+        "resistant to urbanization": [
+            "Odia",
+            "North-eastern"
+        ],
+        "too focused on traditional festivals and rituals": [
+            "Odia"
+        ],
+        "less open to modern lifestyles": [
+            "Odia"
+        ],
+        "lacking representation in national spheres": [
+            "Odia",
+            "Maithili",
+            "North-eastern",
+            "Chhattisgarhi"
+        ],
+        "overly reliant on government schemes and poor": [
+            "Odia"
+        ],
+        "less innovative or entrepreneurial": [
+            "Odia",
+            "Nepali",
+            "Santhali"
+        ],
+        "less assertive or competitive": [
+            "Odia"
+        ],
+        "rude": [
+            "Haryanvi",
+            "Marathi",
+            "Bihari",
+            "Maithili"
+        ],
+        "patriarchal": [
+            "Haryanvi",
+            "Bhojpuri"
+        ],
+        "lack sophistication": [
+            "Haryanvi"
+        ],
+        "wear ghoongat": [
+            "Haryanvi"
+        ],
+        "very much aggressive or rough": [
+            "Haryanvi"
+        ],
+        "lacking sophistication or refinement": [
+            "Haryanvi"
+        ],
+        "very much proud of physical strength": [
+            "Haryanvi"
+        ],
+        "too focused on farming and rural dominance": [
+            "Haryanvi"
+        ],
+        "patriarchal and gender-biased": [
+            "Haryanvi"
+        ],
+        "resistant to modern education": [
+            "Haryanvi"
+        ],
+        "very much loud and boisterous": [
+            "Haryanvi"
+        ],
+        "very much conservative in social norms": [
+            "Haryanvi"
+        ],
+        "dismissive of urban lifestyles": [
+            "Haryanvi"
+        ],
+        "poor": [
+            "Nepali",
+            "Bhojpuri",
+            "Manipuri",
+            "Dogra",
+            "Bihari",
+            "Maithili"
+        ],
+        "gorkha": [
+            "Nepali"
+        ],
+        "dumb and unskilled": [
+            "Nepali"
+        ],
+        "chowkidar": [
+            "Nepali"
+        ],
+        "chinky eyed": [
+            "Nepali",
+            "Assamese"
+        ],
+        "outsider": [
+            "Nepali"
+        ],
+        "security guards": [
+            "Nepali"
+        ],
+        "corona spreaders": [
+            "Nepali"
+        ],
+        "overly humble or submissive": [
+            "Nepali"
+        ],
+        "fit only for security or labor-intensive jobs": [
+            "Nepali"
+        ],
+        "overly dependent on tourism and remittances": [
+            "Nepali"
+        ],
+        "lacking ambition or drive": [
+            "Nepali"
+        ],
+        "less competitive in academic and professional fields": [
+            "Nepali"
+        ],
+        "overly reliant on manual labor": [
+            "Nepali",
+            "Bundelkhandi"
+        ],
+        "reserved or introverted": [
+            "Nepali"
+        ],
+        "resistant to urban modernization": [
+            "Nepali",
+            "Maithili"
+        ],
+        "overly focused on traditional practices": [
+            "Nepali"
+        ],
+        "villagers": [
+            "Bhojpuri",
+            "Telugu",
+            "Bihari"
+        ],
+        "eat paan": [
+            "Bhojpuri"
+        ],
+        "non-modern": [
+            "Bhojpuri"
+        ],
+        "chhapri": [
+            "Bhojpuri"
+        ],
+        "only create vulgar songs": [
+            "Bhojpuri"
+        ],
+        "overly rustic or unpolished": [
+            "Bhojpuri"
+        ],
+        "less educated or backward": [
+            "Bhojpuri"
+        ],
+        "overly reliant on manual labor jobs": [
+            "Bhojpuri"
+        ],
+        "too focused on migration for work": [
+            "Bhojpuri"
+        ],
+        "resistant to modern education and progress": [
+            "Bhojpuri",
+            "Bihari"
+        ],
+        "overly traditional and conservative": [
+            "Bhojpuri",
+            "Ladakhi"
+        ],
+        "overly attached to caste identity": [
+            "Bhojpuri"
+        ],
+        "politically opportunistic": [
+            "Bhojpuri"
+        ],
+        "overly dependent on remittances": [
+            "Bhojpuri"
+        ],
+        "lacking sophistication in lifestyle": [
+            "Bhojpuri"
+        ],
+        "chinky": [
+            "Manipuri",
+            "Bodo"
+        ],
+        "antinational": [
+            "Manipuri"
+        ],
+        "shy and timid": [
+            "Manipuri"
+        ],
+        "uncivilised": [
+            "Manipuri",
+            "Bihari",
+            "Maithili",
+            "Maithili"
+        ],
+        "backward": [
+            "Manipuri",
+            "Marathi"
+        ],
+        "nepali": [
+            "Manipuri"
+        ],
+        "eat smelly food": [
+            "Manipuri"
+        ],
+        "look chinese": [
+            "Manipuri"
+        ],
+        "eat weird worms": [
+            "Manipuri",
+            "North-eastern"
+        ],
+        "carrier of corona virus": [
+            "Manipuri"
+        ],
+        "war mongers": [
+            "Manipuri"
+        ],
+        "unsafe for women": [
+            "Manipuri"
+        ],
+        "overly reserved or introverted": [
+            "Manipuri",
+            "Konkani",
+            "North-eastern",
+            "Ladakhi",
+            "Tripuri"
+        ],
+        "too dependent on government subsidies": [
+            "Manipuri",
+            "Konkani"
+        ],
+        "culturally insular and exclusive": [
+            "Manipuri",
+            "Konkani",
+            "Ladakhi",
+            "Tripuri",
+            "Tibetan"
+        ],
+        "resistant to integration with mainstream indian culture": [
+            "Manipuri",
+            "Konkani"
+        ],
+        "overly focused on traditional dances and arts": [
+            "Manipuri",
+            "Konkani"
+        ],
+        "overly reliant on sports for recognition": [
+            "Manipuri",
+            "Konkani"
+        ],
+        "politically unstable or fragmented": [
+            "Manipuri",
+            "Konkani",
+            "Jharkhandi"
+        ],
+        "westernized": [
+            "Konkani",
+            "Bengali"
+        ],
+        "hippies": [
+            "Konkani"
+        ],
+        "indolent": [
+            "Konkani"
+        ],
+        "drunkards": [
+            "Konkani"
+        ],
+        "unskilled": [
+            "Konkani"
+        ],
+        "overly sensitive about their cultural identity": [
+            "Konkani"
+        ],
+        "disconnected from industrial and technological progress": [
+            "Konkani"
+        ],
+        "overly nostalgic about their heritage": [
+            "Konkani",
+            "Santhali",
+            "North-eastern",
+            "Ladakhi"
+        ],
+        "lacking influence in national politics": [
+            "Konkani",
+            "Himachali",
+            "Ladakhi"
+        ],
+        "overly focused on regional issues": [
+            "Konkani"
+        ],
+        "politically inactive or fragmented": [
+            "Konkani"
+        ],
+        "overly reliant on natural resources": [
+            "Konkani",
+            "Ladakhi"
+        ],
+        "loud": [
+            "Dogra"
+        ],
+        "uncultured": [
+            "Dogra"
+        ],
+        "deceitful": [
+            "Dogra"
+        ],
+        "ill-mannered": [
+            "Dogra"
+        ],
+        "un-modern": [
+            "Dogra"
+        ],
+        "overly proud of their martial heritage": [
+            "Dogra"
+        ],
+        "overly conservative and traditional": [
+            "Dogra",
+            "Maithili"
+        ],
+        "resistant to modern education and lifestyles": [
+            "Dogra"
+        ],
+        "overly attached to regional identity": [
+            "Dogra"
+        ],
+        "caste-conscious and insular": [
+            "Dogra"
+        ],
+        "overly reliant on agricultural and rural occupations": [
+            "Dogra"
+        ],
+        "politically passive outside their region": [
+            "Dogra",
+            "Ladakhi"
+        ],
+        "nostalgic about their historical significance": [
+            "Dogra"
+        ],
+        "overly rigid in social structures": [
+            "Dogra"
+        ],
+        "resistant to urbanization and industrialization": [
+            "Dogra"
+        ],
+        "resistant to inter-community relationships": [
+            "Dogra",
+            "Telugu",
+            "Marathi",
+            "Maithili",
+            "North-eastern",
+            "Jharkhandi",
+            "Ladakhi",
+            "Magadhi",
+            "Tripuri",
+            "Tibetan",
+            "Bundelkhandi"
+        ],
+        "eat biryani": [
+            "Telugu"
+        ],
+        "rowdy": [
+            "Telugu",
+            "Bodo",
+            "Marathi"
+        ],
+        "eat spicy": [
+            "Telugu"
+        ],
+        "force children to prepare for jee": [
+            "Telugu"
+        ],
+        "big nose": [
+            "Telugu"
+        ],
+        "ask lot of dowri": [
+            "Telugu"
+        ],
+        "spend lot of money for marriage": [
+            "Telugu"
+        ],
+        "liking towards unrealistic movies": [
+            "Telugu"
+        ],
+        "eat lots of meat": [
+            "Telugu"
+        ],
+        "excessively attached to film stars and cinema": [
+            "Telugu"
+        ],
+        "overly dependent on remittances from abroad": [
+            "Telugu"
+        ],
+        "dismissive of non-traditional career paths": [
+            "Telugu"
+        ],
+        "overly focused on maintaining cultural identity": [
+            "Telugu"
+        ],
+        "caste-conscious and hierarchical": [
+            "Telugu"
+        ],
+        "too reliant on agriculture and rural occupations": [
+            "Telugu"
+        ],
+        "lacking adaptability to cosmopolitan environments": [
+            "Telugu"
+        ],
+        "dangerous": [
+            "Bodo"
+        ],
+        "violent": [
+            "Bodo",
+            "Kannadiga",
+            "Assamese"
+        ],
+        "short-tempered": [
+            "Bodo"
+        ],
+        "overly insular and isolated from mainstream culture": [
+            "Bodo"
+        ],
+        "politically fragmented and unstable": [
+            "Bodo",
+            "Assamese"
+        ],
+        "overly dependent on agriculture and traditional occupations": [
+            "Bodo"
+        ],
+        "resistant to modernization and industrialization": [
+            "Bodo",
+            "Ladakhi"
+        ],
+        "overly attached to tribal identity": [
+            "Bodo",
+            "Tripuri"
+        ],
+        "lacking representation in national politics": [
+            "Bodo",
+            "Assamese",
+            "Santhali",
+            "Jharkhandi"
+        ],
+        "dependent on government aid and subsidies": [
+            "Bodo"
+        ],
+        "overly focused on ethnic pride": [
+            "Bodo"
+        ],
+        "politically militant or conflict-prone": [
+            "Bodo"
+        ],
+        "less ambitious or competitive in education": [
+            "Bodo"
+        ],
+        "overly reliant on local resources and craftsmanship": [
+            "Bodo"
+        ],
+        "disconnected from urban and global trends": [
+            "Bodo"
+        ],
+        "timid": [
+            "Marathi",
+            "Santhali"
+        ],
+        "outspoken": [
+            "Marathi"
+        ],
+        "undisciplined": [
+            "Marathi"
+        ],
+        "narrow minded": [
+            "Marathi"
+        ],
+        "ghaati": [
+            "Marathi"
+        ],
+        "jealous": [
+            "Marathi"
+        ],
+        "non-cooperative": [
+            "Marathi"
+        ],
+        "overly proud of their language and heritage": [
+            "Marathi"
+        ],
+        "politically dominant and caste-conscious": [
+            "Marathi"
+        ],
+        "overly traditional and resistant to change": [
+            "Marathi",
+            "Jharkhandi",
+            "Chhattisgarhi",
+            "Tibetan",
+            "Bundelkhandi"
+        ],
+        "focused on regional identity over national unity": [
+            "Marathi"
+        ],
+        "overly competitive in local politics": [
+            "Marathi"
+        ],
+        "emotionally attached to historical narratives": [
+            "Marathi"
+        ],
+        "overly reliant on government jobs and reservations": [
+            "Marathi"
+        ],
+        "labourer": [
+            "Bihari",
+            "Maithili"
+        ],
+        "unhygienic": [
+            "Bihari",
+            "Bengali",
+            "Maithili"
+        ],
+        "ugly": [
+            "Bihari",
+            "Maithili"
+        ],
+        "carry katta": [
+            "Bihari"
+        ],
+        "lack family planning": [
+            "Bihari"
+        ],
+        "overly rustic and unpolished": [
+            "Bihari"
+        ],
+        "overly dependent on manual labor and migration": [
+            "Bihari"
+        ],
+        "lacking cleanliness and hygiene": [
+            "Bihari"
+        ],
+        "overly caste-conscious and divided": [
+            "Bihari"
+        ],
+        "stone pelters": [
+            "Kashmiri"
+        ],
+        "racists": [
+            "Kashmiri"
+        ],
+        "trouble makers": [
+            "Kashmiri"
+        ],
+        "cunning": [
+            "Kashmiri"
+        ],
+        "pakistan supporters": [
+            "Kashmiri"
+        ],
+        "classists": [
+            "Kashmiri"
+        ],
+        "militants": [
+            "Kashmiri"
+        ],
+        "terrorists": [
+            "Kashmiri"
+        ],
+        "separatists": [
+            "Kashmiri"
+        ],
+        "carry weapon": [
+            "Kashmiri"
+        ],
+        "overly sensitive about their identity": [
+            "Kashmiri"
+        ],
+        "politically unstable or conflict-prone": [
+            "Kashmiri",
+            "North-eastern",
+            "Tripuri"
+        ],
+        "overly dependent on tourism and handicrafts": [
+            "Kashmiri"
+        ],
+        "resistant to external influences": [
+            "Kashmiri"
+        ],
+        "overly reserved or secretive": [
+            "Kashmiri"
+        ],
+        "emotionally volatile or overly sentimental": [
+            "Kashmiri"
+        ],
+        "disconnected from mainstream indian culture": [
+            "Kashmiri",
+            "Assamese",
+            "Ladakhi"
+        ],
+        "do black magic": [
+            "Bengali"
+        ],
+        "smoke a lot": [
+            "Bengali"
+        ],
+        "eat only fish": [
+            "Bengali"
+        ],
+        "overly intellectual and argumentative": [
+            "Bengali"
+        ],
+        "obsessed with art, literature, and poetry": [
+            "Bengali"
+        ],
+        "overly nostalgic about their cultural and historical legacy": [
+            "Bengali"
+        ],
+        "resistant to industrialization": [
+            "Bengali"
+        ],
+        "overly emotional and dramatic": [
+            "Bengali"
+        ],
+        "politically charged and prone to protests": [
+            "Bengali"
+        ],
+        "overly attached to traditional food and lifestyle": [
+            "Bengali"
+        ],
+        "dismissive of practicality in favor of ideology": [
+            "Bengali"
+        ],
+        "overly focused on intellectual superiority": [
+            "Bengali"
+        ],
+        "resistant to non-bengali cultures": [
+            "Bengali"
+        ],
+        "overly focused on political discussions and activism": [
+            "Bengali"
+        ],
+        "resistant to adapting to fast-paced modern lifestyles": [
+            "Bengali"
+        ],
+        "overly proud of their cuisine, especially fish and sweets": [
+            "Bengali"
+        ],
+        "overly laid-back and procrastinative": [
+            "Bengali"
+        ],
+        "overly attached to caste and community": [
+            "Maithili"
+        ],
+        "overly reliant on agriculture and rural livelihoods": [
+            "Maithili"
+        ],
+        "overly nostalgic about their language and history": [
+            "Maithili"
+        ],
+        "too modern": [
+            "Kannadiga"
+        ],
+        "laid back people": [
+            "Kannadiga"
+        ],
+        "intolerant to others": [
+            "Kannadiga"
+        ],
+        "discriminatory": [
+            "Kannadiga"
+        ],
+        "resistant to learning non-kannada languages": [
+            "Kannadiga"
+        ],
+        "overly focused on local politics and linguistic identity": [
+            "Kannadiga"
+        ],
+        "overly reliant on bengaluru for economic representation": [
+            "Kannadiga"
+        ],
+        "less assertive in national or global matters": [
+            "Kannadiga"
+        ],
+        "overly traditional and conservative in rural areas": [
+            "Kannadiga"
+        ],
+        "overly bureaucratic and slow in decision-making": [
+            "Kannadiga"
+        ],
+        "overly attached to classical art and literature": [
+            "Kannadiga"
+        ],
+        "less dynamic compared to neighboring regions": [
+            "Kannadiga"
+        ],
+        "overly passive or non-confrontational": [
+            "Kannadiga"
+        ],
+        "too focused on regional identity over national unity": [
+            "Kannadiga"
+        ],
+        "overly reliant on it and tech industries for economic growth": [
+            "Kannadiga"
+        ],
+        "superstitious": [
+            "Assamese"
+        ],
+        "people with low iq": [
+            "Assamese"
+        ],
+        "hunters": [
+            "Assamese"
+        ],
+        "support genocide of rohingyas": [
+            "Assamese"
+        ],
+        "separatist": [
+            "Assamese"
+        ],
+        "engage in witch hunting": [
+            "Assamese"
+        ],
+        "too dependent on tea and agriculture": [
+            "Assamese"
+        ],
+        "too reserved and introverted": [
+            "Assamese"
+        ],
+        "too reliant on government aid and subsidies": [
+            "Assamese"
+        ],
+        "resistant to industrialization and modernization": [
+            "Assamese",
+            "Tripuri",
+            "Tibetan",
+            "Bundelkhandi"
+        ],
+        "too nostalgic about their cultural heritage": [
+            "Assamese"
+        ],
+        "too focused on preserving traditional practices": [
+            "Assamese"
+        ],
+        "labourers": [
+            "Santhali"
+        ],
+        "hunter gatherer": [
+            "Santhali"
+        ],
+        "very slow in understanding something": [
+            "Santhali"
+        ],
+        "unemployed": [
+            "Santhali"
+        ],
+        "overly dependent on manual labor": [
+            "Santhali"
+        ],
+        "disconnected from mainstream society": [
+            "Santhali"
+        ],
+        "resistant to modernization": [
+            "Santhali",
+            "North-eastern",
+            "Jharkhandi",
+            "Magadhi",
+            "Tripuri"
+        ],
+        "overly attached to tribal traditions": [
+            "Santhali"
+        ],
+        "lacking ambition in education": [
+            "Santhali"
+        ],
+        "overly reliant on government schemes": [
+            "Santhali",
+            "Bundelkhandi"
+        ],
+        "resistant to inter-tribal collaboration": [
+            "Santhali"
+        ],
+        "resistant to urban lifestyles": [
+            "Santhali",
+            "Ladakhi"
+        ],
+        "politically passive": [
+            "Santhali"
+        ],
+        "lacking influence in broader societal issues": [
+            "Santhali"
+        ],
+        "low iq": [
+            "North-eastern"
+        ],
+        "lazy and dumb": [
+            "North-eastern"
+        ],
+        "antinationals": [
+            "North-eastern"
+        ],
+        "support communal violence": [
+            "North-eastern"
+        ],
+        "hunters and gatherers": [
+            "North-eastern"
+        ],
+        "revealing clothes": [
+            "North-eastern"
+        ],
+        "eat forbidden meat like dog and monkey": [
+            "North-eastern"
+        ],
+        "overly reliant on government subsidies": [
+            "North-eastern"
+        ],
+        "disconnected from mainstream indian identity": [
+            "North-eastern"
+        ],
+        "overly dependent on tourism and natural resources": [
+            "North-eastern"
+        ],
+        "overly sensitive about identity issues": [
+            "North-eastern"
+        ],
+        "resistant to industrialization and globalization": [
+            "North-eastern",
+            "Chhattisgarhi"
+        ],
+        "overly critical of external influences": [
+            "North-eastern"
+        ],
+        "excessively dependent on tourism": [
+            "North-eastern"
+        ],
+        "excessively simple or naive": [
+            "North-eastern"
+        ],
+        "excessively attached to rural traditions": [
+            "North-eastern"
+        ],
+        "lacking ambition in higher education": [
+            "North-eastern"
+        ],
+        "excessively reliant on agriculture and natural resources": [
+            "North-eastern"
+        ],
+        "excessively laid-back and slow-paced": [
+            "North-eastern"
+        ],
+        "excessively traditional and conservative": [
+            "North-eastern"
+        ],
+        "excessively nostalgic about their heritage": [
+            "North-eastern"
+        ],
+        "politically passive outside the region": [
+            "Himachali",
+            "Tripuri",
+            "Chhattisgarhi"
+        ],
+        "excessively dependent on government jobs": [
+            "Himachali"
+        ],
+        "disconnected from cosmopolitan lifestyles": [
+            "Himachali",
+            "Magadhi",
+            "Chhattisgarhi"
+        ],
+        "less competitive in national or global spheres": [
+            "Himachali"
+        ],
+        "resistant to industrial growth": [
+            "Himachali",
+            "Magadhi"
+        ],
+        "excessively reliant on handicrafts and local industries": [
+            "Himachali"
+        ],
+        "excessively focused on local pride": [
+            "Himachali"
+        ],
+        "excessively reserved and insular": [
+            "Himachali"
+        ],
+        "lacking ambition in entrepreneurial ventures": [
+            "Himachali"
+        ],
+        "overly reliant on mining and natural resources": [
+            "Jharkhandi"
+        ],
+        "lacking industrial innovation": [
+            "Jharkhandi"
+        ],
+        "overly divided along tribal and caste lines": [
+            "Jharkhandi"
+        ],
+        "overly dependent on government aid": [
+            "Jharkhandi"
+        ],
+        "overly nostalgic about tribal traditions": [
+            "Jharkhandi",
+            "Tripuri",
+            "Chhattisgarhi"
+        ],
+        "less competitive in education and jobs": [
+            "Jharkhandi"
+        ],
+        "overly attached to rural livelihoods": [
+            "Jharkhandi"
+        ],
+        "lacking entrepreneurial drive": [
+            "Jharkhandi"
+        ],
+        "overly dependent on ngos for development": [
+            "Jharkhandi",
+            "Tripuri"
+        ],
+        "disconnected from mainstream progress": [
+            "Jharkhandi",
+            "Magadhi"
+        ],
+        "overly focused on regional identity": [
+            "Jharkhandi"
+        ],
+        "reliant on manual labor and subsistence farming": [
+            "Jharkhandi"
+        ],
+        "overly critical of industrialization": [
+            "Jharkhandi"
+        ],
+        "politically passive on a national scale": [
+            "Jharkhandi"
+        ],
+        "overly dependent on tourism": [
+            "Ladakhi"
+        ],
+        "overly simple or naive": [
+            "Ladakhi",
+            "Tibetan"
+        ],
+        "overly dependent on crafts and handicrafts": [
+            "Ladakhi"
+        ],
+        "overly reliant on external aid and subsidies": [
+            "Ladakhi"
+        ],
+        "overly focused on local pride and customs": [
+            "Ladakhi"
+        ],
+        "less competitive in national spheres": [
+            "Ladakhi"
+        ],
+        "lacking ambition in education and professions": [
+            "Ladakhi"
+        ],
+        "disconnected from global trends": [
+            "Ladakhi",
+            "Chhattisgarhi"
+        ],
+        "overly dependent on religious institutions": [
+            "Ladakhi"
+        ],
+        "closed society": [
+            "Ladakhi"
+        ],
+        "conservative and traditional": [
+            "Magadhi"
+        ],
+        "less ambitious and slow-paced": [
+            "Magadhi"
+        ],
+        "dependent on agriculture and rural livelihoods": [
+            "Magadhi"
+        ],
+        "lacking representation in national platforms": [
+            "Magadhi",
+            "Tripuri",
+            "Bundelkhandi"
+        ],
+        "attached to caste and community identity": [
+            "Magadhi"
+        ],
+        "politically passive on a national level": [
+            "Magadhi"
+        ],
+        "reliant on government schemes": [
+            "Magadhi"
+        ],
+        "nostalgic about ancient heritage": [
+            "Magadhi"
+        ],
+        "lacking innovation or entrepreneurial spirit": [
+            "Magadhi"
+        ],
+        "focused on local issues": [
+            "Magadhi"
+        ],
+        "lacking proficiency in non-native languages": [
+            "Magadhi"
+        ],
+        "reliant on manual labor": [
+            "Magadhi"
+        ],
+        "focused on folklore and traditions": [
+            "Magadhi"
+        ],
+        "politically fragmented and divided": [
+            "Magadhi",
+            "Chhattisgarhi"
+        ],
+        "dependent on subsistence farming": [
+            "Magadhi"
+        ],
+        "overly insular and disconnected from mainstream india": [
+            "Tripuri"
+        ],
+        "overly dependent on government aid and subsidies": [
+            "Tripuri"
+        ],
+        "overly reliant on agriculture and natural resources": [
+            "Tripuri"
+        ],
+        "overly focused on preserving traditional practices": [
+            "Tripuri"
+        ],
+        "overly reliant on tourism for economic development": [
+            "Tripuri"
+        ],
+        "disconnected from urban lifestyles": [
+            "Tripuri"
+        ],
+        "lacking ambition in global industries": [
+            "Tripuri"
+        ],
+        "politically fragmented and lacking unity": [
+            "Tripuri"
+        ],
+        "overly reliant on handicrafts and small industries": [
+            "Tripuri"
+        ],
+        "overly dependent on mining and agriculture": [
+            "Chhattisgarhi"
+        ],
+        "overly attached to caste and community identity": [
+            "Chhattisgarhi"
+        ],
+        "overly reliant on government jobs and schemes": [
+            "Chhattisgarhi"
+        ],
+        "lacking ambition or innovation": [
+            "Chhattisgarhi"
+        ],
+        "overly focused on rural livelihoods": [
+            "Chhattisgarhi"
+        ],
+        "overly reliant on manual labor and traditional occupations": [
+            "Chhattisgarhi"
+        ],
+        "overly focused on folklore and rituals": [
+            "Chhattisgarhi"
+        ],
+        "less competitive in education and professions": [
+            "Chhattisgarhi",
+            "Bundelkhandi"
+        ],
+        "overly focused on regional pride": [
+            "Chhattisgarhi"
+        ],
+        "overly dependent on ngos for progress": [
+            "Chhattisgarhi"
+        ],
+        "resistant to adopting modern lifestyles": [
+            "Chhattisgarhi"
+        ],
+        "overly dependent on tourism and monasteries": [
+            "Tibetan"
+        ],
+        "overly nostalgic about their exile identity": [
+            "Tibetan"
+        ],
+        "overly focused on religious practices": [
+            "Tibetan"
+        ],
+        "politically passive or fragmented": [
+            "Tibetan"
+        ],
+        "disconnected from modern education and industries": [
+            "Tibetan"
+        ],
+        "overly reliant on foreign aid and ngos": [
+            "Tibetan"
+        ],
+        "lacking representation in broader societal platforms": [
+            "Tibetan"
+        ],
+        "overly attached to local pride": [
+            "Tibetan"
+        ],
+        "overly dependent on crafts and small trades": [
+            "Tibetan"
+        ],
+        "lacking ambition in global careers": [
+            "Tibetan"
+        ],
+        "overly critical of external cultural influences": [
+            "Tibetan"
+        ],
+        "politically subdued outside the region": [
+            "Tibetan"
+        ],
+        "overly reliant on traditional livelihoods": [
+            "Tibetan"
+        ],
+        "overly nostalgic about the pre-exile tibetan identity": [
+            "Tibetan"
+        ],
+        "overly conservative and caste-conscious": [
+            "Bundelkhandi"
+        ],
+        "overly dependent on agriculture and rural livelihoods": [
+            "Bundelkhandi"
+        ],
+        "lacking innovation or ambition": [
+            "Bundelkhandi"
+        ],
+        "politically fragmented and opportunistic": [
+            "Bundelkhandi"
+        ],
+        "overly nostalgic about historical valor": [
+            "Bundelkhandi"
+        ],
+        "overly attached to folklore and regional pride": [
+            "Bundelkhandi"
+        ],
+        "disconnected from urban lifestyles and trends": [
+            "Bundelkhandi"
+        ],
+        "overly focused on traditional roles": [
+            "Bundelkhandi"
+        ],
+        "overly nostalgic about bundeli culture": [
+            "Bundelkhandi"
+        ],
+        "lacking interest in entrepreneurial ventures": [
+            "Bundelkhandi"
+        ],
+        "overly critical of other regions' influence": [
+            "Bundelkhandi"
+        ],
+        "overly dependent on local resources": [
+            "Bundelkhandi"
+        ]
+    },
+    "tribe": {
+        "uneducated": [
+            "Tribals"
+        ],
+        "hunters": [
+            "Tribals"
+        ],
+        "dangerous": [
+            "Tribals"
+        ],
+        "militants": [
+            "Tribals"
+        ],
+        "backward and uncivilised": [
+            "Tribals"
+        ],
+        "aggressive": [
+            "Tribals"
+        ],
+        "superstitious": [
+            "Tribals",
+            "Tribals"
+        ],
+        "rebellious": [
+            "Tribals"
+        ],
+        "anti-government": [
+            "Tribals"
+        ],
+        "not worthy of white collar jobs": [
+            "Tribals"
+        ],
+        "primitive and backward": [
+            "Tribals",
+            "Chenchu"
+        ],
+        "reliant on government aid": [
+            "Tribals",
+            "Tribals"
+        ],
+        "disconnected from mainstream society": [
+            "Tribals",
+            "Chenchu"
+        ],
+        "attached to traditional practices": [
+            "Tribals",
+            "Toda"
+        ],
+        "resistant to modernization": [
+            "Tribals"
+        ],
+        "dependent on forest and natural resources": [
+            "Tribals",
+            "Warli",
+            "Ho",
+            "Munda"
+        ],
+        "less educated and unambitious": [
+            "Tribals",
+            "Tribals"
+        ],
+        "lacking representation in national politics": [
+            "Tribals",
+            "Bhil",
+            "Warli",
+            "Khasi"
+        ],
+        "politically fragmented and disorganized": [
+            "Tribals",
+            "Bhil",
+            "Chenchu",
+            "Gond",
+            "Koli",
+            "Warli",
+            "Garo",
+            "Kuki"
+        ],
+        "savage and uncultured": [
+            "Tribals"
+        ],
+        "thieves and criminal tribe": [
+            "Tribals"
+        ],
+        "childlike": [
+            "Tribals"
+        ],
+        "nomadic and unsettled": [
+            "Banjara"
+        ],
+        "unreliable or untrustworthy": [
+            "Banjara"
+        ],
+        "dependent on manual labor": [
+            "Banjara"
+        ],
+        "attached to their traditional lifestyle": [
+            "Banjara"
+        ],
+        "resistant to modernization and education": [
+            "Banjara",
+            "Koya",
+            "Garo",
+            "Munda"
+        ],
+        "insular and disconnected from mainstream society": [
+            "Banjara",
+            "Toda",
+            "Kuki",
+            "Khasi",
+            "Naga"
+        ],
+        "focused on tribal customs": [
+            "Banjara"
+        ],
+        "superstitious and unscientific": [
+            "Banjara",
+            "Chenchu",
+            "Irula",
+            "Koya",
+            "Ho",
+            "Jaintia",
+            "Oraon"
+        ],
+        "dependent on government aid and quotas": [
+            "Banjara"
+        ],
+        "less represented in skilled professions": [
+            "Banjara"
+        ],
+        "traditional in gender roles": [
+            "Banjara",
+            "Chenchu",
+            "Irula"
+        ],
+        "resistant to urbanization and modernization": [
+            "Banjara"
+        ],
+        "too reliant on seasonal labor": [
+            "Banjara"
+        ],
+        "lacking ambition for upward mobility": [
+            "Banjara"
+        ],
+        "nostalgic about their past lifestyle": [
+            "Banjara"
+        ],
+        "resistant to formal education": [
+            "Banjara",
+            "Koli",
+            "Toda",
+            "Irula"
+        ],
+        "reliant on their community network": [
+            "Banjara"
+        ],
+        "less competitive in national or global contexts": [
+            "Banjara"
+        ],
+        "culturally insular and exclusive": [
+            "Banjara",
+            "Chenchu",
+            "Gond"
+        ],
+        "dependent on traditional occupations": [
+            "Banjara"
+        ],
+        "dependent on agriculture and forests": [
+            "Bhil"
+        ],
+        "lacking education and ambition": [
+            "Bhil",
+            "Ho"
+        ],
+        "traditional and resistant to change": [
+            "Bhil",
+            "Warli",
+            "Oraon",
+            "Bhumihar"
+        ],
+        "superstitious and primitive": [
+            "Bhil"
+        ],
+        "nostalgic about their tribal customs": [
+            "Bhil"
+        ],
+        "too dependent on government schemes and reservations": [
+            "Bhil"
+        ],
+        "resistant to modern industrial jobs": [
+            "Bhil"
+        ],
+        "isolated and disconnected from urban societies": [
+            "Bhil"
+        ],
+        "reliant on manual labor": [
+            "Bhil"
+        ],
+        "less skilled in modern technologies": [
+            "Bhil"
+        ],
+        "resistant to inter-community relationships": [
+            "Bhil",
+            "Gond",
+            "Koli",
+            "Warli",
+            "Koya",
+            "Garo",
+            "Kuki",
+            "Khasi",
+            "Jaintia",
+            "Naga"
+        ],
+        "reliant on folklore and rituals": [
+            "Bhil"
+        ],
+        "lack entrepreneurial drive": [
+            "Bhil"
+        ],
+        "dependent on ngos for development": [
+            "Bhil",
+            "Ho",
+            "Khasi",
+            "Oraon"
+        ],
+        "resistant to modernization and globalization": [
+            "Bhil"
+        ],
+        "insular and exclusive": [
+            "Bhil",
+            "Garo"
+        ],
+        "focused on their tribal identity": [
+            "Bhil"
+        ],
+        "critical of urbanization": [
+            "Bhil",
+            "Ho"
+        ],
+        "dependent on forests and natural resources": [
+            "Chenchu"
+        ],
+        "resistant to formal education and modernization": [
+            "Chenchu"
+        ],
+        "reliant on government aid and schemes": [
+            "Chenchu"
+        ],
+        "attached to their traditional hunting lifestyle": [
+            "Chenchu"
+        ],
+        "lacking ambition and innovation": [
+            "Chenchu"
+        ],
+        "resistant to agricultural development": [
+            "Chenchu"
+        ],
+        "nostalgic about tribal customs": [
+            "Chenchu",
+            "Irula",
+            "Oraon"
+        ],
+        "less skilled in modern professions": [
+            "Chenchu",
+            "Gond",
+            "Koya"
+        ],
+        "focused on folklore and rituals": [
+            "Chenchu",
+            "Garo"
+        ],
+        "resistant to industrialization and urbanization": [
+            "Chenchu",
+            "Khasi"
+        ],
+        "too dependent on seasonal labor": [
+            "Chenchu"
+        ],
+        "lacking representation in national platforms": [
+            "Chenchu",
+            "Kuki",
+            "Naga"
+        ],
+        "reliant on subsistence activities": [
+            "Chenchu"
+        ],
+        "resistant to inter-community collaboration": [
+            "Chenchu",
+            "Irula",
+            "Ho",
+            "Khasi",
+            "Munda"
+        ],
+        "reliant on agriculture and forest resources": [
+            "Gond",
+            "Koya",
+            "Oraon"
+        ],
+        "primitive and superstitious": [
+            "Gond"
+        ],
+        "resistant to modernization and urbanization": [
+            "Gond"
+        ],
+        "dependent on government schemes and reservations": [
+            "Gond"
+        ],
+        "lacking ambition and education": [
+            "Gond"
+        ],
+        "traditional and resistant to societal change": [
+            "Gond"
+        ],
+        "disconnected from mainstream politics and culture": [
+            "Gond"
+        ],
+        "focused on tribal identity": [
+            "Gond"
+        ],
+        "nostalgic about tribal folklore": [
+            "Gond"
+        ],
+        "resistant to industrialization and economic diversification": [
+            "Gond"
+        ],
+        "reliant on ngos for development": [
+            "Gond",
+            "Warli",
+            "Koya",
+            "Munda"
+        ],
+        "focused on rituals and customs": [
+            "Gond"
+        ],
+        "lacking entrepreneurial spirit": [
+            "Gond",
+            "Koya",
+            "Garo",
+            "Garo",
+            "Kuki"
+        ],
+        "less competitive in education and jobs": [
+            "Gond"
+        ],
+        "resistant to global trends and modernization": [
+            "Gond"
+        ],
+        "critical of urban lifestyles and economic growth": [
+            "Gond"
+        ],
+        "reliant on fishing and coastal resources": [
+            "Koli"
+        ],
+        "uneducated and less ambitious": [
+            "Koli"
+        ],
+        "attached to traditional occupations": [
+            "Koli"
+        ],
+        "resistant to urban lifestyles": [
+            "Koli"
+        ],
+        "focused on community and caste identity": [
+            "Koli"
+        ],
+        "resistant to modernization in their fishing practices": [
+            "Koli"
+        ],
+        "dependent on seasonal labor and tourism": [
+            "Koli"
+        ],
+        "lacking representation in skilled professions": [
+            "Koli"
+        ],
+        "nostalgic about coastal traditions": [
+            "Koli"
+        ],
+        "disconnected from mainstream industrial jobs": [
+            "Koli"
+        ],
+        "less innovative in entrepreneurial ventures": [
+            "Koli"
+        ],
+        "insular and exclusive in community interactions": [
+            "Koli"
+        ],
+        "dependent on government subsidies for livelihood": [
+            "Koli"
+        ],
+        "traditional in family roles": [
+            "Koli"
+        ],
+        "less competitive in national spheres": [
+            "Koli"
+        ],
+        "reliant on folklore and customs": [
+            "Koli"
+        ],
+        "lacking adaptability to changing economic conditions": [
+            "Koli"
+        ],
+        "mere fishermen": [
+            "Koli"
+        ],
+        "low skill labourers": [
+            "Koli"
+        ],
+        "resistant to modernization and industrialization": [
+            "Toda",
+            "Kuki",
+            "Khasi",
+            "Naga"
+        ],
+        "dependent on pastoral livelihoods": [
+            "Toda"
+        ],
+        "less ambitious or slow-paced": [
+            "Toda"
+        ],
+        "nostalgic about their ancient customs": [
+            "Toda"
+        ],
+        "focused on rituals and religious ceremonies": [
+            "Toda"
+        ],
+        "disconnected from urban trends and lifestyles": [
+            "Toda"
+        ],
+        "reliant on government and ngo aid": [
+            "Toda"
+        ],
+        "lacking representation in modern professions": [
+            "Toda"
+        ],
+        "resistant to inter-community integration": [
+            "Toda"
+        ],
+        "protective of their tribal identity": [
+            "Toda",
+            "Warli",
+            "Irula",
+            "Koya",
+            "Ho",
+            "Khasi",
+            "Jaintia",
+            "Naga",
+            "Oraon"
+        ],
+        "dependent on forest resources": [
+            "Toda"
+        ],
+        "politically passive and disorganized": [
+            "Toda",
+            "Jaintia"
+        ],
+        "resistant to technological advancements": [
+            "Toda",
+            "Warli",
+            "Kuki",
+            "Khasi",
+            "Naga"
+        ],
+        "less entrepreneurial or innovative": [
+            "Toda"
+        ],
+        "critical of urbanization and industrial development": [
+            "Toda"
+        ],
+        "reliant on folklore and oral traditions": [
+            "Toda",
+            "Irula",
+            "Koya",
+            "Jaintia"
+        ],
+        "resistant to gender equality": [
+            "Toda",
+            "Koya",
+            "Ho"
+        ],
+        "simplistic lifestyle": [
+            "Toda"
+        ],
+        "dependent on agriculture and manual labor": [
+            "Warli"
+        ],
+        "attached to tribal art and folklore": [
+            "Warli"
+        ],
+        "disconnected from modern society": [
+            "Warli"
+        ],
+        "resistant to urbanization and industrialization": [
+            "Warli",
+            "Garo",
+            "Oraon"
+        ],
+        "reliant on government schemes and subsidies": [
+            "Warli"
+        ],
+        "less ambitious in education and employment": [
+            "Warli"
+        ],
+        "focused on community rituals and festivals": [
+            "Warli"
+        ],
+        "nostalgic about their tribal heritage": [
+            "Warli",
+            "Koya",
+            "Kuki",
+            "Khasi",
+            "Jaintia",
+            "Naga"
+        ],
+        "lacking entrepreneurial drive": [
+            "Warli",
+            "Irula",
+            "Munda",
+            "Naga"
+        ],
+        "less competitive in urban job markets": [
+            "Warli"
+        ],
+        "superstitious and resistant to scientific knowledge": [
+            "Warli"
+        ],
+        "reliant on subsistence farming": [
+            "Warli"
+        ],
+        "dependent on snake-catching and traditional skills": [
+            "Irula"
+        ],
+        "primitive and disconnected from modern society": [
+            "Irula"
+        ],
+        "reliant on forest resources for survival": [
+            "Irula"
+        ],
+        "lacking ambition in urban and professional settings": [
+            "Irula"
+        ],
+        "politically passive and underrepresented": [
+            "Irula",
+            "Ho",
+            "Oraon"
+        ],
+        "reliant on government aid and ngo support": [
+            "Irula"
+        ],
+        "resistant to industrialization and modernization": [
+            "Irula",
+            "Ho"
+        ],
+        "attached to their community network": [
+            "Irula"
+        ],
+        "disconnected from mainstream economic opportunities": [
+            "Irula"
+        ],
+        "focused on subsistence activities": [
+            "Irula"
+        ],
+        "less competitive in education and job markets": [
+            "Irula",
+            "Naga"
+        ],
+        "resistant to modern healthcare and science": [
+            "Irula"
+        ],
+        "attached to tribal customs and rituals": [
+            "Koya",
+            "Khasi"
+        ],
+        "politically fragmented and underrepresented": [
+            "Koya"
+        ],
+        "less ambitious in professional and urban settings": [
+            "Koya"
+        ],
+        "reliant on government welfare schemes": [
+            "Koya",
+            "Ho"
+        ],
+        "disconnected from urban lifestyles and modern technology": [
+            "Koya"
+        ],
+        "focused on community festivals and ceremonies": [
+            "Koya"
+        ],
+        "resistant to industrialization and globalization": [
+            "Koya",
+            "Jaintia"
+        ],
+        "critical of urbanization and economic growth": [
+            "Koya"
+        ],
+        "traditional in family and societal roles": [
+            "Koya"
+        ],
+        "reliant on traditional farming methods": [
+            "Garo"
+        ],
+        "attached to matrilineal traditions": [
+            "Garo",
+            "Jaintia"
+        ],
+        "disconnected from mainstream indian culture": [
+            "Garo",
+            "Jaintia"
+        ],
+        "dependent on government subsidies and ngos": [
+            "Garo"
+        ],
+        "nostalgic about their tribal identity": [
+            "Garo"
+        ],
+        "less competitive in national platforms": [
+            "Garo"
+        ],
+        "superstitious and traditional": [
+            "Garo",
+            "Munda"
+        ],
+        "less innovative in economic ventures": [
+            "Garo"
+        ],
+        "dependent on natural resources": [
+            "Garo"
+        ],
+        "lacking visibility in national politics": [
+            "Garo"
+        ],
+        "resistant to modern healthcare and technology": [
+            "Garo"
+        ],
+        "passive in addressing societal issues": [
+            "Garo"
+        ],
+        "critical of urban lifestyles and trends": [
+            "Garo",
+            "Kuki",
+            "Naga"
+        ],
+        "less competitive in education and professional fields": [
+            "Garo",
+            "Kuki",
+            "Naga"
+        ],
+        "focused on maintaining regional dominance": [
+            "Garo",
+            "Khasi",
+            "Naga"
+        ],
+        "reliant on manual labor and subsistence farming": [
+            "Ho",
+            "Oraon"
+        ],
+        "nostalgic about tribal traditions": [
+            "Ho"
+        ],
+        "insular and resistant to integration": [
+            "Ho"
+        ],
+        "lacking innovation and entrepreneurial spirit": [
+            "Ho"
+        ],
+        "focused on rituals and festivals": [
+            "Ho",
+            "Kuki",
+            "Munda"
+        ],
+        "disconnected from urban lifestyles and technologies": [
+            "Ho"
+        ],
+        "resistant to formal education and modern practices": [
+            "Ho"
+        ],
+        "fragmented in community organization": [
+            "Ho"
+        ],
+        "only reliant on folklore and oral traditions": [
+            "Ho"
+        ],
+        "focused on tribal identity and autonomy": [
+            "Kuki",
+            "Naga"
+        ],
+        "politically unstable and prone to conflict": [
+            "Kuki"
+        ],
+        "reliant on government subsidies and aid": [
+            "Kuki",
+            "Naga"
+        ],
+        "attached to tribal traditions and customs": [
+            "Kuki",
+            "Naga"
+        ],
+        "dependent on natural resources for survival": [
+            "Kuki",
+            "Jaintia",
+            "Naga"
+        ],
+        "reliant on ngos for progress": [
+            "Kuki"
+        ],
+        "focused on local disputes and issues": [
+            "Kuki"
+        ],
+        "dependent on seasonal labor": [
+            "Kuki"
+        ],
+        "protective of their community identity": [
+            "Kuki",
+            "Munda"
+        ],
+        "reliant on matrilineal traditions": [
+            "Khasi"
+        ],
+        "resistant to modernization and change": [
+            "Khasi"
+        ],
+        "dependent on agriculture and forest resources": [
+            "Khasi"
+        ],
+        "dependent on government subsidies and welfare schemes": [
+            "Khasi"
+        ],
+        "politically fragmented and passive": [
+            "Khasi"
+        ],
+        "critical of non-tribal influences": [
+            "Khasi",
+            "Jaintia",
+            "Munda"
+        ],
+        "reliant on tourism for economic growth": [
+            "Khasi"
+        ],
+        "lacking entrepreneurial innovation": [
+            "Khasi"
+        ],
+        "focused on local cultural pride": [
+            "Khasi"
+        ],
+        "reliant on rituals and religious practices": [
+            "Khasi"
+        ],
+        "politically dominant in the region but fragmented internally": [
+            "Khasi"
+        ],
+        "nostalgic about their historical identity": [
+            "Khasi"
+        ],
+        "critical of non-meitei influences": [
+            "Khasi"
+        ],
+        "focused on linguistic and cultural preservation": [
+            "Khasi"
+        ],
+        "dependent on government schemes and subsidies": [
+            "Khasi"
+        ],
+        "traditional and conservative": [
+            "Khasi"
+        ],
+        "disconnected from urban and national trends": [
+            "Khasi"
+        ],
+        "less innovative or entrepreneurial": [
+            "Khasi",
+            "Jaintia"
+        ],
+        "focused on manipuri dance and art": [
+            "Khasi"
+        ],
+        "reliant on agriculture and manual labor": [
+            "Khasi"
+        ],
+        "passive in global political engagement": [
+            "Khasi"
+        ],
+        "resistant to gender equality in some settings": [
+            "Khasi"
+        ],
+        "attached to caste-like structures": [
+            "Khasi"
+        ],
+        "reliant on agriculture and rural livelihoods": [
+            "Jaintia"
+        ],
+        "resistant to modernization and formal education": [
+            "Jaintia"
+        ],
+        "focused on community rituals and ceremonies": [
+            "Jaintia"
+        ],
+        "reliant on government aid and ngos": [
+            "Jaintia"
+        ],
+        "lacking ambition in urban job markets": [
+            "Jaintia"
+        ],
+        "focused on preserving traditional lifestyles": [
+            "Jaintia"
+        ],
+        "resistant to urbanization and technological change": [
+            "Jaintia"
+        ],
+        "detached from modern global trends": [
+            "Jaintia"
+        ],
+        "reliant on manual labor and agriculture": [
+            "Munda"
+        ],
+        "less ambitious and lacking innovation": [
+            "Munda"
+        ],
+        "disconnected from mainstream society and politics": [
+            "Munda"
+        ],
+        "reliant on government aid and reservations": [
+            "Munda"
+        ],
+        "focused on tribal identity and customs": [
+            "Munda"
+        ],
+        "nostalgic about their folklore and traditions": [
+            "Munda"
+        ],
+        "resistant to urbanization and technological advancements": [
+            "Munda"
+        ],
+        "less competitive in professional and academic fields": [
+            "Munda"
+        ],
+        "detached from industrial opportunities": [
+            "Munda"
+        ],
+        "resistant to modern healthcare and practices": [
+            "Munda"
+        ],
+        "politically fragmented and conflict-prone": [
+            "Naga"
+        ],
+        "reliant on ngos and foreign aid": [
+            "Naga"
+        ],
+        "focused on community festivals and traditions": [
+            "Naga"
+        ],
+        "politically passive outside of regional issues": [
+            "Naga"
+        ],
+        "dependent on government welfare and reservations": [
+            "Oraon"
+        ],
+        "less ambitious in education and professional fields": [
+            "Oraon"
+        ],
+        "disconnected from mainstream culture and society": [
+            "Oraon"
+        ],
+        "lacking innovation or entrepreneurial spirit": [
+            "Oraon"
+        ],
+        "focused on rituals and folklore": [
+            "Oraon"
+        ],
+        "insular and resistant to collaboration": [
+            "Oraon"
+        ],
+        "lacking visibility in national platforms": [
+            "Oraon"
+        ],
+        "fragmented in political representation": [
+            "Oraon"
+        ],
+        "nostalgic about their past lifestyles": [
+            "Oraon"
+        ],
+        "resistant to adopting modern technologies": [
+            "Oraon"
+        ],
+        "proud of their caste and status": [
+            "Bhumihar"
+        ],
+        "caste-conscious and elitist": [
+            "Bhumihar"
+        ],
+        "reliant on landownership for power": [
+            "Bhumihar"
+        ],
+        "politically opportunistic and manipulative": [
+            "Bhumihar"
+        ],
+        "focused on maintaining caste hierarchy": [
+            "Bhumihar"
+        ],
+        "resistant to inter-caste marriages and relationships": [
+            "Bhumihar"
+        ],
+        "conservative in gender roles": [
+            "Bhumihar"
+        ],
+        "dismissive of lower-caste communities": [
+            "Bhumihar"
+        ],
+        "reliant on historical narratives for identity": [
+            "Bhumihar"
+        ],
+        "resistant to social reforms and modernization": [
+            "Bhumihar"
+        ],
+        "attached to rural dominance": [
+            "Bhumihar"
+        ],
+        "critical of progressive policies like reservations": [
+            "Bhumihar"
+        ],
+        "lacking representation in cosmopolitan spheres": [
+            "Bhumihar"
+        ],
+        "competitive and dominating in local politics": [
+            "Bhumihar"
+        ],
+        "resistant to cultural assimilation": [
+            "Bhumihar"
+        ],
+        "reliant on traditional power structures": [
+            "Bhumihar"
+        ],
+        "resistant to grassroots movements and inclusivity": [
+            "Bhumihar"
+        ],
+        "focused on preserving their community pride": [
+            "Bhumihar"
+        ],
+        "dismissive of urban lifestyles and modern careers": [
+            "Bhumihar"
+        ]
+    },
+    "caste": {
+        "intolerant of others": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "hierarchical": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "casteist": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "discriminating": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "communal": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "support untouchability": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "don't support inclusivity": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "elitist": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "have superiority complex": [
+            "Brahmin",
+            "Iyyengar"
+        ],
+        "unfairly privileged": [
+            "Brahmin"
+        ],
+        "hate meat eaters": [
+            "Brahmin"
+        ],
+        "against reservation for other castes": [
+            "Brahmin"
+        ],
+        "dominate key decisions at work": [
+            "Brahmin"
+        ],
+        "rude towards other castes": [
+            "Brahmin"
+        ],
+        "don't value manual labor": [
+            "Brahmin"
+        ],
+        "patriarchal": [
+            "Brahmin"
+        ],
+        "oppressive": [
+            "Brahmin"
+        ],
+        "monopolize culture": [
+            "Brahmin"
+        ],
+        "hindutva extremists": [
+            "Brahmin"
+        ],
+        "always know the rituals": [
+            "Brahmin"
+        ],
+        "highly educated": [
+            "Brahmin"
+        ],
+        "warriors": [
+            "Maratha",
+            "Rajput"
+        ],
+        "hate muslims": [
+            "Maratha",
+            "Rajput"
+        ],
+        "hooligans": [
+            "Maratha",
+            "Rajput"
+        ],
+        "uneducated": [
+            "Maratha",
+            "Rajput"
+        ],
+        "extremists": [
+            "Maratha",
+            "Rajput"
+        ],
+        "overly aggressive behavior": [
+            "Maratha"
+        ],
+        "excessive caste pride": [
+            "Maratha"
+        ],
+        "resistance to change": [
+            "Maratha"
+        ],
+        "rural political dominance": [
+            "Maratha"
+        ],
+        "community favoritism over merit": [
+            "Maratha"
+        ],
+        "exploitative land practices": [
+            "Maratha"
+        ],
+        "opposition to marginalized reservations": [
+            "Maratha"
+        ],
+        "glorification of history over progress": [
+            "Maratha"
+        ],
+        "insularity towards outsiders": [
+            "Maratha"
+        ],
+        "violent protests for demands": [
+            "Maratha"
+        ],
+        "misuse of political influence": [
+            "Maratha"
+        ],
+        "neglect of education for power": [
+            "Maratha"
+        ],
+        "persistence of feudal traditions": [
+            "Maratha"
+        ],
+        "dismissiveness of women\u2019s rights": [
+            "Maratha"
+        ],
+        "romanticizing the past excessively": [
+            "Maratha"
+        ],
+        "dependence on quotas/subsidies": [
+            "Maratha"
+        ],
+        "arrogant": [
+            "Iyyengar"
+        ],
+        "excessive focus on ritual purity": [
+            "Iyyengar"
+        ],
+        "insular community behavior": [
+            "Iyyengar"
+        ],
+        "resistance to inter-caste marriages": [
+            "Iyyengar"
+        ],
+        "overemphasis on traditions and customs": [
+            "Iyyengar"
+        ],
+        "elitism in education and professions": [
+            "Iyyengar"
+        ],
+        "disdain for manual labor": [
+            "Iyyengar"
+        ],
+        "strongly hierarchical community dynamics": [
+            "Iyyengar"
+        ],
+        "obsession with status and prestige": [
+            "Iyyengar"
+        ],
+        "preference for conservative ideologies": [
+            "Iyyengar"
+        ],
+        "overcritical of other cultural practices": [
+            "Iyyengar"
+        ],
+        "lack of adaptability to modern changes": [
+            "Iyyengar"
+        ],
+        "excessive pride in lineage and heritage": [
+            "Rajput"
+        ],
+        "overemphasis on martial traditions": [
+            "Rajput"
+        ],
+        "resistance to modern education": [
+            "Rajput"
+        ],
+        "rigid adherence to feudal values": [
+            "Rajput"
+        ],
+        "caste exclusivity in social interactions": [
+            "Rajput"
+        ],
+        "preference for traditional gender roles": [
+            "Rajput"
+        ],
+        "romanticizes outdated practices": [
+            "Rajput"
+        ],
+        "intolerance toward inter-caste alliances": [
+            "Rajput"
+        ],
+        "resistance to industrialization": [
+            "Rajput"
+        ],
+        "over-dependence on historical narratives": [
+            "Rajput"
+        ],
+        "dominating and oppressive": [
+            "Rajput"
+        ],
+        "lack of interest in non-military careers": [
+            "Rajput"
+        ],
+        "disdain for democratic equality": [
+            "Rajput"
+        ],
+        "propensity for family and honor conflicts": [
+            "Rajput"
+        ],
+        "neglect of contemporary societal issues": [
+            "Rajput"
+        ],
+        "lower caste": [
+            "Chamar",
+            "Pasi",
+            "Bhangi",
+            "Shudra",
+            "SC/ST",
+            "Dalit"
+        ],
+        "undeserving": [
+            "Chamar",
+            "Pasi",
+            "Bhangi",
+            "Shudra",
+            "SC/ST",
+            "Dalit"
+        ],
+        "ugly and unclean": [
+            "Chamar"
+        ],
+        "don't belong in white collar jobs": [
+            "Chamar",
+            "Pasi",
+            "Bhangi",
+            "Shudra",
+            "SC/ST",
+            "Dalit"
+        ],
+        "shoe makers": [
+            "Chamar",
+            "Pasi"
+        ],
+        "untouchables": [
+            "Chamar",
+            "Pasi",
+            "Bhangi",
+            "Shudra",
+            "SC/ST",
+            "Dalit"
+        ],
+        "overemphasis on caste identity": [
+            "Chamar",
+            "Pasi"
+        ],
+        "reluctance to integrate with upper castes": [
+            "Chamar"
+        ],
+        "perceived dependence on reservations": [
+            "Chamar"
+        ],
+        "resistance to embracing modern roles": [
+            "Chamar"
+        ],
+        "over-reliance on traditional occupations": [
+            "Chamar"
+        ],
+        "lack of aspiration for higher education": [
+            "Chamar"
+        ],
+        "tendency to form insular communities": [
+            "Chamar"
+        ],
+        "overly assertive in activism": [
+            "Chamar"
+        ],
+        "dependence on government support": [
+            "Chamar"
+        ],
+        "politically radical": [
+            "Chamar"
+        ],
+        "resistant to societal hierarchy": [
+            "Chamar"
+        ],
+        "strong attachment to manual labor identity": [
+            "Chamar"
+        ],
+        "lack representation in elite professions": [
+            "Chamar"
+        ],
+        "overemphasis on caste-based rights": [
+            "Chamar"
+        ],
+        "victims in conflicts": [
+            "Chamar"
+        ],
+        "ugly": [
+            "Pasi",
+            "Shudra",
+            "SC/ST"
+        ],
+        "perceived reliance on government schemes": [
+            "Pasi"
+        ],
+        "limited aspiration for education": [
+            "Pasi"
+        ],
+        "strong association with manual labor": [
+            "Pasi"
+        ],
+        "economically disadvantaged": [
+            "Pasi",
+            "Mahar",
+            "Dhobi"
+        ],
+        "politically inactive": [
+            "Pasi",
+            "Bhangi",
+            "Dalit",
+            "Dhobi"
+        ],
+        "resistant to social integration": [
+            "Pasi"
+        ],
+        "lacking modern skillsets": [
+            "Pasi",
+            "Bhangi"
+        ],
+        "over-reliance on reservation benefits": [
+            "Pasi"
+        ],
+        "bound to traditional occupations": [
+            "Pasi",
+            "Bhangi"
+        ],
+        "considered marginalized and dependent": [
+            "Pasi"
+        ],
+        "lacking ambition": [
+            "Pasi"
+        ],
+        "culturally insular": [
+            "Pasi",
+            "Bhangi",
+            "SC/ST",
+            "Dalit",
+            "Mahar",
+            "Dhobi",
+            "Khatik",
+            "Valmiki"
+        ],
+        "passive in conflicts": [
+            "Pasi"
+        ],
+        "ugly and unhygienic": [
+            "Bhangi"
+        ],
+        "clean sewage": [
+            "Bhangi"
+        ],
+        "economically marginalized": [
+            "Bhangi",
+            "Valmiki"
+        ],
+        "reliant on government schemes": [
+            "Bhangi",
+            "Dhobi"
+        ],
+        "lack of educational inspiration": [
+            "Bhangi"
+        ],
+        "lack ambition": [
+            "Bhangi"
+        ],
+        "passive in social matters": [
+            "Bhangi"
+        ],
+        "overgeneralized as victims of oppression": [
+            "Bhangi"
+        ],
+        "considered resistant to societal integration": [
+            "Bhangi"
+        ],
+        "overly dependent on reservations": [
+            "Bhangi"
+        ],
+        "no leadership quality": [
+            "Bhangi"
+        ],
+        "resistant to urban lifestyles": [
+            "Bhangi"
+        ],
+        "economically stagnant": [
+            "Bhangi",
+            "Mahar",
+            "Dhobi",
+            "Valmiki"
+        ],
+        "craftsmen": [
+            "Shudra"
+        ],
+        "dependant on quotas": [
+            "Shudra",
+            "SC/ST",
+            "Dalit"
+        ],
+        "associated with menial labor": [
+            "Shudra"
+        ],
+        "economically and socially disadvantaged": [
+            "Shudra",
+            "SC/ST"
+        ],
+        "reliant on government reservations": [
+            "Shudra",
+            "SC/ST",
+            "Dalit",
+            "Mahar"
+        ],
+        "lacking education and ambition": [
+            "Shudra",
+            "Dalit",
+            "Khatik"
+        ],
+        "strong association with traditional caste duties": [
+            "Shudra"
+        ],
+        "resistant to upward mobility": [
+            "Shudra",
+            "SC/ST",
+            "Khatik",
+            "Valmiki"
+        ],
+        "politically inactive or underrepresented": [
+            "Shudra",
+            "Mahar",
+            "Khatik"
+        ],
+        "submissive to higher castes": [
+            "Shudra"
+        ],
+        "culturally insular and isolated": [
+            "Shudra"
+        ],
+        "lacking modern skills": [
+            "Shudra",
+            "Dhobi"
+        ],
+        "over-reliance on caste-based affirmative action": [
+            "Shudra"
+        ],
+        "hesitant to adopt urban lifestyles": [
+            "Shudra",
+            "SC/ST"
+        ],
+        "perpetually tied to rural livelihoods": [
+            "Shudra"
+        ],
+        "unworthy of jobs": [
+            "SC/ST"
+        ],
+        "criminals": [
+            "SC/ST",
+            "Dalit"
+        ],
+        "unsophisticated": [
+            "SC/ST"
+        ],
+        "doesn't belong in white collar jobs": [
+            "SC/ST"
+        ],
+        "lacking ambition or initiative": [
+            "SC/ST"
+        ],
+        "associated with traditional or menial labor": [
+            "SC/ST"
+        ],
+        "overly dependent on subsidies": [
+            "SC/ST",
+            "Mahar"
+        ],
+        "politically passive or inactive": [
+            "SC/ST"
+        ],
+        "lacking modern education and skills": [
+            "SC/ST"
+        ],
+        "over-reliance on affirmative action policies": [
+            "SC/ST",
+            "Dalit",
+            "Mahar"
+        ],
+        "ugly and dirty": [
+            "Dalit"
+        ],
+        "only do blue collar jobs": [
+            "Dalit"
+        ],
+        "economically and socially marginalized": [
+            "Dalit",
+            "Khatik"
+        ],
+        "associated with manual and menial labor": [
+            "Dalit"
+        ],
+        "dependent on government subsidies": [
+            "Dalit"
+        ],
+        "resistant to societal integration": [
+            "Dalit",
+            "Mahar",
+            "Valmiki"
+        ],
+        "perpetually tied to traditional roles": [
+            "Dalit"
+        ],
+        "victims without agency": [
+            "Dalit",
+            "Mahar",
+            "Dhobi",
+            "Khatik"
+        ],
+        "hesitant to adopt modern lifestyles": [
+            "Dalit",
+            "Mahar"
+        ],
+        "no leadership qualities": [
+            "Dalit",
+            "Mahar"
+        ],
+        "associated with menial or military roles": [
+            "Mahar"
+        ],
+        "focused on caste identity": [
+            "Mahar"
+        ],
+        "tied to traditional occupations": [
+            "Mahar"
+        ],
+        "lacking ambition for upward mobility": [
+            "Mahar"
+        ],
+        "associated with rural livelihoods": [
+            "Mahar"
+        ],
+        "resistant to breaking caste barriers": [
+            "Mahar"
+        ],
+        "submissive to upper castes": [
+            "Mahar"
+        ],
+        "lacking innovation": [
+            "Mahar"
+        ],
+        "perpetually tied to marginalized status": [
+            "Mahar"
+        ],
+        "obsessed with wealth and profit": [
+            "Vaishya",
+            "Baniya"
+        ],
+        "overly materialistic": [
+            "Vaishya"
+        ],
+        "socially and culturally aloof": [
+            "Vaishya"
+        ],
+        "exploitative in business": [
+            "Vaishya"
+        ],
+        "prioritizing economic gains over ethics": [
+            "Vaishya"
+        ],
+        "reluctant to engage in non-commercial professions": [
+            "Vaishya"
+        ],
+        "overly conservative": [
+            "Vaishya"
+        ],
+        "associated with maintaining caste exclusivity": [
+            "Vaishya",
+            "Kshatriya"
+        ],
+        "politically passive": [
+            "Vaishya"
+        ],
+        "resistant to social reform": [
+            "Vaishya"
+        ],
+        "overly calculative": [
+            "Vaishya"
+        ],
+        "disconnected from rural issues": [
+            "Vaishya"
+        ],
+        "resistant to manual labor": [
+            "Vaishya"
+        ],
+        "overly reliant on trade and commerce": [
+            "Vaishya"
+        ],
+        "risk-averse in innovation": [
+            "Vaishya"
+        ],
+        "uninterested in public welfare": [
+            "Vaishya"
+        ],
+        "focused solely on family wealth": [
+            "Vaishya"
+        ],
+        "lacking military or artistic contributions": [
+            "Vaishya",
+            "Baniya"
+        ],
+        "status-conscious": [
+            "Vaishya"
+        ],
+        "resistant to inter-caste interactions": [
+            "Vaishya"
+        ],
+        "overly ambitious and power-hungry": [
+            "Kayastha"
+        ],
+        "excessively bureaucratic": [
+            "Kayastha"
+        ],
+        "opportunistic in career pursuits": [
+            "Kayastha"
+        ],
+        "overly status-conscious": [
+            "Kayastha",
+            "Baniya"
+        ],
+        "associated with intellectual elitism": [
+            "Kayastha"
+        ],
+        "overly calculative and shrewd": [
+            "Kayastha",
+            "Baniya"
+        ],
+        "prioritizing personal gain over community welfare": [
+            "Kayastha",
+            "Baniya"
+        ],
+        "resistant to manual or physical labor": [
+            "Kayastha"
+        ],
+        "overly reliant on education and clerical roles": [
+            "Kayastha"
+        ],
+        "conservative in family values": [
+            "Kayastha"
+        ],
+        "socially aloof": [
+            "Kayastha"
+        ],
+        "resistant to cultural assimilation": [
+            "Kayastha"
+        ],
+        "lacking interest in agricultural or industrial work": [
+            "Kayastha"
+        ],
+        "associated with rigid adherence to tradition": [
+            "Kayastha"
+        ],
+        "overly dependent on historical prestige": [
+            "Kayastha",
+            "Thakur"
+        ],
+        "politically manipulative": [
+            "Kayastha",
+            "Jat"
+        ],
+        "resistant to grassroots activism": [
+            "Kayastha"
+        ],
+        "disconnected from rural communities": [
+            "Kayastha"
+        ],
+        "self-serving in social initiatives": [
+            "Kayastha"
+        ],
+        "excessively focused on material success": [
+            "Kayastha"
+        ],
+        "associated with menial laundry work": [
+            "Dhobi"
+        ],
+        "overly dependent on traditional occupations": [
+            "Dhobi"
+        ],
+        "lacking ambition or education": [
+            "Dhobi",
+            "Valmiki"
+        ],
+        "resistant to societal progress": [
+            "Dhobi"
+        ],
+        "hesitant to adopt modern professions": [
+            "Dhobi"
+        ],
+        "associated with rural and marginalized communities": [
+            "Dhobi",
+            "Khatik"
+        ],
+        "resistant to inter-caste integration": [
+            "Dhobi",
+            "OBC"
+        ],
+        "overly reliant on quotas": [
+            "Dhobi"
+        ],
+        "submissive to societal hierarchies": [
+            "Dhobi"
+        ],
+        "tied to historical occupational roles": [
+            "Dhobi"
+        ],
+        "associated with low socio-economic status": [
+            "Dhobi"
+        ],
+        "lacking innovation or progressiveness": [
+            "Dhobi"
+        ],
+        "disconnected from urban opportunities": [
+            "Dhobi"
+        ],
+        "overly aggressive or dominant": [
+            "Jat"
+        ],
+        "resistant to education and intellectual pursuits": [
+            "Jat"
+        ],
+        "overly focused on agriculture and landownership": [
+            "Jat"
+        ],
+        "caste-conscious and insular": [
+            "Jat",
+            "Thakur",
+            "Reddy"
+        ],
+        "associated with feudal and patriarchal values": [
+            "Jat"
+        ],
+        "resistant to modern reforms": [
+            "Jat"
+        ],
+        "prioritizing community interests over merit": [
+            "Jat"
+        ],
+        "dismissive of urban lifestyles": [
+            "Jat"
+        ],
+        "excessively proud of their heritage": [
+            "Jat"
+        ],
+        "resistant to inter-caste marriages": [
+            "Jat",
+            "Reddy"
+        ],
+        "overly reliant on quotas and subsidies": [
+            "Jat"
+        ],
+        "associated with traditional rural dominance": [
+            "Jat"
+        ],
+        "dismissive of marginalized groups": [
+            "Jat"
+        ],
+        "overly competitive and confrontational": [
+            "Jat"
+        ],
+        "neglecting women's rights": [
+            "Jat"
+        ],
+        "economically conservative and risk-averse": [
+            "Jat",
+            "Thakur",
+            "Reddy"
+        ],
+        "reluctant to embrace industrialization": [
+            "Jat"
+        ],
+        "overly involved in local power dynamics": [
+            "Jat"
+        ],
+        "resistant to cultural or social change": [
+            "Jat"
+        ],
+        "overly focused on religious identity": [
+            "Lingayat"
+        ],
+        "insular and caste-conscious despite anti-caste roots": [
+            "Lingayat"
+        ],
+        "politically dominant in specific regions": [
+            "Lingayat"
+        ],
+        "prioritizing community benefits over inclusivity": [
+            "Lingayat"
+        ],
+        "resistant to interfaith or inter-caste marriages": [
+            "Lingayat"
+        ],
+        "overly conservative in traditions": [
+            "Lingayat"
+        ],
+        "excessively reliant on religious leaders": [
+            "Lingayat"
+        ],
+        "associated with regional political influence": [
+            "Lingayat"
+        ],
+        "resistant to modern societal changes": [
+            "Lingayat"
+        ],
+        "economically focused on agrarian practices": [
+            "Lingayat"
+        ],
+        "politically competitive and self-serving": [
+            "Lingayat"
+        ],
+        "prioritizing community welfare over broader society": [
+            "Lingayat"
+        ],
+        "disconnected from urbanization and industrialization": [
+            "Lingayat"
+        ],
+        "rigid in religious practices": [
+            "Lingayat"
+        ],
+        "dismissive of other cultural or religious practices": [
+            "Lingayat"
+        ],
+        "overly dependent on historical narratives": [
+            "Lingayat"
+        ],
+        "resistant to globalization or external influences": [
+            "Lingayat"
+        ],
+        "politically fragmented within their own community": [
+            "Lingayat"
+        ],
+        "overly focused on maintaining cultural identity": [
+            "Lingayat"
+        ],
+        "hesitant to adopt progressive reforms": [
+            "Lingayat"
+        ],
+        "overly proud of martial heritage": [
+            "Kshatriya"
+        ],
+        "aggressive and domineering": [
+            "Kshatriya"
+        ],
+        "resistant to modern professions outside of traditional roles": [
+            "Kshatriya"
+        ],
+        "associated with feudal and hierarchical values": [
+            "Kshatriya"
+        ],
+        "dismissive of lower castes": [
+            "Kshatriya",
+            "Thakur",
+            "Reddy"
+        ],
+        "overly focused on honor and family pride": [
+            "Kshatriya"
+        ],
+        "resistant to progressive social reforms": [
+            "Kshatriya",
+            "Baniya"
+        ],
+        "politically and socially conservative": [
+            "Kshatriya"
+        ],
+        "prioritizing tradition over innovation": [
+            "Kshatriya"
+        ],
+        "being patriarchal and gender-biased": [
+            "Kshatriya"
+        ],
+        "overly focused on ceremonial practices": [
+            "Kshatriya"
+        ],
+        "disconnected from grassroots issues": [
+            "Kshatriya"
+        ],
+        "resistant to inter-caste relationships": [
+            "Kshatriya",
+            "Thakur"
+        ],
+        "elitist and hierarchical": [
+            "Kshatriya"
+        ],
+        "overly reliant on historical narratives of power": [
+            "Kshatriya"
+        ],
+        "reluctant to adopt urban lifestyles": [
+            "Kshatriya"
+        ],
+        "overly protective of their social status": [
+            "Kshatriya"
+        ],
+        "lacking adaptability to modern challenges": [
+            "Kshatriya"
+        ],
+        "overly competitive in rural political dynamics": [
+            "Kshatriya"
+        ],
+        "overly reliant on reservations": [
+            "OBC"
+        ],
+        "lacking merit in education and jobs": [
+            "OBC"
+        ],
+        "economically dependent on government schemes": [
+            "OBC"
+        ],
+        "associated with caste-based political mobilization": [
+            "OBC"
+        ],
+        "lacking urban or modern aspirations": [
+            "OBC"
+        ],
+        "socially conservative": [
+            "OBC"
+        ],
+        "reluctant to embrace progressive reforms": [
+            "OBC"
+        ],
+        "overly focused on caste identity": [
+            "OBC",
+            "Khatik",
+            "Valmiki"
+        ],
+        "associated with traditional and agrarian occupations": [
+            "OBC"
+        ],
+        "politically fragmented": [
+            "OBC"
+        ],
+        "overly dependent on affirmative action policies": [
+            "OBC"
+        ],
+        "underrepresented in elite professions": [
+            "OBC"
+        ],
+        "hesitant to adopt industrial or technological roles": [
+            "OBC"
+        ],
+        "resistant to social and cultural change": [
+            "OBC"
+        ],
+        "lacking innovation and enterprise": [
+            "OBC"
+        ],
+        "passive in societal issues": [
+            "OBC"
+        ],
+        "associated with rural dominance in some regions": [
+            "OBC"
+        ],
+        "politically opportunistic": [
+            "OBC",
+            "Reddy"
+        ],
+        "economically stagnant in some areas": [
+            "OBC"
+        ],
+        "associated with traditional occupations in meat and hides": [
+            "Khatik"
+        ],
+        "overly reliant on government reservations": [
+            "Khatik",
+            "Valmiki"
+        ],
+        "tied to caste-based occupations": [
+            "Khatik"
+        ],
+        "overly dependent on subsidies and government aid": [
+            "Khatik"
+        ],
+        "resistant to adopting modern professions": [
+            "Khatik"
+        ],
+        "lacking innovation and adaptability": [
+            "Khatik",
+            "Thakur"
+        ],
+        "hesitant to break caste barriers": [
+            "Khatik"
+        ],
+        "disconnected from urban lifestyles and opportunities": [
+            "Khatik"
+        ],
+        "associated with manual labor and traditional work": [
+            "Khatik"
+        ],
+        "lacking in technological or industrial skills": [
+            "Khatik"
+        ],
+        "conservative in social reforms": [
+            "Khatik"
+        ],
+        "economically stagnant and reliant on traditional roles": [
+            "Khatik"
+        ],
+        "excessively materialistic": [
+            "Baniya"
+        ],
+        "exploitative in business practices": [
+            "Baniya"
+        ],
+        "associated with a lack of interest in non-commercial professions": [
+            "Baniya"
+        ],
+        "conservative and risk-averse": [
+            "Baniya"
+        ],
+        "socially aloof and insular": [
+            "Baniya"
+        ],
+        "disconnected from grassroots and rural issues": [
+            "Baniya"
+        ],
+        "reluctant to engage in physical or manual labor": [
+            "Baniya"
+        ],
+        "associated with maintaining strict caste exclusivity": [
+            "Baniya"
+        ],
+        "politically inactive or indifferent": [
+            "Baniya"
+        ],
+        "overly dependent on traditional commerce": [
+            "Baniya"
+        ],
+        "excessively focused on family wealth and legacy": [
+            "Baniya"
+        ],
+        "indifferent to public welfare initiatives": [
+            "Baniya"
+        ],
+        "disconnected from non-economic cultural activities": [
+            "Baniya"
+        ],
+        "resistant to inter-caste relationships and assimilation": [
+            "Baniya"
+        ],
+        "overly proud of their heritage": [
+            "Thakur"
+        ],
+        "feudal and authoritarian": [
+            "Thakur"
+        ],
+        "resistant to progressive reforms": [
+            "Thakur",
+            "Reddy"
+        ],
+        "associated with rural dominance and landownership": [
+            "Thakur"
+        ],
+        "patriarchal and gender-biased": [
+            "Thakur"
+        ],
+        "overly focused on status and honor": [
+            "Thakur"
+        ],
+        "politically manipulative in rural areas": [
+            "Thakur"
+        ],
+        "associated with traditional roles over modern professions": [
+            "Thakur"
+        ],
+        "disconnected from urban lifestyles": [
+            "Thakur"
+        ],
+        "resistant to breaking caste hierarchies": [
+            "Thakur"
+        ],
+        "overly protective of their caste identity": [
+            "Thakur"
+        ],
+        "conservative in cultural and social views": [
+            "Thakur"
+        ],
+        "prioritizing community interests over inclusivity": [
+            "Thakur"
+        ],
+        "associated with ceremonial practices over practical progress": [
+            "Thakur"
+        ],
+        "politically dominant in regional politics": [
+            "Reddy"
+        ],
+        "feudal and landowning elites": [
+            "Reddy"
+        ],
+        "resistant to modern professions outside of agriculture": [
+            "Reddy"
+        ],
+        "associated with rural dominance and traditional power structures": [
+            "Reddy"
+        ],
+        "patriarchal and conservative": [
+            "Reddy"
+        ],
+        "overly focused on family prestige and status": [
+            "Reddy"
+        ],
+        "overly reliant on historical landownership": [
+            "Reddy"
+        ],
+        "associated with maintaining caste-based hierarchies": [
+            "Reddy"
+        ],
+        "lacking innovation and entrepreneurial spirit": [
+            "Reddy"
+        ],
+        "hesitant to adopt urban or industrial roles": [
+            "Reddy"
+        ],
+        "overly dependent on traditional agrarian practices": [
+            "Reddy"
+        ],
+        "prioritizing community over inclusivity": [
+            "Reddy"
+        ],
+        "disconnected from grassroots societal issues": [
+            "Reddy"
+        ],
+        "associated with ceremonial pride over practical development": [
+            "Reddy"
+        ],
+        "associated with traditional sanitation work": [
+            "Valmiki"
+        ],
+        "associated with low-status occupations": [
+            "Valmiki"
+        ],
+        "politically underrepresented": [
+            "Valmiki"
+        ],
+        "dependent on subsidies and government aid": [
+            "Valmiki"
+        ],
+        "lacks modern skills or adaptability": [
+            "Valmiki"
+        ],
+        "hesitant to adopt urban professions": [
+            "Valmiki"
+        ],
+        "victims without self-agency": [
+            "Valmiki"
+        ],
+        "disconnected from mainstream opportunities": [
+            "Valmiki"
+        ],
+        "associated with manual labor and physical work": [
+            "Valmiki"
+        ],
+        "hesitant to break caste hierarchies": [
+            "Valmiki"
+        ],
+        "passive in social progress": [
+            "Valmiki"
+        ],
+        "overly reliant on historical occupational roles": [
+            "Valmiki"
+        ]
+    }
+}
