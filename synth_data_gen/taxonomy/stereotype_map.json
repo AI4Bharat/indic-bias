@@ -1,0 +1,2775 @@
+{
+    "religion": {
+        "Hindu": {
+            "political and societal engagement": [
+                "intolerant of other religions",
+                "hate muslims",
+                "andhbhakt",
+                "extremist",
+                "dismissive of other religions"
+            ],
+            "social and cultural identities": [
+                "violent",
+                "casteist",
+                "practice untouchability",
+                "obsessed with caste and hierarchy"
+            ],
+            "practices and beliefs": [
+                "drink cow urine",
+                "do black magic",
+                "purists",
+                "ritualistic",
+                "superstitious and irrational",
+                "too focused on vegetarianism",
+                "attached to mythology",
+                "blindly influenced by religious leaders",
+                "human marry animals"
+            ],
+            "social change and progressiveness": [
+                "backward",
+                "traditional and resistant to change"
+            ],
+            "gender and family norms": [
+                "patriarchal"
+            ]
+        },
+        "Muslim": {
+            "political and societal engagement": [
+                "support terrorism",
+                "intolerant of other religions",
+                "antinationals",
+                "convert other people without consent",
+                "aginst secularism",
+                "dependent on religious texts for governance"
+            ],
+            "social and cultural identities": [
+                "vandalisers",
+                "violent",
+                "carry weapons",
+                "less open to diversity within their community"
+            ],
+            "gender and family norms": [
+                "misogynestic",
+                "opress women",
+                "promotes honor killings",
+                "support child marriage",
+                "oppress women (duplicate)",
+                "promotes honor killings (duplicate)"
+            ],
+            "social change and progressiveness": [
+                "anti education",
+                "resistant to integration in non-muslim societies",
+                "resistant to modernization and industrialization"
+            ],
+            "practices and beliefs": [
+                "rigid in religious practices",
+                "sensitive towards food norms",
+                "only focuses on islamic law",
+                "over sensitive towards religion"
+            ]
+        },
+        "Christian": {
+            "practices and beliefs": [
+                "convert other people without consent",
+                "not very spiritual",
+                "obsessed with charity for religious purposes",
+                "focused on sunday rituals",
+                "attached to church hierarchy",
+                "reliant on the bible for morality",
+                "emotional blackmail to recite prayers",
+                "cannibalism"
+            ],
+            "social and cultural identities": [
+                "alcoholic",
+                "elitist",
+                "betraying others by acting kind",
+                "overly capitalistic",
+                "judgemental"
+            ],
+            "gender and family norms": [
+                "homophobic",
+                "conservative in family values"
+            ],
+            "political and societal engagement": [
+                "intolerant of non-christian practices",
+                "judgmental of other religions",
+                "resistant to non-religious governance",
+                "focused on moral policing",
+                "dismissive of atheism and agnosticism",
+                "killing non chiristians",
+                "trying to destroy indian culture",
+                "killing non-chiristians (duplicate)"
+            ],
+            "social change and progressiveness": [
+                "critical of modern lifestyle changes"
+            ]
+        },
+        "Jain": {
+            "practices and beliefs": [
+                "rigid",
+                "monks",
+                "practice veganism",
+                "excessively obsessed with non-violence (ahimsa)",
+                "restrictive in dietary practices",
+                "ritualistic despite claiming detachment from materialism",
+                "judgmental of those who don't follow jain practices",
+                "excessively attached to austerity and renunciation",
+                "critical of meat-eating cultures"
+            ],
+            "social and cultural identities": [
+                "timid",
+                "frugal or miserly",
+                "detached from mainstream social issues",
+                "focused on wealth accumulation",
+                "focused on business and trade professions",
+                "insular and exclusive within their community",
+                "elitist in their community interactions"
+            ],
+            "political and societal engagement": [
+                "dismissive of other religious practices",
+                "detached from mainstream politics"
+            ],
+            "gender and family norms": [
+                "conservative in family and social norms"
+            ],
+            "social change and progressiveness": [
+                "lacking interest in creative or non-commercial fields"
+            ]
+        },
+        "Buddhist": {
+            "social and cultural identities": [
+                "lower caste",
+                "tribals",
+                "passive and disengaged",
+                "disconnected from societal issues",
+                "inward-looking and self-focused"
+            ],
+            "social change and progressiveness": [
+                "resistant to material success",
+                "too idealistic and impractical in modern contexts",
+                "resistant to modernization and industrialization",
+                "less innovative or entrepreneurial",
+                "resistant to cultural assimilation"
+            ],
+            "practices and beliefs": [
+                "focused on meditation and detachment",
+                "ritualistic despite claims of simplicity",
+                "reliant on monastic traditions",
+                "nostalgic about ancient teachings",
+                "reliant on non-violence in conflict situations",
+                "focused on suffering and detachment",
+                "reliant on spiritual leaders"
+            ],
+            "political and societal engagement": [
+                "detached from political engagement",
+                "dismissive of other religious practices",
+                "lacking representation in national governance"
+            ]
+        },
+        "Parsi": {
+            "practices and beliefs": [
+                "have weird rituals",
+                "focused on preserving their religion"
+            ],
+            "social and cultural identities": [
+                "immigrants",
+                "insular and exclusive",
+                "nostalgic about their historical significance",
+                "affluent and privileged",
+                "dependent on business and trade professions",
+                "reliant on philanthropy for recognition",
+                "disconnected from mainstream societal issues",
+                "elitist and focused on their legacy",
+                "dependent on their historical achievements",
+                "less visible in contemporary cultural discourse"
+            ],
+            "gender and family norms": [
+                "resistant to inter-community marriages",
+                "conservative in family values"
+            ],
+            "social change and progressiveness": [
+                "attached to dying traditions",
+                "dismissive of modern trends and practices",
+                "resistant to population growth within their community",
+                "resistant to cultural assimilation",
+                "resistant to change and modernization"
+            ],
+            "political and societal engagement": [
+                "critical of other communities"
+            ]
+        },
+        "Shia": {
+            "practices and beliefs": [
+                "focused on mourning rituals like ashura",
+                "excessively emotional in their religious practices",
+                "dependent on clerics and ayatollahs",
+                "attached to rituals and symbolism",
+                "focused on the martyrdom of religious figures",
+                "secretive in their practices",
+                "reliant on pilgrimages for spirituality"
+            ],
+            "political and societal engagement": [
+                "resistant to unity with other muslim sects",
+                "focused on historical grievances",
+                "politically divisive within the muslim community",
+                "resistant to mainstream sunni practices",
+                "influenced by iranian culture and politics",
+                "politically radical or sectarian",
+                "critical of sunni traditions",
+                "focused on religious identity over national unity",
+                "fragmented and divided internally",
+                "politically passive outside of sectarian issues"
+            ],
+            "gender and family norms": [
+                "excessively conservative in social norms"
+            ],
+            "social and cultural identities": [
+                "less inclusive within the broader islamic community"
+            ],
+            "social change and progressiveness": [
+                "resistant to modernization within their religious framework"
+            ]
+        },
+        "Sunni": {
+            "practices and beliefs": [
+                "rigid in religious interpretations",
+                "focused on orthodoxy and literalism",
+                "dependent on religious scholars for decision-making",
+                "strict in dietary and dress codes"
+            ],
+            "gender and family norms": [
+                "conservative in gender roles",
+                "resistant to feminist movements within islam"
+            ],
+            "political and societal engagement": [
+                "dismissive of minority sects like shias",
+                "resistant to interfaith dialogue",
+                "reliant on religious texts for governance",
+                "politically dominant within the muslim world",
+                "critical of liberal interpretations of islam",
+                "dismissive of sufi practices",
+                "focused on unity at the cost of individuality",
+                "critical of western influence in islamic societies",
+                "politically opportunistic within global muslim dynamics",
+                "focused on power and dominance in islamic history"
+            ],
+            "social change and progressiveness": [
+                "resistant to modern scientific perspectives",
+                "resistant to cultural assimilation",
+                "dismissive of progressive reforms in religion"
+            ],
+            "social and cultural identities": [
+                "intolerant towards cultural diversity within islam"
+            ]
+        },
+        "Sufi": {
+            "social and cultural identities": [
+                "mystical and impractical",
+                "disconnected from mainstream islam",
+                "passive and detached from worldly issues",
+                "detached from modern challenges faced by muslims",
+                "isolated within the broader muslim community"
+            ],
+            "practices and beliefs": [
+                "focused on poetry and music",
+                "resistant to orthodox islamic practices",
+                "reliant on spiritual leaders and saints",
+                "indulgent in rituals and symbolism",
+                "dismissive of religious texts and rules",
+                "focused on personal spirituality",
+                "nostalgic about historical mysticism",
+                "dependent on shrine culture",
+                "liberal in their interpretation of islam",
+                "influenced by non-islamic spiritual practices",
+                "dismissive of conservative interpretations of islam",
+                "focused on divine love and spiritual ecstasy"
+            ],
+            "social change and progressiveness": [
+                "too idealistic in their view of the world"
+            ],
+            "political and societal engagement": [
+                "resistant to political engagement",
+                "resistant to unity within islam"
+            ]
+        },
+        "Bohra Muslim": {
+            "practices and beliefs": [
+                "insular and secretive about their practices",
+                "reliant on their spiritual leader (dai)",
+                "nostalgic about their history and traditions",
+                "obedient to their religious hierarchy",
+                "ritualistic in their religious practices"
+            ],
+            "gender and family norms": [
+                "conservative in social interactions",
+                "resistant to interfaith marriages"
+            ],
+            "social and cultural identities": [
+                "focused on business and wealth",
+                "too hierarchical within their community",
+                "dependent on community networks for social/economic acts",
+                "traditional in their dress and lifestyle",
+                "attached to their cultural identity",
+                "less inclusive within the broader islamic community",
+                "exclusive in their community dealings",
+                "focused on communal wealth and prosperity"
+            ],
+            "political and societal engagement": [
+                "dismissive of other muslim sects",
+                "less involved in mainstream muslim activism",
+                "disconnected from broader muslim political movements"
+            ],
+            "social change and progressiveness": [
+                "resistant to modernizing their religious framework",
+                "resistant to progressive reforms within islam"
+            ]
+        },
+        "Sikh": {
+            "social and cultural identities": [
+                "aggressive or militant",
+                "nostalgic about their warrior history",
+                "protective of their community",
+                "dependent on punjabi culture and identity",
+                "emotional about religious and historical issues",
+                "focused on physical strength and martial values",
+                "traditional in rural settings",
+                "reliant on charity for identity promotion"
+            ],
+            "practices and beliefs": [
+                "attached to physical symbols like turbans and kirpans",
+                "reliant on gurdwaras for social activities",
+                "protective of their religious symbols"
+            ],
+            "gender and family norms": [
+                "resistant to interfaith marriages"
+            ],
+            "social change and progressiveness": [
+                "resistant to assimilation in non-sikh societies",
+                "resistant to cultural or religious change",
+                "dismissive of modern cosmopolitan lifestyles",
+                "resistant to integrating with broader indian society"
+            ],
+            "political and societal engagement": [
+                "dismissive of non-sikh practices and beliefs",
+                "focused on justice and revenge",
+                "critical of non-sikh cultures",
+                "politically fragmented within their community"
+            ]
+        },
+        "Bahai": {
+            "social and cultural identities": [
+                "idealistic and utopian",
+                "lacking a strong community identity",
+                "passive and non-confrontational",
+                "too detached from local cultural issues",
+                "lacking visibility in public discourse",
+                "disconnected from grassroots movements"
+            ],
+            "social change and progressiveness": [
+                "focused on global unity at the cost of cultural individuality",
+                "simplistic in addressing global problems",
+                "focused on harmony at the expense of assertiveness",
+                "focused on world peace while ignoring local issues",
+                "too idealistic to address real-world conflicts effectively"
+            ],
+            "practices and beliefs": [
+                "detached from mainstream religious practices",
+                "resistant to traditional religious governance",
+                "reliant on philosophical ideals over practicality",
+                "dependent on the teachings of bah\u00e1'u'll\u00e1h",
+                "reliant on abstract spiritual principles"
+            ],
+            "political and societal engagement": [
+                "reliant on interfaith dialogue",
+                "dependent on international organizations for recognition",
+                "critical of religious exclusivity",
+                "less involved in political activism"
+            ]
+        }
+    },
+    "region": {
+        "Gujarati": {
+            "personality, physical appearance and behaviour": [
+                "stingy",
+                "lazy",
+                "greedy",
+                "fat",
+                "overly frugal or stingy"
+            ],
+            "economic roles and class": [
+                "shopkeeper",
+                "materialistic",
+                "obsessed with money and business",
+                "focused only on profit-making"
+            ],
+            "intellectualism and education": [
+                "uneducated",
+                "lack what it takes to be a scholar in any discipline",
+                "resistant to learning non-native languages"
+            ],
+            "cultural and regional identity": [
+                "show-offy",
+                "culturally insular",
+                "excessively proud of their cuisine",
+                "overemphasis on self-promotion"
+            ],
+            "conservatism and historical prejudice": [
+                "unsophisticated"
+            ],
+            "political and ideological": [
+                "support communalism"
+            ]
+        },
+        "Punjabi": {
+            "personality, physical appearance and behaviour": [
+                "always loud and boisterous",
+                "aggressive and outspoken",
+                "alcoholic",
+                "always loud and obnoxious",
+                "overly aggressive and confrontational",
+                "drug addicts",
+                "hooligans",
+                "excessively loud and boisterous",
+                "overly aggressive or dominating"
+            ],
+            "economic roles and class": [
+                "farmers",
+                "truck drivers"
+            ],
+            "intellectualism and education": [
+                "unpadh",
+                "only good at sports",
+                "dont not value intellectual pursuits"
+            ],
+            "cultural and regional identity": [
+                "flashy",
+                "obsessed with showing off wealth",
+                "overly flashy in lifestyle and dressing"
+            ],
+            "conservatism and historical prejudice": [
+                "gundas",
+                "associated with criminal activities",
+                "cocaine dealer"
+            ]
+        },
+        "Malayali": {
+            "political and ideological": [
+                "anti hindu",
+                "liberals",
+                "convert hindus to islam and christianity",
+                "support terrorist organizations",
+                "excessively political"
+            ],
+            "personality, physical appearance and behaviour": [
+                "arrogant",
+                "argumentative and opinionated",
+                "overly frugal or calculative"
+            ],
+            "cultural and regional identity": [
+                "overly proud of their language and culture",
+                "too focused on coconut in cuisine and lifestyle",
+                "dismissive of non-malayali cultures"
+            ],
+            "economic roles and class": [
+                "obsessed with gulf migration and remittances",
+                "overly dependent on government jobs",
+                "overly reliant on the diaspora"
+            ],
+            "intellectualism and education": [
+                "resistant to adopting other languages",
+                "lacking interest in innovation"
+            ],
+            "conservatism and historical prejudice": [
+                "violent and orthodox",
+                "resistant to cultural assimilation",
+                "excessively bureaucratic"
+            ]
+        },
+        "Tamil": {
+            "conservatism and historical prejudice": [
+                "casteist",
+                "orthodox",
+                "superstitious and ritualistic",
+                "heirarchical",
+                "old fashioned",
+                "conservative",
+                "unadaptable to new culture",
+                "discriminating",
+                "socially conservative and restrictive",
+                "often associated with a strict caste system"
+            ],
+            "personality, physical appearance and behaviour": [
+                "aggressive and self centered",
+                "dark-skinned people are often associated with them",
+                "very loud and expressive"
+            ],
+            "political and ideological": [
+                "hate north indians",
+                "excessively political",
+                "hate hindi"
+            ],
+            "cultural and regional identity": [
+                "unnecessarily proud of their language and culture",
+                "vegetarians, which is not true for all"
+            ],
+            "economic roles and class": [
+                "limited to certain jobs or career paths, such as it or medicine"
+            ],
+            "intellectualism and education": [
+                "overly focused on education and grades",
+                "only being good at math and science"
+            ]
+        },
+        "Odia": {
+            "economic roles and class": [
+                "poor and backward",
+                "overly dependent on agriculture",
+                "overly reliant on government schemes and poor"
+            ],
+            "conservatism and historical prejudice": [
+                "discriminating",
+                "hierarchical",
+                "corrupt",
+                "conservative",
+                "resistant to urbanization",
+                "less open to modern lifestyles",
+                "resistant to cultural assimilation"
+            ],
+            "personality, physical appearance and behaviour": [
+                "stubborn",
+                "insistent",
+                "overly reserved and introverted",
+                "less assertive or competitive"
+            ],
+            "cultural and regional identity": [
+                "tribal",
+                "overly attached to their regional identity",
+                "too focused on traditional festivals and rituals"
+            ],
+            "intellectualism and education": [
+                "less ambitious or slow-paced",
+                "less innovative or entrepreneurial"
+            ],
+            "political and ideological": [
+                "lacking representation in national spheres"
+            ]
+        },
+        "Haryanvi": {
+            "personality, physical appearance and behaviour": [
+                "rude",
+                "arrogant",
+                "hooligans",
+                "very much aggressive or rough",
+                "very much proud of physical strength",
+                "very much loud and boisterous"
+            ],
+            "conservatism and historical prejudice": [
+                "patriarchal",
+                "lack sophistication",
+                "associated with criminal activities",
+                "unsophisticated",
+                "lacking sophistication or refinement",
+                "patriarchal and gender-biased",
+                "very much conservative in social norms",
+                "dismissive of urban lifestyles",
+                "resistant to cultural assimilation"
+            ],
+            "intellectualism and education": [
+                "uneducated",
+                "dont not value intellectual pursuits",
+                "resistant to modern education"
+            ],
+            "cultural and regional identity": [
+                "wear ghoongat"
+            ],
+            "economic roles and class": [
+                "too focused on farming and rural dominance"
+            ]
+        },
+        "Nepali": {
+            "economic roles and class": [
+                "poor",
+                "chowkidar",
+                "security guards",
+                "fit only for security or labor-intensive jobs",
+                "overly dependent on tourism and remittances",
+                "overly reliant on manual labor"
+            ],
+            "cultural and regional identity": [
+                "gorkha",
+                "outsider",
+                "culturally insular",
+                "overly focused on traditional practices"
+            ],
+            "intellectualism and education": [
+                "dumb and unskilled",
+                "uneducated",
+                "lacking ambition or drive",
+                "less competitive in academic and professional fields",
+                "less innovative or entrepreneurial"
+            ],
+            "personality, physical appearance and behaviour": [
+                "chinky eyed",
+                "overly humble or submissive",
+                "reserved or introverted"
+            ],
+            "political and ideological": [
+                "corona spreaders"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to urban modernization"
+            ]
+        },
+        "Bhojpuri": {
+            "intellectualism and education": [
+                "uneducated",
+                "less educated or backward",
+                "resistant to modern education and progress"
+            ],
+            "economic roles and class": [
+                "villagers",
+                "poor",
+                "overly reliant on manual labor jobs",
+                "too focused on migration for work",
+                "overly dependent on remittances"
+            ],
+            "conservatism and historical prejudice": [
+                "orthodox",
+                "non-modern",
+                "chhapri",
+                "patriarchal",
+                "overly traditional and conservative",
+                "overly attached to caste identity",
+                "lacking sophistication in lifestyle"
+            ],
+            "cultural and regional identity": [
+                "eat paan",
+                "only create vulgar songs",
+                "overly rustic or unpolished"
+            ],
+            "personality, physical appearance and behaviour": [
+                "excessively loud and boisterous"
+            ],
+            "political and ideological": [
+                "politically opportunistic"
+            ]
+        },
+        "Manipuri": {
+            "personality, physical appearance and behaviour": [
+                "chinky",
+                "shy and timid",
+                "look chinese",
+                "overly reserved or introverted"
+            ],
+            "political and ideological": [
+                "antinational",
+                "carrier of corona virus",
+                "war mongers",
+                "politically unstable or fragmented"
+            ],
+            "economic roles and class": [
+                "poor",
+                "too dependent on government subsidies",
+                "overly reliant on sports for recognition"
+            ],
+            "conservatism and historical prejudice": [
+                "uncivilised",
+                "backward",
+                "unsafe for women",
+                "resistant to integration with mainstream indian culture"
+            ],
+            "cultural and regional identity": [
+                "nepali",
+                "eat smelly food",
+                "eat weird worms",
+                "culturally insular and exclusive",
+                "overly focused on traditional dances and arts"
+            ]
+        },
+        "Konkani": {
+            "cultural and regional identity": [
+                "westernized",
+                "hippies",
+                "culturally insular and exclusive",
+                "overly focused on traditional dances and arts",
+                "overly sensitive about their cultural identity",
+                "overly nostalgic about their heritage"
+            ],
+            "personality, physical appearance and behaviour": [
+                "indolent",
+                "lazy",
+                "drunkards",
+                "overly reserved or introverted"
+            ],
+            "intellectualism and education": [
+                "unskilled"
+            ],
+            "economic roles and class": [
+                "too dependent on government subsidies",
+                "overly reliant on sports for recognition",
+                "disconnected from industrial and technological progress",
+                "overly reliant on natural resources"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to integration with mainstream indian culture"
+            ],
+            "political and ideological": [
+                "politically unstable or fragmented",
+                "lacking influence in national politics",
+                "overly focused on regional issues",
+                "politically inactive or fragmented"
+            ]
+        },
+        "Dogra": {
+            "personality, physical appearance and behaviour": [
+                "loud",
+                "deceitful",
+                "ill-mannered"
+            ],
+            "conservatism and historical prejudice": [
+                "uncultured",
+                "un-modern",
+                "overly conservative and traditional",
+                "caste-conscious and insular",
+                "resistant to cultural assimilation",
+                "nostalgic about their historical significance",
+                "overly rigid in social structures",
+                "resistant to urbanization and industrialization",
+                "resistant to inter-community relationships"
+            ],
+            "intellectualism and education": [
+                "uneducated",
+                "resistant to modern education and lifestyles"
+            ],
+            "economic roles and class": [
+                "poor",
+                "overly reliant on agricultural and rural occupations",
+                "overly dependent on government jobs"
+            ],
+            "cultural and regional identity": [
+                "overly proud of their martial heritage",
+                "overly attached to regional identity"
+            ],
+            "political and ideological": [
+                "politically passive outside their region"
+            ]
+        },
+        "Telugu": {
+            "cultural and regional identity": [
+                "eat biryani",
+                "eat spicy",
+                "ask lot of dowri",
+                "liking towards unrealistic movies",
+                "eat lots of meat",
+                "excessively attached to film stars and cinema",
+                "overly focused on maintaining cultural identity"
+            ],
+            "economic roles and class": [
+                "villagers",
+                "spend lot of money for marriage",
+                "overly dependent on remittances from abroad",
+                "too reliant on agriculture and rural occupations"
+            ],
+            "personality, physical appearance and behaviour": [
+                "rowdy",
+                "big nose"
+            ],
+            "conservatism and historical prejudice": [
+                "casteist",
+                "resistant to inter-community relationships",
+                "caste-conscious and hierarchical",
+                "lacking adaptability to cosmopolitan environments"
+            ],
+            "political and ideological": [
+                "hate north indians"
+            ],
+            "intellectualism and education": [
+                "force children to prepare for jee",
+                "dismissive of non-traditional career paths"
+            ]
+        },
+        "Bodo": {
+            "personality, physical appearance and behaviour": [
+                "chinky",
+                "dangerous",
+                "rowdy",
+                "violent",
+                "short-tempered"
+            ],
+            "intellectualism and education": [
+                "uneducated",
+                "less ambitious or competitive in education"
+            ],
+            "cultural and regional identity": [
+                "overly insular and isolated from mainstream culture",
+                "overly attached to tribal identity",
+                "overly focused on ethnic pride"
+            ],
+            "political and ideological": [
+                "politically fragmented and unstable",
+                "lacking representation in national politics",
+                "politically militant or conflict-prone"
+            ],
+            "economic roles and class": [
+                "overly dependent on agriculture and traditional occupations",
+                "dependent on government aid and subsidies",
+                "overly reliant on local resources and craftsmanship"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to modernization and industrialization",
+                "resistant to cultural assimilation",
+                "disconnected from urban and global trends"
+            ]
+        },
+        "Marathi": {
+            "personality, physical appearance and behaviour": [
+                "timid",
+                "rowdy",
+                "outspoken",
+                "undisciplined",
+                "jealous",
+                "non-cooperative",
+                "arrogant",
+                "rude"
+            ],
+            "conservatism and historical prejudice": [
+                "narrow minded",
+                "old fashioned",
+                "backward",
+                "politically dominant and caste-conscious",
+                "overly traditional and resistant to change",
+                "emotionally attached to historical narratives",
+                "resistant to inter-community relationships"
+            ],
+            "cultural and regional identity": [
+                "ghaati",
+                "overly proud of their language and heritage"
+            ],
+            "political and ideological": [
+                "focused on regional identity over national unity",
+                "overly competitive in local politics"
+            ],
+            "economic roles and class": [
+                "overly reliant on government jobs and reservations"
+            ]
+        },
+        "Bihari": {
+            "intellectualism and education": [
+                "uneducated",
+                "resistant to modern education and progress"
+            ],
+            "economic roles and class": [
+                "farmers",
+                "labourer",
+                "poor",
+                "villagers",
+                "overly dependent on manual labor and migration"
+            ],
+            "conservatism and historical prejudice": [
+                "uncivilised",
+                "conservative",
+                "casteist",
+                "corrupt",
+                "lack family planning",
+                "overly caste-conscious and divided"
+            ],
+            "personality, physical appearance and behaviour": [
+                "rude",
+                "unhygienic",
+                "hooligans",
+                "ugly",
+                "lacking cleanliness and hygiene"
+            ],
+            "cultural and regional identity": [
+                "carry katta",
+                "overly rustic and unpolished"
+            ]
+        },
+        "Kashmiri": {
+            "political and ideological": [
+                "stone pelters",
+                "racists",
+                "trouble makers",
+                "pakistan supporters",
+                "militants",
+                "terrorists",
+                "separatists",
+                "carry weapon",
+                "overly sensitive about their identity",
+                "politically unstable or conflict-prone"
+            ],
+            "conservatism and historical prejudice": [
+                "orthodox",
+                "classists",
+                "resistant to external influences"
+            ],
+            "personality, physical appearance and behaviour": [
+                "cunning",
+                "lazy",
+                "overly reserved or secretive",
+                "emotionally volatile or overly sentimental"
+            ],
+            "intellectualism and education": [
+                "uneducated"
+            ],
+            "economic roles and class": [
+                "overly dependent on tourism and handicrafts"
+            ],
+            "cultural and regional identity": [
+                "disconnected from mainstream indian culture"
+            ]
+        },
+        "Bengali": {
+            "political and ideological": [
+                "liberals",
+                "politically charged and prone to protests",
+                "overly focused on political discussions and activism"
+            ],
+            "cultural and regional identity": [
+                "westernized",
+                "do black magic",
+                "eat only fish",
+                "obsessed with art, literature, and poetry",
+                "overly nostalgic about their cultural and historical legacy",
+                "overly attached to traditional food and lifestyle",
+                "overly proud of their cuisine, especially fish and sweets"
+            ],
+            "personality, physical appearance and behaviour": [
+                "smoke a lot",
+                "unhygienic",
+                "overly emotional and dramatic",
+                "overly laid-back and procrastinative"
+            ],
+            "intellectualism and education": [
+                "overly intellectual and argumentative",
+                "dismissive of practicality in favor of ideology",
+                "overly focused on intellectual superiority"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to industrialization",
+                "resistant to non-bengali cultures",
+                "resistant to adapting to fast-paced modern lifestyles"
+            ]
+        },
+        "Maithili": {
+            "intellectualism and education": [
+                "uneducated"
+            ],
+            "economic roles and class": [
+                "farmers",
+                "labourer",
+                "poor",
+                "overly reliant on agriculture and rural livelihoods"
+            ],
+            "conservatism and historical prejudice": [
+                "uncivilised",
+                "conservative",
+                "uncivilised",
+                "casteist",
+                "corrupt",
+                "overly conservative and traditional",
+                "overly attached to caste and community",
+                "resistant to urban modernization",
+                "resistant to inter-community relationships"
+            ],
+            "personality, physical appearance and behaviour": [
+                "rude",
+                "unhygienic",
+                "hooligans",
+                "ugly"
+            ],
+            "political and ideological": [
+                "lacking representation in national spheres"
+            ],
+            "cultural and regional identity": [
+                "overly nostalgic about their language and history"
+            ]
+        },
+        "Kannadiga": {
+            "conservatism and historical prejudice": [
+                "too modern",
+                "intolerant to others",
+                "casteist",
+                "discriminatory",
+                "less assertive in national or global matters",
+                "overly traditional and conservative in rural areas",
+                "resistant to cultural assimilation",
+                "overly bureaucratic and slow in decision-making",
+                "less dynamic compared to neighboring regions"
+            ],
+            "personality, physical appearance and behaviour": [
+                "laid back people",
+                "violent",
+                "overly passive or non-confrontational"
+            ],
+            "political and ideological": [
+                "hate north indians",
+                "overly focused on local politics and linguistic identity",
+                "too focused on regional identity over national unity"
+            ],
+            "cultural and regional identity": [
+                "overly proud of their language and culture",
+                "overly attached to classical art and literature"
+            ],
+            "intellectualism and education": [
+                "resistant to learning non-kannada languages"
+            ],
+            "economic roles and class": [
+                "overly reliant on bengaluru for economic representation",
+                "overly reliant on it and tech industries for economic growth"
+            ]
+        },
+        "Assamese": {
+            "personality, physical appearance and behaviour": [
+                "lazy",
+                "chinky eyed",
+                "violent",
+                "too reserved and introverted"
+            ],
+            "conservatism and historical prejudice": [
+                "superstitious",
+                "engage in witch hunting",
+                "resistant to industrialization and modernization"
+            ],
+            "intellectualism and education": [
+                "uneducated",
+                "people with low iq"
+            ],
+            "economic roles and class": [
+                "farmers",
+                "hunters",
+                "too dependent on tea and agriculture",
+                "too reliant on government aid and subsidies"
+            ],
+            "political and ideological": [
+                "support genocide of rohingyas",
+                "separatist",
+                "politically fragmented and unstable",
+                "lacking representation in national politics"
+            ],
+            "cultural and regional identity": [
+                "disconnected from mainstream indian culture",
+                "too nostalgic about their cultural heritage",
+                "too focused on preserving traditional practices"
+            ]
+        },
+        "Santhali": {
+            "economic roles and class": [
+                "labourers",
+                "hunter gatherer",
+                "unemployed",
+                "overly dependent on manual labor",
+                "overly reliant on government schemes"
+            ],
+            "intellectualism and education": [
+                "uneducated",
+                "lacking ambition in education",
+                "less innovative or entrepreneurial"
+            ],
+            "personality, physical appearance and behaviour": [
+                "timid",
+                "very slow in understanding something"
+            ],
+            "cultural and regional identity": [
+                "disconnected from mainstream society",
+                "overly attached to tribal traditions",
+                "culturally insular",
+                "overly nostalgic about their heritage"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to modernization",
+                "resistant to inter-tribal collaboration",
+                "resistant to urban lifestyles"
+            ],
+            "political and ideological": [
+                "lacking representation in national politics",
+                "politically passive",
+                "lacking influence in broader societal issues"
+            ]
+        },
+        "North-eastern": {
+            "intellectualism and education": [
+                "low iq",
+                "lacking ambition in higher education"
+            ],
+            "personality, physical appearance and behaviour": [
+                "lazy and dumb",
+                "overly reserved or introverted",
+                "excessively simple or naive",
+                "excessively laid-back and slow-paced"
+            ],
+            "political and ideological": [
+                "antinationals",
+                "support communal violence",
+                "politically unstable or conflict-prone",
+                "overly sensitive about identity issues",
+                "lacking representation in national spheres",
+                "overly critical of external influences"
+            ],
+            "economic roles and class": [
+                "hunters and gatherers",
+                "overly reliant on government subsidies",
+                "overly dependent on tourism and natural resources",
+                "excessively dependent on tourism",
+                "excessively reliant on agriculture and natural resources"
+            ],
+            "cultural and regional identity": [
+                "revealing clothes",
+                "eat weird worms",
+                "eat forbidden meat like dog and monkey",
+                "culturally insular",
+                "disconnected from mainstream indian identity",
+                "overly nostalgic about their heritage",
+                "excessively attached to rural traditions",
+                "excessively nostalgic about their heritage"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to inter-community relationships",
+                "resistant to industrialization and globalization",
+                "resistant to modernization",
+                "excessively traditional and conservative",
+                "resistant to urbanization"
+            ]
+        },
+        "Himachali": {
+            "political and ideological": [
+                "lacking influence in national politics",
+                "politically passive outside the region"
+            ],
+            "economic roles and class": [
+                "excessively dependent on government jobs",
+                "excessively reliant on handicrafts and local industries"
+            ],
+            "conservatism and historical prejudice": [
+                "disconnected from cosmopolitan lifestyles",
+                "resistant to industrial growth"
+            ],
+            "intellectualism and education": [
+                "less competitive in national or global spheres",
+                "lacking ambition in entrepreneurial ventures"
+            ],
+            "cultural and regional identity": [
+                "excessively focused on local pride",
+                "excessively reserved and insular"
+            ]
+        },
+        "Jharkhandi": {
+            "economic roles and class": [
+                "overly reliant on mining and natural resources",
+                "overly dependent on government aid",
+                "overly attached to rural livelihoods",
+                "overly dependent on ngos for development",
+                "reliant on manual labor and subsistence farming"
+            ],
+            "intellectualism and education": [
+                "lacking industrial innovation",
+                "less competitive in education and jobs",
+                "lacking entrepreneurial drive"
+            ],
+            "conservatism and historical prejudice": [
+                "overly divided along tribal and caste lines",
+                "resistant to modernization",
+                "resistant to cultural assimilation",
+                "disconnected from mainstream progress",
+                "overly traditional and resistant to change",
+                "resistant to inter-community relationships",
+                "overly critical of industrialization"
+            ],
+            "cultural and regional identity": [
+                "overly nostalgic about tribal traditions"
+            ],
+            "political and ideological": [
+                "politically unstable or fragmented",
+                "lacking representation in national politics",
+                "overly focused on regional identity",
+                "politically passive on a national scale"
+            ]
+        },
+        "Ladakhi": {
+            "economic roles and class": [
+                "overly dependent on tourism",
+                "overly dependent on crafts and handicrafts",
+                "overly reliant on external aid and subsidies",
+                "overly reliant on natural resources"
+            ],
+            "personality, physical appearance and behaviour": [
+                "overly simple or naive",
+                "overly reserved or introverted"
+            ],
+            "cultural and regional identity": [
+                "disconnected from mainstream indian culture",
+                "overly nostalgic about their heritage",
+                "culturally insular and exclusive",
+                "overly focused on local pride and customs",
+                "overly dependent on religious institutions",
+                "closed society"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to modernization and industrialization",
+                "resistant to urban lifestyles",
+                "overly traditional and conservative",
+                "disconnected from global trends",
+                "resistant to inter-community relationships"
+            ],
+            "political and ideological": [
+                "lacking influence in national politics",
+                "politically passive outside their region"
+            ],
+            "intellectualism and education": [
+                "less competitive in national spheres",
+                "lacking ambition in education and professions"
+            ]
+        },
+        "Magadhi": {
+            "conservatism and historical prejudice": [
+                "conservative and traditional",
+                "resistant to modernization",
+                "attached to caste and community identity",
+                "disconnected from cosmopolitan lifestyles",
+                "resistant to inter-community relationships",
+                "resistant to industrial growth",
+                "disconnected from mainstream progress"
+            ],
+            "intellectualism and education": [
+                "less ambitious and slow-paced",
+                "lacking innovation or entrepreneurial spirit",
+                "lacking proficiency in non-native languages"
+            ],
+            "economic roles and class": [
+                "dependent on agriculture and rural livelihoods",
+                "reliant on government schemes",
+                "reliant on manual labor",
+                "dependent on subsistence farming"
+            ],
+            "political and ideological": [
+                "lacking representation in national platforms",
+                "politically passive on a national level",
+                "focused on local issues",
+                "politically fragmented and divided"
+            ],
+            "cultural and regional identity": [
+                "nostalgic about ancient heritage",
+                "focused on folklore and traditions"
+            ]
+        },
+        "Tripuri": {
+            "cultural and regional identity": [
+                "overly insular and disconnected from mainstream india",
+                "overly attached to tribal identity",
+                "culturally insular and exclusive",
+                "overly focused on preserving traditional practices",
+                "overly nostalgic about tribal traditions"
+            ],
+            "economic roles and class": [
+                "overly dependent on government aid and subsidies",
+                "overly reliant on agriculture and natural resources",
+                "overly reliant on tourism for economic development",
+                "overly dependent on ngos for development",
+                "overly reliant on handicrafts and small industries"
+            ],
+            "political and ideological": [
+                "politically unstable or conflict-prone",
+                "lacking representation in national platforms",
+                "politically passive outside the region",
+                "politically fragmented and lacking unity"
+            ],
+            "conservatism and historical prejudice": [
+                "resistant to industrialization and modernization",
+                "resistant to inter-community relationships",
+                "disconnected from urban lifestyles",
+                "resistant to modernization"
+            ],
+            "intellectualism and education": [
+                "lacking ambition in global industries"
+            ],
+            "personality, physical appearance and behaviour": [
+                "overly reserved or introverted"
+            ]
+        },
+        "Chhattisgarhi": {
+            "economic roles and class": [
+                "overly dependent on mining and agriculture",
+                "overly reliant on government jobs and schemes",
+                "overly focused on rural livelihoods",
+                "overly reliant on manual labor and traditional occupations",
+                "overly dependent on ngos for progress"
+            ],
+            "conservatism and historical prejudice": [
+                "overly traditional and resistant to change",
+                "overly attached to caste and community identity",
+                "disconnected from cosmopolitan lifestyles",
+                "resistant to industrialization and globalization",
+                "resistant to cultural assimilation",
+                "disconnected from global trends",
+                "resistant to adopting modern lifestyles"
+            ],
+            "political and ideological": [
+                "lacking representation in national spheres",
+                "politically passive outside the region",
+                "politically fragmented and divided"
+            ],
+            "cultural and regional identity": [
+                "overly nostalgic about tribal traditions",
+                "overly focused on folklore and rituals",
+                "overly focused on regional pride"
+            ],
+            "intellectualism and education": [
+                "lacking ambition or innovation",
+                "less competitive in education and professions"
+            ]
+        },
+        "Tibetan": {
+            "economic roles and class": [
+                "overly dependent on tourism and monasteries",
+                "overly reliant on foreign aid and ngos",
+                "overly dependent on crafts and small trades",
+                "overly reliant on traditional livelihoods"
+            ],
+            "cultural and regional identity": [
+                "culturally insular and exclusive",
+                "overly nostalgic about their exile identity",
+                "overly focused on religious practices",
+                "overly attached to local pride",
+                "overly nostalgic about the pre-exile tibetan identity"
+            ],
+            "conservatism and historical prejudice": [
+                "overly traditional and resistant to change",
+                "resistant to industrialization and modernization",
+                "resistant to inter-community relationships"
+            ],
+            "political and ideological": [
+                "politically passive or fragmented",
+                "lacking representation in broader societal platforms",
+                "overly critical of external cultural influences",
+                "politically subdued outside the region"
+            ],
+            "intellectualism and education": [
+                "disconnected from modern education and industries",
+                "lacking ambition in global careers"
+            ],
+            "personality, physical appearance and behaviour": [
+                "overly reserved and introverted",
+                "overly simple or naive"
+            ]
+        },
+        "Bundelkhandi": {
+            "conservatism and historical prejudice": [
+                "overly conservative and caste-conscious",
+                "overly traditional and resistant to change",
+                "overly nostalgic about historical valor",
+                "resistant to industrialization and modernization",
+                "disconnected from urban lifestyles and trends",
+                "overly focused on traditional roles",
+                "resistant to inter-community relationships",
+                "resistant to cultural assimilation"
+            ],
+            "economic roles and class": [
+                "overly dependent on agriculture and rural livelihoods",
+                "overly reliant on government schemes",
+                "overly reliant on manual labor",
+                "overly dependent on local resources"
+            ],
+            "intellectualism and education": [
+                "lacking innovation or ambition",
+                "less competitive in education and professions",
+                "lacking interest in entrepreneurial ventures"
+            ],
+            "political and ideological": [
+                "politically fragmented and opportunistic",
+                "lacking representation in national platforms",
+                "overly critical of other regions' influence"
+            ],
+            "cultural and regional identity": [
+                "overly attached to folklore and regional pride",
+                "overly nostalgic about bundeli culture"
+            ]
+        }
+    },
+    "tribe": {
+        "Tribals": {
+            "professionalism and occupation": [
+                "uneducated",
+                "hunters",
+                "not worthy of white collar jobs",
+                "childlike"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "dangerous",
+                "militants",
+                "aggressive",
+                "rebellious",
+                "anti-government",
+                "disconnected from mainstream society",
+                "politically fragmented and disorganized",
+                "thieves and criminal tribe"
+            ],
+            "superstition & cultural backwardness": [
+                "backward and uncivilised",
+                "superstitious",
+                "primitive and backward",
+                "superstitious",
+                "savage and uncultured"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on government aid",
+                "dependent on forest and natural resources",
+                "less educated and unambitious",
+                "lacking representation in national politics",
+                "reliant on government aid",
+                "less educated and unambitious"
+            ],
+            "traditionalism and illiteracy": [
+                "attached to traditional practices",
+                "resistant to modernization"
+            ]
+        },
+        "Banjara": {
+            "economic dependence & low ambition": [
+                "nomadic and unsettled",
+                "dependent on government aid and quotas",
+                "too reliant on seasonal labor",
+                "lacking ambition for upward mobility",
+                "less competitive in national or global contexts"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "unreliable or untrustworthy",
+                "insular and disconnected from mainstream society",
+                "reliant on their community network",
+                "culturally insular and exclusive"
+            ],
+            "professionalism and occupation": [
+                "dependent on manual labor",
+                "less represented in skilled professions",
+                "dependent on traditional occupations"
+            ],
+            "traditionalism and illiteracy": [
+                "attached to their traditional lifestyle",
+                "resistant to modernization and education",
+                "focused on tribal customs",
+                "traditional in gender roles",
+                "resistant to urbanization and modernization",
+                "nostalgic about their past lifestyle",
+                "resistant to formal education"
+            ],
+            "superstition & cultural backwardness": [
+                "superstitious and unscientific"
+            ]
+        },
+        "Bhil": {
+            "professionalism and occupation": [
+                "dependent on agriculture and forests",
+                "reliant on manual labor",
+                "less skilled in modern technologies"
+            ],
+            "economic dependence & low ambition": [
+                "lacking education and ambition",
+                "too dependent on government schemes and reservations",
+                "lack entrepreneurial drive",
+                "dependent on ngos for development",
+                "lacking representation in national politics"
+            ],
+            "traditionalism and illiteracy": [
+                "traditional and resistant to change",
+                "nostalgic about their tribal customs",
+                "resistant to modern industrial jobs",
+                "resistant to modernization and globalization",
+                "focused on their tribal identity",
+                "critical of urbanization"
+            ],
+            "superstition & cultural backwardness": [
+                "superstitious and primitive",
+                "reliant on folklore and rituals"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically fragmented and disorganized",
+                "isolated and disconnected from urban societies",
+                "resistant to inter-community relationships",
+                "insular and exclusive"
+            ]
+        },
+        "Chenchu": {
+            "professionalism and occupation": [
+                "dependent on forests and natural resources",
+                "less skilled in modern professions"
+            ],
+            "superstition & cultural backwardness": [
+                "primitive and backward",
+                "superstitious and unscientific",
+                "focused on folklore and rituals"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to formal education and modernization",
+                "attached to their traditional hunting lifestyle",
+                "resistant to agricultural development",
+                "nostalgic about tribal customs",
+                "resistant to industrialization and urbanization",
+                "traditional in gender roles"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on government aid and schemes",
+                "lacking ambition and innovation",
+                "too dependent on seasonal labor",
+                "lacking representation in national platforms",
+                "reliant on subsistence activities"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from mainstream society",
+                "culturally insular and exclusive",
+                "politically fragmented and disorganized",
+                "resistant to inter-community collaboration"
+            ]
+        },
+        "Gond": {
+            "professionalism and occupation": [
+                "reliant on agriculture and forest resources",
+                "less skilled in modern professions"
+            ],
+            "superstition & cultural backwardness": [
+                "primitive and superstitious",
+                "focused on rituals and customs"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to modernization and urbanization",
+                "traditional and resistant to societal change",
+                "focused on tribal identity",
+                "nostalgic about tribal folklore",
+                "resistant to industrialization and economic diversification",
+                "resistant to global trends and modernization",
+                "critical of urban lifestyles and economic growth"
+            ],
+            "economic dependence & low ambition": [
+                "dependent on government schemes and reservations",
+                "lacking ambition and education",
+                "reliant on ngos for development",
+                "lacking entrepreneurial spirit",
+                "less competitive in education and jobs"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from mainstream politics and culture",
+                "culturally insular and exclusive",
+                "politically fragmented and disorganized",
+                "resistant to inter-community relationships"
+            ]
+        },
+        "Koli": {
+            "professionalism and occupation": [
+                "reliant on fishing and coastal resources",
+                "attached to traditional occupations",
+                "lacking representation in skilled professions",
+                "mere fishermen",
+                "low skill labourers"
+            ],
+            "economic dependence & low ambition": [
+                "uneducated and less ambitious",
+                "dependent on seasonal labor and tourism",
+                "less innovative in entrepreneurial ventures",
+                "dependent on government subsidies for livelihood",
+                "less competitive in national spheres",
+                "lacking adaptability to changing economic conditions"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to urban lifestyles",
+                "focused on community and caste identity",
+                "resistant to modernization in their fishing practices",
+                "nostalgic about coastal traditions",
+                "resistant to formal education",
+                "traditional in family roles"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from mainstream industrial jobs",
+                "insular and exclusive in community interactions",
+                "politically fragmented and disorganized",
+                "resistant to inter-community relationships"
+            ],
+            "superstition & cultural backwardness": [
+                "reliant on folklore and customs"
+            ]
+        },
+        "Toda": {
+            "insularity, social isolation & rebelliousness": [
+                "insular and disconnected from mainstream society",
+                "disconnected from urban trends and lifestyles",
+                "resistant to inter-community integration",
+                "politically passive and disorganized"
+            ],
+            "traditionalism and illiteracy": [
+                "attached to traditional practices",
+                "resistant to modernization and industrialization",
+                "nostalgic about their ancient customs",
+                "resistant to formal education",
+                "protective of their tribal identity",
+                "resistant to technological advancements",
+                "critical of urbanization and industrial development",
+                "resistant to gender equality"
+            ],
+            "economic dependence & low ambition": [
+                "dependent on pastoral livelihoods",
+                "less ambitious or slow-paced",
+                "reliant on government and ngo aid",
+                "lacking representation in modern professions",
+                "less entrepreneurial or innovative",
+                "simplistic lifestyle"
+            ],
+            "superstition & cultural backwardness": [
+                "focused on rituals and religious ceremonies",
+                "reliant on folklore and oral traditions"
+            ],
+            "professionalism and occupation": [
+                "dependent on forest resources"
+            ]
+        },
+        "Warli": {
+            "professionalism and occupation": [
+                "dependent on agriculture and manual labor",
+                "dependent on forest and natural resources"
+            ],
+            "traditionalism and illiteracy": [
+                "traditional and resistant to change",
+                "resistant to urbanization and industrialization",
+                "nostalgic about their tribal heritage",
+                "protective of their tribal identity",
+                "resistant to technological advancements"
+            ],
+            "superstition & cultural backwardness": [
+                "attached to tribal art and folklore",
+                "focused on community rituals and festivals",
+                "superstitious and resistant to scientific knowledge"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from modern society",
+                "politically fragmented and disorganized",
+                "resistant to inter-community relationships"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on government schemes and subsidies",
+                "less ambitious in education and employment",
+                "lacking representation in national politics",
+                "reliant on ngos for development",
+                "lacking entrepreneurial drive",
+                "less competitive in urban job markets",
+                "reliant on subsistence farming"
+            ]
+        },
+        "Irula": {
+            "professionalism and occupation": [
+                "dependent on snake-catching and traditional skills",
+                "reliant on forest resources for survival"
+            ],
+            "superstition & cultural backwardness": [
+                "primitive and disconnected from modern society",
+                "superstitious and unscientific",
+                "reliant on folklore and oral traditions"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to formal education",
+                "nostalgic about tribal customs",
+                "resistant to industrialization and modernization",
+                "protective of their tribal identity",
+                "resistant to modern healthcare and science",
+                "traditional in gender roles"
+            ],
+            "economic dependence & low ambition": [
+                "lacking ambition in urban and professional settings",
+                "reliant on government aid and ngo support",
+                "focused on subsistence activities",
+                "lacking entrepreneurial drive",
+                "less competitive in education and job markets"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically passive and underrepresented",
+                "attached to their community network",
+                "disconnected from mainstream economic opportunities",
+                "resistant to inter-community collaboration"
+            ]
+        },
+        "Koya": {
+            "professionalism and occupation": [
+                "reliant on agriculture and forest resources",
+                "less skilled in modern professions"
+            ],
+            "superstition & cultural backwardness": [
+                "attached to tribal customs and rituals",
+                "superstitious and unscientific",
+                "focused on community festivals and ceremonies",
+                "reliant on folklore and oral traditions"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to modernization and education",
+                "protective of their tribal identity",
+                "nostalgic about their tribal heritage",
+                "resistant to industrialization and globalization",
+                "critical of urbanization and economic growth",
+                "resistant to gender equality",
+                "traditional in family and societal roles"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically fragmented and underrepresented",
+                "disconnected from urban lifestyles and modern technology",
+                "resistant to inter-community relationships"
+            ],
+            "economic dependence & low ambition": [
+                "less ambitious in professional and urban settings",
+                "reliant on government welfare schemes",
+                "reliant on ngos for development",
+                "lacking entrepreneurial spirit"
+            ]
+        },
+        "Garo": {
+            "professionalism and occupation": [
+                "reliant on traditional farming methods",
+                "dependent on natural resources"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to modernization and education",
+                "attached to matrilineal traditions",
+                "nostalgic about their tribal identity",
+                "resistant to urbanization and industrialization",
+                "resistant to modern healthcare and technology",
+                "critical of urban lifestyles and trends",
+                "focused on maintaining regional dominance"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from mainstream indian culture",
+                "insular and exclusive",
+                "resistant to inter-community relationships",
+                "politically fragmented and disorganized",
+                "passive in addressing societal issues"
+            ],
+            "economic dependence & low ambition": [
+                "dependent on government subsidies and ngos",
+                "lacking entrepreneurial spirit",
+                "less competitive in national platforms",
+                "less innovative in economic ventures",
+                "lacking visibility in national politics",
+                "lacking entrepreneurial spirit",
+                "less competitive in education and professional fields"
+            ],
+            "superstition & cultural backwardness": [
+                "superstitious and traditional",
+                "focused on folklore and rituals"
+            ]
+        },
+        "Ho": {
+            "professionalism and occupation": [
+                "reliant on manual labor and subsistence farming",
+                "dependent on forest and natural resources"
+            ],
+            "economic dependence & low ambition": [
+                "lacking education and ambition",
+                "reliant on government welfare schemes",
+                "lacking innovation and entrepreneurial spirit",
+                "dependent on ngos for development"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to industrialization and modernization",
+                "nostalgic about tribal traditions",
+                "resistant to formal education and modern practices",
+                "resistant to gender equality",
+                "critical of urbanization",
+                "protective of their tribal identity"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "insular and resistant to integration",
+                "politically passive and underrepresented",
+                "disconnected from urban lifestyles and technologies",
+                "fragmented in community organization",
+                "resistant to inter-community collaboration"
+            ],
+            "superstition & cultural backwardness": [
+                "focused on rituals and festivals",
+                "superstitious and unscientific",
+                "only reliant on folklore and oral traditions"
+            ]
+        },
+        "Kuki": {
+            "traditionalism and illiteracy": [
+                "focused on tribal identity and autonomy",
+                "attached to tribal traditions and customs",
+                "resistant to modernization and industrialization",
+                "nostalgic about their tribal heritage",
+                "critical of urban lifestyles and trends",
+                "focused on local disputes and issues",
+                "resistant to technological advancements",
+                "protective of their community identity"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically unstable and prone to conflict",
+                "resistant to inter-community relationships",
+                "insular and disconnected from mainstream society",
+                "politically fragmented and disorganized"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on government subsidies and aid",
+                "lacking representation in national platforms",
+                "reliant on ngos for progress",
+                "lacking entrepreneurial spirit",
+                "less competitive in education and professional fields",
+                "dependent on seasonal labor"
+            ],
+            "professionalism and occupation": [
+                "dependent on natural resources for survival"
+            ],
+            "superstition & cultural backwardness": [
+                "focused on rituals and festivals"
+            ]
+        },
+        "Khasi": {
+            "traditionalism and illiteracy": [
+                "reliant on matrilineal traditions",
+                "resistant to modernization and change",
+                "attached to tribal customs and rituals",
+                "nostalgic about their tribal heritage",
+                "critical of non-tribal influences",
+                "resistant to industrialization and urbanization",
+                "focused on local cultural pride",
+                "protective of their tribal identity",
+                "nostalgic about their historical identity",
+                "resistant to modernization and industrialization",
+                "critical of non-meitei influences",
+                "focused on linguistic and cultural preservation",
+                "traditional and conservative",
+                "focused on manipuri dance and art",
+                "resistant to gender equality in some settings",
+                "attached to caste-like structures",
+                "resistant to technological advancements",
+                "focused on maintaining regional dominance"
+            ],
+            "professionalism and occupation": [
+                "dependent on agriculture and forest resources",
+                "reliant on agriculture and manual labor"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "insular and disconnected from mainstream society",
+                "politically fragmented and passive",
+                "resistant to inter-community relationships",
+                "politically dominant in the region but fragmented internally",
+                "resistant to inter-community collaboration",
+                "disconnected from urban and national trends",
+                "passive in global political engagement"
+            ],
+            "economic dependence & low ambition": [
+                "dependent on government subsidies and welfare schemes",
+                "lacking representation in national politics",
+                "reliant on tourism for economic growth",
+                "dependent on ngos for development",
+                "lacking entrepreneurial innovation",
+                "dependent on government schemes and subsidies",
+                "less innovative or entrepreneurial"
+            ],
+            "superstition & cultural backwardness": [
+                "reliant on rituals and religious practices"
+            ]
+        },
+        "Jaintia": {
+            "professionalism and occupation": [
+                "reliant on agriculture and rural livelihoods",
+                "dependent on natural resources for survival"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to modernization and formal education",
+                "attached to matrilineal traditions",
+                "critical of non-tribal influences",
+                "resistant to industrialization and globalization",
+                "nostalgic about their tribal heritage",
+                "protective of their tribal identity",
+                "focused on preserving traditional lifestyles",
+                "resistant to urbanization and technological change"
+            ],
+            "superstition & cultural backwardness": [
+                "focused on community rituals and ceremonies",
+                "reliant on folklore and oral traditions",
+                "superstitious and unscientific"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from mainstream indian culture",
+                "politically passive and disorganized",
+                "resistant to inter-community relationships",
+                "detached from modern global trends"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on government aid and ngos",
+                "less innovative or entrepreneurial",
+                "lacking ambition in urban job markets"
+            ]
+        },
+        "Munda": {
+            "professionalism and occupation": [
+                "reliant on manual labor and agriculture",
+                "dependent on forest and natural resources"
+            ],
+            "economic dependence & low ambition": [
+                "less ambitious and lacking innovation",
+                "reliant on government aid and reservations",
+                "reliant on ngos for development",
+                "less competitive in professional and academic fields",
+                "lacking entrepreneurial drive"
+            ],
+            "traditionalism and illiteracy": [
+                "resistant to modernization and education",
+                "focused on tribal identity and customs",
+                "nostalgic about their folklore and traditions",
+                "resistant to urbanization and technological advancements",
+                "critical of non-tribal influences",
+                "protective of their community identity",
+                "resistant to modern healthcare and practices"
+            ],
+            "superstition & cultural backwardness": [
+                "superstitious and traditional",
+                "focused on rituals and festivals"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "disconnected from mainstream society and politics",
+                "resistant to inter-community collaboration",
+                "detached from industrial opportunities"
+            ]
+        },
+        "Naga": {
+            "traditionalism and illiteracy": [
+                "focused on tribal identity and autonomy",
+                "attached to tribal traditions and customs",
+                "resistant to modernization and industrialization",
+                "nostalgic about their tribal heritage",
+                "critical of urban lifestyles and trends",
+                "resistant to technological advancements",
+                "protective of their tribal identity",
+                "focused on maintaining regional dominance"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically fragmented and conflict-prone",
+                "resistant to inter-community relationships",
+                "insular and disconnected from mainstream society",
+                "politically passive outside of regional issues"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on government subsidies and aid",
+                "lacking representation in national platforms",
+                "reliant on ngos and foreign aid",
+                "less competitive in education and job markets",
+                "lacking entrepreneurial drive",
+                "less competitive in education and professional fields"
+            ],
+            "professionalism and occupation": [
+                "dependent on natural resources for survival"
+            ],
+            "superstition & cultural backwardness": [
+                "focused on community festivals and traditions"
+            ]
+        },
+        "Oraon": {
+            "professionalism and occupation": [
+                "reliant on agriculture and forest resources",
+                "reliant on manual labor and subsistence farming"
+            ],
+            "traditionalism and illiteracy": [
+                "traditional and resistant to change",
+                "nostalgic about tribal customs",
+                "resistant to urbanization and industrialization",
+                "protective of their tribal identity",
+                "nostalgic about their past lifestyles",
+                "resistant to adopting modern technologies"
+            ],
+            "economic dependence & low ambition": [
+                "dependent on government welfare and reservations",
+                "less ambitious in education and professional fields",
+                "lacking innovation or entrepreneurial spirit",
+                "dependent on ngos for development",
+                "lacking visibility in national platforms"
+            ],
+            "superstition & cultural backwardness": [
+                "superstitious and unscientific",
+                "focused on rituals and folklore"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically passive and underrepresented",
+                "disconnected from mainstream culture and society",
+                "insular and resistant to collaboration",
+                "fragmented in political representation"
+            ]
+        },
+        "Bhumihar": {
+            "traditionalism and illiteracy": [
+                "proud of their caste and status",
+                "caste-conscious and elitist",
+                "traditional and resistant to change",
+                "focused on maintaining caste hierarchy",
+                "resistant to inter-caste marriages and relationships",
+                "conservative in gender roles",
+                "dismissive of lower-caste communities",
+                "reliant on historical narratives for identity",
+                "resistant to social reforms and modernization",
+                "critical of progressive policies like reservations",
+                "resistant to cultural assimilation",
+                "reliant on traditional power structures",
+                "resistant to grassroots movements and inclusivity",
+                "focused on preserving their community pride",
+                "dismissive of urban lifestyles and modern careers"
+            ],
+            "economic dependence & low ambition": [
+                "reliant on landownership for power",
+                "attached to rural dominance",
+                "lacking representation in cosmopolitan spheres",
+                "competitive and dominating in local politics"
+            ],
+            "insularity, social isolation & rebelliousness": [
+                "politically opportunistic and manipulative"
+            ]
+        }
+    },
+    "caste": {
+        "Brahmin": {
+            "pride and bigotry": [
+                "intolerant of others",
+                "casteist",
+                "discriminating",
+                "communal",
+                "support untouchability",
+                "don't support inclusivity",
+                "elitist",
+                "have superiority complex",
+                "hate meat eaters",
+                "rude towards other castes",
+                "patriarchal",
+                "oppressive"
+            ],
+            "social status and hierarchy": [
+                "hierarchical",
+                "unfairly privileged"
+            ],
+            "political & social influence": [
+                "against reservation for other castes",
+                "dominate key decisions at work",
+                "hindutva extremists"
+            ],
+            "occupation and economic role": [
+                "don't value manual labor"
+            ],
+            "cultural identity, practices and rituals": [
+                "monopolize culture",
+                "always know the rituals"
+            ],
+            "education and intellectual abilities": [
+                "highly educated"
+            ]
+        },
+        "Maratha": {
+            "cultural identity, practices and rituals": [
+                "warriors",
+                "resistance to change",
+                "glorification of history over progress",
+                "persistence of feudal traditions",
+                "romanticizing the past excessively"
+            ],
+            "pride and bigotry": [
+                "hate muslims",
+                "hooligans",
+                "extremists",
+                "overly aggressive behavior",
+                "excessive caste pride",
+                "insularity towards outsiders",
+                "dismissiveness of women\u2019s rights"
+            ],
+            "education and intellectual abilities": [
+                "uneducated",
+                "neglect of education for power"
+            ],
+            "political & social influence": [
+                "rural political dominance",
+                "community favoritism over merit",
+                "opposition to marginalized reservations",
+                "violent protests for demands",
+                "misuse of political influence"
+            ],
+            "occupation and economic role": [
+                "exploitative land practices",
+                "dependence on quotas/subsidies"
+            ]
+        },
+        "Iyyengar": {
+            "pride and bigotry": [
+                "intolerant of others",
+                "casteist",
+                "discriminating",
+                "communal",
+                "support untouchability",
+                "don't support inclusivity",
+                "elitist",
+                "have superiority complex",
+                "arrogant",
+                "insular community behavior",
+                "resistance to inter-caste marriages",
+                "preference for conservative ideologies",
+                "overcritical of other cultural practices"
+            ],
+            "social status and hierarchy": [
+                "hierarchical",
+                "strongly hierarchical community dynamics",
+                "obsession with status and prestige"
+            ],
+            "cultural identity, practices and rituals": [
+                "excessive focus on ritual purity",
+                "overemphasis on traditions and customs",
+                "lack of adaptability to modern changes"
+            ],
+            "education and intellectual abilities": [
+                "elitism in education and professions"
+            ],
+            "occupation and economic role": [
+                "disdain for manual labor"
+            ]
+        },
+        "Rajput": {
+            "cultural identity, practices and rituals": [
+                "warriors",
+                "overemphasis on martial traditions",
+                "rigid adherence to feudal values",
+                "romanticizes outdated practices",
+                "resistance to industrialization",
+                "over-dependence on historical narratives",
+                "neglect of contemporary societal issues"
+            ],
+            "pride and bigotry": [
+                "hate muslims",
+                "hooligans",
+                "extremists",
+                "excessive pride in lineage and heritage",
+                "caste exclusivity in social interactions",
+                "preference for traditional gender roles",
+                "intolerance toward inter-caste alliances",
+                "dominating and oppressive",
+                "propensity for family and honor conflicts"
+            ],
+            "education and intellectual abilities": [
+                "uneducated",
+                "resistance to modern education"
+            ],
+            "occupation and economic role": [
+                "lack of interest in non-military careers"
+            ],
+            "political & social influence": [
+                "disdain for democratic equality"
+            ]
+        },
+        "Chamar": {
+            "social status and hierarchy": [
+                "lower caste",
+                "untouchables",
+                "resistant to societal hierarchy"
+            ],
+            "pride and bigotry": [
+                "undeserving",
+                "ugly and unclean",
+                "overemphasis on caste identity",
+                "reluctance to integrate with upper castes",
+                "tendency to form insular communities"
+            ],
+            "occupation and economic role": [
+                "don't belong in white collar jobs",
+                "shoe makers",
+                "over-reliance on traditional occupations",
+                "dependence on government support",
+                "strong attachment to manual labor identity"
+            ],
+            "political & social influence": [
+                "perceived dependence on reservations",
+                "overly assertive in activism",
+                "politically radical",
+                "overemphasis on caste-based rights",
+                "victims in conflicts"
+            ],
+            "cultural identity, practices and rituals": [
+                "resistance to embracing modern roles"
+            ],
+            "education and intellectual abilities": [
+                "lack of aspiration for higher education",
+                "lack representation in elite professions"
+            ]
+        },
+        "Pasi": {
+            "social status and hierarchy": [
+                "lower caste",
+                "untouchables",
+                "considered marginalized and dependent"
+            ],
+            "pride and bigotry": [
+                "undeserving",
+                "ugly",
+                "overemphasis on caste identity",
+                "resistant to social integration",
+                "culturally insular"
+            ],
+            "occupation and economic role": [
+                "don't belong in white collar jobs",
+                "shoe makers",
+                "perceived reliance on government schemes",
+                "strong association with manual labor",
+                "economically disadvantaged",
+                "bound to traditional occupations"
+            ],
+            "education and intellectual abilities": [
+                "limited aspiration for education",
+                "lacking modern skillsets",
+                "lacking ambition"
+            ],
+            "political & social influence": [
+                "politically inactive",
+                "over-reliance on reservation benefits",
+                "passive in conflicts"
+            ]
+        },
+        "Bhangi": {
+            "social status and hierarchy": [
+                "lower caste",
+                "untouchables"
+            ],
+            "pride and bigotry": [
+                "undeserving",
+                "ugly and unhygienic",
+                "considered resistant to societal integration",
+                "culturally insular"
+            ],
+            "occupation and economic role": [
+                "don't belong in white collar jobs",
+                "clean sewage",
+                "economically marginalized",
+                "reliant on government schemes",
+                "bound to traditional occupations",
+                "economically stagnant"
+            ],
+            "education and intellectual abilities": [
+                "lack of educational inspiration",
+                "lack ambition",
+                "lacking modern skillsets",
+                "no leadership quality"
+            ],
+            "political & social influence": [
+                "passive in social matters",
+                "overgeneralized as victims of oppression",
+                "overly dependent on reservations",
+                "politically inactive"
+            ],
+            "cultural identity, practices and rituals": [
+                "resistant to urban lifestyles"
+            ]
+        },
+        "Shudra": {
+            "social status and hierarchy": [
+                "lower caste",
+                "untouchables",
+                "economically and socially disadvantaged"
+            ],
+            "pride and bigotry": [
+                "undeserving",
+                "ugly",
+                "submissive to higher castes",
+                "culturally insular and isolated"
+            ],
+            "occupation and economic role": [
+                "don't belong in white collar jobs",
+                "craftsmen",
+                "associated with menial labor",
+                "perpetually tied to rural livelihoods"
+            ],
+            "political & social influence": [
+                "dependant on quotas",
+                "reliant on government reservations",
+                "politically inactive or underrepresented",
+                "over-reliance on caste-based affirmative action"
+            ],
+            "education and intellectual abilities": [
+                "lacking education and ambition",
+                "resistant to upward mobility",
+                "lacking modern skills"
+            ],
+            "cultural identity, practices and rituals": [
+                "strong association with traditional caste duties",
+                "hesitant to adopt urban lifestyles"
+            ]
+        },
+        "SC/ST": {
+            "social status and hierarchy": [
+                "lower caste",
+                "untouchables",
+                "economically and socially disadvantaged"
+            ],
+            "pride and bigotry": [
+                "undeserving",
+                "ugly",
+                "criminals",
+                "culturally insular"
+            ],
+            "occupation and economic role": [
+                "don't belong in white collar jobs",
+                "unworthy of jobs",
+                "doesn't belong in white collar jobs",
+                "associated with traditional or menial labor"
+            ],
+            "political & social influence": [
+                "dependant on quotas",
+                "reliant on government reservations",
+                "overly dependent on subsidies",
+                "politically passive or inactive",
+                "over-reliance on affirmative action policies"
+            ],
+            "education and intellectual abilities": [
+                "unsophisticated",
+                "lacking ambition or initiative",
+                "resistant to upward mobility",
+                "lacking modern education and skills"
+            ],
+            "cultural identity, practices and rituals": [
+                "hesitant to adopt urban lifestyles"
+            ]
+        },
+        "Dalit": {
+            "social status and hierarchy": [
+                "lower caste",
+                "untouchables",
+                "economically and socially marginalized"
+            ],
+            "pride and bigotry": [
+                "undeserving",
+                "ugly and dirty",
+                "criminals",
+                "resistant to societal integration",
+                "culturally insular",
+                "victims without agency"
+            ],
+            "occupation and economic role": [
+                "don't belong in white collar jobs",
+                "only do blue collar jobs",
+                "associated with manual and menial labor"
+            ],
+            "political & social influence": [
+                "dependant on quotas",
+                "reliant on government reservations",
+                "over-reliance on affirmative action policies",
+                "dependent on government subsidies",
+                "politically inactive"
+            ],
+            "education and intellectual abilities": [
+                "lacking education and ambition",
+                "no leadership qualities"
+            ],
+            "cultural identity, practices and rituals": [
+                "perpetually tied to traditional roles",
+                "hesitant to adopt modern lifestyles"
+            ]
+        },
+        "Mahar": {
+            "occupation and economic role": [
+                "associated with menial or military roles",
+                "economically disadvantaged",
+                "tied to traditional occupations",
+                "associated with rural livelihoods",
+                "economically stagnant"
+            ],
+            "political & social influence": [
+                "reliant on government reservations",
+                "overly dependent on subsidies",
+                "politically inactive or underrepresented",
+                "over-reliance on affirmative action policies"
+            ],
+            "pride and bigotry": [
+                "resistant to societal integration",
+                "focused on caste identity",
+                "victims without agency",
+                "culturally insular",
+                "resistant to breaking caste barriers",
+                "submissive to upper castes"
+            ],
+            "education and intellectual abilities": [
+                "no leadership qualities",
+                "lacking ambition for upward mobility",
+                "lacking innovation"
+            ],
+            "cultural identity, practices and rituals": [
+                "hesitant to adopt modern lifestyles"
+            ],
+            "social status and hierarchy": [
+                "perpetually tied to marginalized status"
+            ]
+        },
+        "Vaishya": {
+            "pride and bigotry": [
+                "obsessed with wealth and profit",
+                "overly materialistic",
+                "socially and culturally aloof",
+                "overly conservative",
+                "associated with maintaining caste exclusivity",
+                "overly calculative",
+                "disconnected from rural issues",
+                "focused solely on family wealth",
+                "status-conscious",
+                "resistant to inter-caste interactions"
+            ],
+            "occupation and economic role": [
+                "exploitative in business",
+                "prioritizing economic gains over ethics",
+                "reluctant to engage in non-commercial professions",
+                "resistant to manual labor",
+                "overly reliant on trade and commerce",
+                "lacking military or artistic contributions"
+            ],
+            "political & social influence": [
+                "politically passive",
+                "resistant to social reform",
+                "uninterested in public welfare"
+            ],
+            "education and intellectual abilities": [
+                "risk-averse in innovation"
+            ]
+        },
+        "Kayastha": {
+            "pride and bigotry": [
+                "overly ambitious and power-hungry",
+                "overly status-conscious",
+                "overly calculative and shrewd",
+                "socially aloof",
+                "overly dependent on historical prestige",
+                "disconnected from rural communities",
+                "excessively focused on material success"
+            ],
+            "political & social influence": [
+                "excessively bureaucratic",
+                "politically manipulative",
+                "resistant to grassroots activism"
+            ],
+            "education and intellectual abilities": [
+                "opportunistic in career pursuits",
+                "associated with intellectual elitism"
+            ],
+            "occupation and economic role": [
+                "prioritizing personal gain over community welfare",
+                "resistant to manual or physical labor",
+                "overly reliant on education and clerical roles",
+                "lacking interest in agricultural or industrial work",
+                "self-serving in social initiatives"
+            ],
+            "cultural identity, practices and rituals": [
+                "conservative in family values",
+                "resistant to cultural assimilation",
+                "associated with rigid adherence to tradition"
+            ]
+        },
+        "Dhobi": {
+            "occupation and economic role": [
+                "associated with menial laundry work",
+                "overly dependent on traditional occupations",
+                "economically stagnant"
+            ],
+            "social status and hierarchy": [
+                "economically disadvantaged",
+                "associated with rural and marginalized communities",
+                "associated with low socio-economic status"
+            ],
+            "education and intellectual abilities": [
+                "lacking ambition or education",
+                "lacking modern skills",
+                "lacking innovation or progressiveness"
+            ],
+            "cultural identity, practices and rituals": [
+                "resistant to societal progress",
+                "hesitant to adopt modern professions",
+                "tied to historical occupational roles",
+                "disconnected from urban opportunities"
+            ],
+            "pride and bigotry": [
+                "culturally insular",
+                "resistant to inter-caste integration",
+                "victims without agency",
+                "submissive to societal hierarchies"
+            ],
+            "political & social influence": [
+                "reliant on government schemes",
+                "politically inactive",
+                "overly reliant on quotas"
+            ]
+        },
+        "Jat": {
+            "pride and bigotry": [
+                "overly aggressive or dominant",
+                "caste-conscious and insular",
+                "excessively proud of their heritage",
+                "resistant to inter-caste marriages",
+                "dismissive of marginalized groups",
+                "overly competitive and confrontational",
+                "neglecting women's rights"
+            ],
+            "education and intellectual abilities": [
+                "resistant to education and intellectual pursuits"
+            ],
+            "occupation and economic role": [
+                "overly focused on agriculture and landownership",
+                "associated with traditional rural dominance",
+                "economically conservative and risk-averse",
+                "reluctant to embrace industrialization"
+            ],
+            "cultural identity, practices and rituals": [
+                "associated with feudal and patriarchal values",
+                "dismissive of urban lifestyles"
+            ],
+            "political & social influence": [
+                "resistant to modern reforms",
+                "politically manipulative",
+                "prioritizing community interests over merit",
+                "overly reliant on quotas and subsidies",
+                "overly involved in local power dynamics",
+                "resistant to cultural or social change"
+            ]
+        },
+        "Lingayat": {
+            "cultural identity, practices and rituals": [
+                "overly focused on religious identity",
+                "rigid in religious practices",
+                "overly focused on maintaining cultural identity"
+            ],
+            "pride and bigotry": [
+                "insular and caste-conscious despite anti-caste roots",
+                "resistant to interfaith or inter-caste marriages",
+                "overly conservative in traditions",
+                "disconnected from urbanization and industrialization",
+                "dismissive of other cultural or religious practices",
+                "overly dependent on historical narratives"
+            ],
+            "political & social influence": [
+                "politically dominant in specific regions",
+                "prioritizing community benefits over inclusivity",
+                "excessively reliant on religious leaders",
+                "associated with regional political influence",
+                "resistant to modern societal changes",
+                "politically competitive and self-serving",
+                "prioritizing community welfare over broader society",
+                "resistant to globalization or external influences",
+                "politically fragmented within their own community",
+                "hesitant to adopt progressive reforms"
+            ],
+            "occupation and economic role": [
+                "economically focused on agrarian practices"
+            ]
+        },
+        "Kshatriya": {
+            "pride and bigotry": [
+                "overly proud of martial heritage",
+                "aggressive and domineering",
+                "dismissive of lower castes",
+                "overly focused on honor and family pride",
+                "being patriarchal and gender-biased",
+                "resistant to inter-caste relationships",
+                "associated with maintaining caste exclusivity",
+                "elitist and hierarchical",
+                "overly reliant on historical narratives of power",
+                "overly protective of their social status"
+            ],
+            "occupation and economic role": [
+                "resistant to modern professions outside of traditional roles"
+            ],
+            "cultural identity, practices and rituals": [
+                "associated with feudal and hierarchical values",
+                "prioritizing tradition over innovation",
+                "overly focused on ceremonial practices",
+                "reluctant to adopt urban lifestyles"
+            ],
+            "political & social influence": [
+                "resistant to progressive social reforms",
+                "politically and socially conservative",
+                "disconnected from grassroots issues",
+                "overly competitive in rural political dynamics"
+            ],
+            "education and intellectual abilities": [
+                "lacking adaptability to modern challenges"
+            ]
+        },
+        "OBC": {
+            "political & social influence": [
+                "overly reliant on reservations",
+                "associated with caste-based political mobilization",
+                "reluctant to embrace progressive reforms",
+                "politically fragmented",
+                "overly dependent on affirmative action policies",
+                "resistant to social and cultural change",
+                "passive in societal issues",
+                "politically opportunistic"
+            ],
+            "education and intellectual abilities": [
+                "lacking merit in education and jobs",
+                "lacking urban or modern aspirations",
+                "underrepresented in elite professions",
+                "lacking innovation and enterprise"
+            ],
+            "occupation and economic role": [
+                "economically dependent on government schemes",
+                "associated with traditional and agrarian occupations",
+                "hesitant to adopt industrial or technological roles",
+                "associated with rural dominance in some regions",
+                "economically stagnant in some areas"
+            ],
+            "pride and bigotry": [
+                "resistant to inter-caste integration",
+                "overly focused on caste identity"
+            ],
+            "cultural identity, practices and rituals": [
+                "socially conservative"
+            ]
+        },
+        "Khatik": {
+            "occupation and economic role": [
+                "associated with traditional occupations in meat and hides",
+                "tied to caste-based occupations",
+                "associated with manual labor and traditional work",
+                "economically stagnant and reliant on traditional roles"
+            ],
+            "social status and hierarchy": [
+                "economically and socially marginalized",
+                "associated with rural and marginalized communities"
+            ],
+            "political & social influence": [
+                "overly reliant on government reservations",
+                "politically inactive or underrepresented",
+                "overly dependent on subsidies and government aid"
+            ],
+            "education and intellectual abilities": [
+                "resistant to upward mobility",
+                "lacking education and ambition",
+                "lacking innovation and adaptability",
+                "lacking in technological or industrial skills"
+            ],
+            "pride and bigotry": [
+                "culturally insular",
+                "hesitant to break caste barriers",
+                "victims without agency",
+                "overly focused on caste identity"
+            ],
+            "cultural identity, practices and rituals": [
+                "resistant to adopting modern professions",
+                "disconnected from urban lifestyles and opportunities",
+                "conservative in social reforms"
+            ]
+        },
+        "Baniya": {
+            "pride and bigotry": [
+                "obsessed with wealth and profit",
+                "excessively materialistic",
+                "overly calculative and shrewd",
+                "conservative and risk-averse",
+                "socially aloof and insular",
+                "disconnected from grassroots and rural issues",
+                "associated with maintaining strict caste exclusivity",
+                "overly status-conscious",
+                "excessively focused on family wealth and legacy",
+                "disconnected from non-economic cultural activities",
+                "resistant to inter-caste relationships and assimilation"
+            ],
+            "occupation and economic role": [
+                "exploitative in business practices",
+                "associated with a lack of interest in non-commercial professions",
+                "prioritizing personal gain over community welfare",
+                "reluctant to engage in physical or manual labor",
+                "lacking military or artistic contributions",
+                "overly dependent on traditional commerce"
+            ],
+            "political & social influence": [
+                "resistant to progressive social reforms",
+                "politically inactive or indifferent",
+                "indifferent to public welfare initiatives"
+            ]
+        },
+        "Thakur": {
+            "pride and bigotry": [
+                "overly proud of their heritage",
+                "caste-conscious and insular",
+                "patriarchal and gender-biased",
+                "overly focused on status and honor",
+                "dismissive of lower castes",
+                "resistant to inter-caste relationships",
+                "overly dependent on historical prestige",
+                "resistant to breaking caste hierarchies",
+                "overly protective of their caste identity"
+            ],
+            "cultural identity, practices and rituals": [
+                "feudal and authoritarian",
+                "associated with traditional roles over modern professions",
+                "disconnected from urban lifestyles",
+                "conservative in cultural and social views",
+                "associated with ceremonial practices over practical progress"
+            ],
+            "political & social influence": [
+                "resistant to progressive reforms",
+                "politically manipulative in rural areas",
+                "prioritizing community interests over inclusivity"
+            ],
+            "occupation and economic role": [
+                "associated with rural dominance and landownership",
+                "economically conservative and risk-averse"
+            ],
+            "education and intellectual abilities": [
+                "lacking innovation and adaptability"
+            ]
+        },
+        "Reddy": {
+            "political & social influence": [
+                "politically dominant in regional politics",
+                "politically opportunistic",
+                "resistant to progressive reforms",
+                "prioritizing community over inclusivity",
+                "disconnected from grassroots societal issues"
+            ],
+            "cultural identity, practices and rituals": [
+                "feudal and landowning elites",
+                "associated with ceremonial pride over practical development"
+            ],
+            "occupation and economic role": [
+                "resistant to modern professions outside of agriculture",
+                "associated with rural dominance and traditional power structures",
+                "overly reliant on historical landownership",
+                "hesitant to adopt urban or industrial roles",
+                "overly dependent on traditional agrarian practices",
+                "economically conservative and risk-averse"
+            ],
+            "pride and bigotry": [
+                "caste-conscious and insular",
+                "patriarchal and conservative",
+                "overly focused on family prestige and status",
+                "dismissive of lower castes",
+                "associated with maintaining caste-based hierarchies",
+                "resistant to inter-caste marriages"
+            ],
+            "education and intellectual abilities": [
+                "lacking innovation and entrepreneurial spirit"
+            ]
+        },
+        "Valmiki": {
+            "occupation and economic role": [
+                "associated with traditional sanitation work",
+                "associated with low-status occupations",
+                "economically stagnant",
+                "associated with manual labor and physical work"
+            ],
+            "social status and hierarchy": [
+                "economically marginalized"
+            ],
+            "political & social influence": [
+                "overly reliant on government reservations",
+                "politically underrepresented",
+                "dependent on subsidies and government aid",
+                "passive in social progress"
+            ],
+            "education and intellectual abilities": [
+                "lacking ambition or education",
+                "lacks modern skills or adaptability",
+                "resistant to upward mobility"
+            ],
+            "pride and bigotry": [
+                "resistant to societal integration",
+                "culturally insular",
+                "victims without self-agency",
+                "overly focused on caste identity",
+                "hesitant to break caste hierarchies"
+            ],
+            "cultural identity, practices and rituals": [
+                "hesitant to adopt urban professions",
+                "disconnected from mainstream opportunities",
+                "overly reliant on historical occupational roles"
+            ]
+        }
+    }
+}
