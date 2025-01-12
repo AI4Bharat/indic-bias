@@ -1,5 +1,5 @@
 from langchain_openai import ChatOpenAI, AzureChatOpenAI
-from models.model import BaseModel
+from synth_data_gen.models.model import BaseModel
 from typing import Dict
 
 import openai

@@ -1,6 +1,6 @@
 import re
 import json
-from models.openai import *
+from synth_data_gen.models.openai import *
 from langchain_core.output_parsers import JsonOutputParser
 
 def fix_json(json_str: str, model_name: str, max_tokens: int, temperature: float) -> dict:

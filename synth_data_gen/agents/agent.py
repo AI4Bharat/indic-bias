@@ -3,9 +3,9 @@ import pytz
 import random
 import logging
 import jsonlines
-from models.openai import *
+from synth_data_gen.models.openai import *
 from datetime import datetime
-from utils.parser import JSONparser, LangchainJSONParser
+from synth_data_gen.utils.parser import JSONparser, LangchainJSONParser
 from rich.logging import RichHandler
 
 
