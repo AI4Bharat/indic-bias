@@ -11,7 +11,7 @@ if 's_index' not in st.session_state:
 
 
 def next_element():
-    if st.session_state['s_index'] < len(statements) - 1:
+    if st.session_state['s_index'] < len(statements):
         st.session_state['s_index'] += 1
     else:
         st.session_state.message = {"message": "You have completed this successfully !!!"}
@@ -67,9 +67,40 @@ with c:
     st.write(f"Statement {st.session_state.s_index + 1}/{len(statements)}")
 # with r:
 #     st.button('Next', on_click=next_element, disabled=st.session_state['s_index'] == len(statements) - 1)
+with st.container():
+    statement = curr_statement['statement']
+    st.markdown(f"""
+    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+        <strong>Positive Template:</strong><br>
+        {statement['positive_template']}
+    </div>
 
-with st.container(border=True):
-    st.markdown(f" <h3 style='text-align: center;'> {curr_statement['statement']}</h3>", unsafe_allow_html=True)
+    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+        <strong>Negative Template:</strong><br>
+        {statement['negative_template']}
+    </div>
+
+    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+        <strong>Topic:</strong><br>
+        {statement['topic']}
+    </div>
+
+    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+        <strong>Topic Description:</strong><br>
+        {statement['topic_description']}
+    </div>
+
+    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+        <strong>Concept:</strong><br>
+        {statement['concept']}
+    </div>
+
+    <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+        <strong>Concept Description:</strong><br>
+        {statement['concept_description']}
+    </div>
+    <br>
+    """, unsafe_allow_html=True)
 
 answers = st.session_state.answers[statement_ids[st.session_state.s_index]]
 
