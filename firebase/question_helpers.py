@@ -34,7 +34,6 @@ def get_questions_by_type(axes, task_type):
     return result
 
 
-
 def get_statement_by_user(uuid, axes, axes_type):
     result = []
     query = master_ref.document(uuid).collection("tasks").where(
@@ -52,10 +51,11 @@ def get_statement_by_user(uuid, axes, axes_type):
 
 
 def store_answers(uuid, answers, task_id):
+    firestore_answers = list(answers.values()).copy()
+
+    for question in firestore_answers:
+        if question['type'] == 'msq':
+            question['answer'] = ",".join(question['answer'])
+
     task_ref = master_ref.document(uuid).collection("tasks").document(task_id)
-    task_ref.update({'is_annotated': True})
-    for task_id, task_answer in answers.items():
-        task_ref = master_ref.document(uuid).collection("tasks").document(task_id)
-        for answer_idx, answer in task_answer.items():
-            if answer.get('answer'):
-                task_ref.collection('answers').document(answer['id']).set(answer)
+    task_ref.update({'is_annotated': True, 'answers': firestore_answers})

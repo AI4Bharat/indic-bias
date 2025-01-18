@@ -2,20 +2,13 @@ import streamlit as st
 
 from firebase.question_helpers import get_questions_by_type, get_statement_by_user
 from firebase.question_helpers import store_answers
+
 flag = False
 st.set_page_config(layout="wide")
 st.title("Introduction")
 
 if 's_index' not in st.session_state:
     st.session_state['s_index'] = 0
-
-
-def next_element():
-    if st.session_state['s_index'] < len(statements):
-        st.session_state['s_index'] += 1
-    else:
-        st.session_state.message = {"message": "You have completed this successfully !!!"}
-        st.switch_page("pages/user.py")
 
 
 # THWWaKrElqXm8UyDhcdH
@@ -38,9 +31,7 @@ try:
     curr_statement = statements[st.session_state.s_index]
 except IndexError:
 
-
-
-    st.session_state.message  =  {"message": "This task is either completed or it has not been assigned yet"}
+    st.session_state.message = {"message": "This task is either completed or it has not been assigned yet"}
     st.switch_page("pages/user.py")
 # st.markdown(f" <h3 style='text-align: center;'> {curr_statement['statement']}</h3>", unsafe_allow_html=True)
 
@@ -126,6 +117,8 @@ def all_questions_answered():
     return True
 
 
+st.write(answers)
+
 for q_index, question in enumerate(questions):
     st.markdown(f"<h5>{q_index + 1}. {question['question']}<h5>", unsafe_allow_html=True)
 
@@ -149,16 +142,22 @@ for q_index, question in enumerate(questions):
                                               options=question['options'],
                                               key=f'{st.session_state.s_index}{q_index}',
                                               label_visibility="collapsed")
-is_submit_enabled = all_questions_answered()
-if st.button("Submit", disabled=not is_submit_enabled, on_click=next_element) :
 
 
-    store_answers(uuid, st.session_state.answers, statement_ids[st.session_state.s_index])
-    st.toast('Saved Successfully')
-    if st.session_state['s_index']  ==  len(statements) - 1:
+def next_element():
+    store_answers(uuid, answers, statement_ids[st.session_state.s_index])
+    if st.session_state['s_index'] < len(statements):
+        st.session_state['s_index'] += 1
+    else:
+        st.session_state.message = {"message": "You have completed this successfully !!!"}
         st.switch_page("pages/user.py")
 
 
+is_submit_enabled = all_questions_answered()
+if st.button("Submit", disabled=not is_submit_enabled, on_click=next_element):
 
+    st.toast('Saved Successfully')
+    if st.session_state['s_index'] == len(statements) - 1:
+        st.switch_page("pages/user.py")
 
     # st.session_state['redirect'] = True
