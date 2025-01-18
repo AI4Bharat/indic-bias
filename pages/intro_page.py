@@ -61,37 +61,32 @@ with c:
 with st.container():
     statement = curr_statement['statement']
     st.markdown(f"""
-    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
-        <strong>Positive Template:</strong><br>
-        {statement['positive_template']}
-    </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+       <strong>Positive Template:</strong><br>
+       {statement['positive_template'].replace('<', '&lt;').replace('>', '&gt;')}
+   </div>
 
-    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
-        <strong>Negative Template:</strong><br>
-        {statement['negative_template']}
-    </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+       <strong>Negative Template:</strong><br>
+       {statement['negative_template'].replace('<', '&lt;').replace('>', '&gt;')}
+   </div>
 
-    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
-        <strong>Topic:</strong><br>
-        {statement['topic']}
-    </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+       <strong>Topic:</strong><br>
+       {statement['topic']}
+       <br>
+       <strong>Description:</strong><br>
+       {statement['topic_description']}
+   </div>
 
-    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
-        <strong>Topic Description:</strong><br>
-        {statement['topic_description']}
-    </div>
-
-    <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
-        <strong>Concept:</strong><br>
-        {statement['concept']}
-    </div>
-
-    <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-        <strong>Concept Description:</strong><br>
-        {statement['concept_description']}
-    </div>
-    <br>
-    """, unsafe_allow_html=True)
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+       <strong>Concept:</strong><br>
+       {statement['concept']}
+       <br>
+       <strong>Description:</strong><br>
+       {statement['concept_description']}
+   </div>
+   """, unsafe_allow_html=True)
 
 answers = st.session_state.answers[statement_ids[st.session_state.s_index]]
 
