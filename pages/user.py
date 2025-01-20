@@ -1,7 +1,9 @@
 import streamlit as st
 
-from firebase import allowed_emails
-from firebase.question_helpers import get_statements_by_type
+from firebase.question_helpers import get_statements_by_type,get_all_types
+
+
+
 if "statements" in st.session_state:
     del st.session_state["statements"]
 
@@ -10,10 +12,6 @@ if "userObj" not in st.session_state:
     st.switch_page('main.py')
 
 userObj = st.session_state.userObj
-
-if userObj.get("email") not in allowed_emails:
-    st.session_state.error = {'message': 'You are not allowed to access this app.'}
-    st.switch_page('main.py')
 
 st.markdown(f"## **Welcome {userObj['displayName']}**")
 if "userObj" in st.session_state:
@@ -24,15 +22,20 @@ else:
     st.session_state.error = {'message': 'Please login first'}
     st.switch_page('main.py')
 
+#
+# st.write(uuid)
+
 if "message" in st.session_state:
     st.toast(st.session_state.message['message'])
     del st.session_state["message"]
 
-axes_types = ["Bias", "Stereotype", "Toxicity", "Harmful Activities"]
-task_types = ['Sentiment', 'Plausibility', 'Judgement', 'Classification', 'Generation']
+axes_types = get_all_types(uuid)
 
-axes = st.selectbox("Axes", axes_types)
-task_type = st.selectbox("Task Types", task_types)
+axes = axes_types['axes']
+types = axes_types['types']
+
+axes = st.selectbox("Axes", axes,format_func=lambda x:x[0].upper()+x[1:])
+task_type = st.selectbox("Task Types", types,format_func=lambda x:x[0].upper()+x[1:])
 
 if st.button("Next"):
     task = {"axes": axes, "type": task_type}
@@ -41,5 +44,5 @@ if st.button("Next"):
     if "s_index" in st.session_state:
         del st.session_state["s_index"]
     st.session_state.task = task
-    st.session_state.statements = get_statements_by_type(axes, task_type)
+    st.session_state.statements = get_statements_by_type(axes=axes.lower(), statement_type=task_type.lower(),uuid=uuid)
     st.switch_page('pages/intro_page.py')

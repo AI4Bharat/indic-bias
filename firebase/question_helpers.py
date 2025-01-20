@@ -5,20 +5,38 @@ from firebase import db, questions_ref, master_ref
 statements_ref = db.collection('statements')
 
 
-def get_all_statements():
-    result = []
-    for question in statements_ref.stream():
-        question = question.to_dict() | {'id': question.id}
-        result.append(question)
+def get_all_types(uuid):
+    result = {'axes': set(),'types': set()}
+
+    tasks_ref = master_ref.document(uuid).collection('tasks')
+
+    for task in tasks_ref.stream():
+        result['axes'].add(task.to_dict()['axes'])
+        result['types'].add(task.to_dict()['type'])
+
+    result['axes'] = list(result['axes'])
+    result['types'] = list(result['types'])
 
     return result
 
 
-def get_statements_by_type(axes, statement_type):
+def get_statements_by_type(axes, statement_type,uuid):
+
     result = []
-    for question in statements_ref.where(filter=FieldFilter('axes', '==', axes)).where(filter=FieldFilter('type', '==', statement_type)).stream():
-        question = question.to_dict() | {'id': question.id}
-        result.append(question)
+
+    tasks_ref = master_ref.document(uuid).collection('tasks')
+
+    query = tasks_ref.where(filter=And([
+        FieldFilter('type','==' ,statement_type),
+        FieldFilter('axes','==' ,axes),
+    ]))
+
+    print(axes,statement_type)
+
+
+    for statement in query.stream():
+        statement = statement.to_dict() | {'id': statement.id}
+        result.append(statement)
 
     return result
 
@@ -50,12 +68,10 @@ def get_statement_by_user(uuid, axes, axes_type):
     return result
 
 
-def store_answers(uuid, answers, task_id):
-    firestore_answers = list(answers.values()).copy()
+def store_answers(uuid, answer, task_id):
 
-    for question in firestore_answers:
-        if question['type'] == 'msq':
-            question['answer'] = ",".join(question['answer'])
+    task_ref = master_ref.document(uuid).collection('tasks').document(task_id)
 
-    task_ref = master_ref.document(uuid).collection("tasks").document(task_id)
-    task_ref.update({'is_annotated': True, 'answers': firestore_answers})
+    task_ref.update({'answers': answer,'is_annotated': True})
+
+    return True
