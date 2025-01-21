@@ -16,7 +16,7 @@ def get_all_types(uuid):
 
     result['axes'] = list(result['axes'])
     result['types'] = list(result['types'])
-
+ 
     return result
 
 

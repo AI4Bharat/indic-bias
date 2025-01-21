@@ -1,6 +1,6 @@
 import streamlit as st
 from firebase_admin import credentials, initialize_app, get_app, firestore
-from httpx_oauth.clients.google import GoogleOAuth2
+# from httpx_oauth.clients.google import GoogleOAuth2
 
 app = None
 try:
@@ -9,11 +9,11 @@ except ValueError:
     creds = credentials.Certificate(dict(st.secrets.get('serviceAccount')))
     app = initialize_app(creds)
 
-db = firestore.client(app)
+db = firestore.client(app,database_id="indic-bias")
 
 web_api_key = st.secrets.firebaseAPIKEY.key
 
-oauth_client = GoogleOAuth2(client_id=st.secrets.oAuth.client_id, client_secret=st.secrets.oAuth.client_secret)
+#oauth_client = GoogleOAuth2(client_id=st.secrets.oAuth.client_id, client_secret=st.secrets.oAuth.client_secret)
 master_ref = db.collection('master')
 
 emails_ref = db.collection('emails')

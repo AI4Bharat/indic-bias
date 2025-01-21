@@ -43,6 +43,8 @@ with c:
 
 with st.container():
     statement = curr_statement['statement']
+    
+    # st.write(curr_statement)
 
 
     if curr_statement['axes'] == "bias":
