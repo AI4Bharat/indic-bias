@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
-from utils.parse_results import parse_plausible_scenario, parse_judgement
+from evaluations.bias.parse_results import parse_plausible_scenario, parse_judgement
 
 
 #This ELO Ranking is based on the Bradley-Terry model adapted from LLM Chat Arena
