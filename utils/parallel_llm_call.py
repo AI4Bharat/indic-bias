@@ -385,11 +385,14 @@ def parse_args():
     parser.add_argument("--input_file_name", type=str, help = "Input file name")
     parser.add_argument("--output_file_name", type=str, help = "Output file name")
     parser.add_argument("--n_jobs", type=int, help = "Number of parallel jobs to run")
+    parser.add_argument("--debug", action = 'store_true', help = "Debug mode")
     args = parser.parse_args()
     return args
 
 def main(args):
     data = read_jsonl(args.input_file_name)
+    if args.debug:
+        data = data[:500]
     #check the model type
     if data[0]['body']['model'] in ['gpt-4o', 'gpt-4o-mini']:
         results = Parallel(n_jobs = args.n_jobs)(delayed(backoff_openai_call)(data_dict) for data_dict in tqdm(data))
