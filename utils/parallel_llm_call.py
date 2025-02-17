@@ -12,7 +12,6 @@ from anthropic import RateLimitError as AnthropicRateLimitError
 from config import *
 
 
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger()
 
