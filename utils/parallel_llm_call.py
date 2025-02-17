@@ -11,18 +11,6 @@ from anthropic import Anthropic
 from anthropic import RateLimitError as AnthropicRateLimitError
 from config import *
 
-# # OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-# OPENAI_API_KEY = "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"
-# LLAMA3_API_KEY = os.getenv('LLAMA3_API_KEY')
-# LLAMA3_BASE_URL = os.getenv('LLAMA3_BASE_URL')
-# CLAUDE_API_KEY = os.getenv('CLAUDE_API_KEY')
-# GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
-# # AZURE_OPENAI_API_KEY = os.getenv('AZURE_OPENAI_API_KEY')
-# AZURE_OPENAI_API_KEY = "289e3b5b5c7e40dd859265e4102d93ca"
-# # AZURE_OPENAI_ENDPOINT = os.getenv('AZURE_ENDPOINT')
-# AZURE_OPENAI_ENDPOINT = "https://prompt-dashboard.openai.azure.com/"
-# # AZURE_OPENAI_API_VERSION = os.getenv('AZURE_OPENAI_API_VERSION')
-# AZURE_OPENAI_API_VERSION = "2024-05-01-preview"
 
 
 logging.basicConfig(level=logging.INFO)
