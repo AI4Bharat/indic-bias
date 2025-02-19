@@ -3,3 +3,4 @@ httpx-oauth
 firebase-admin~=6.6.0
 requests~=2.32.3
 protobuf~=5.28.3
+scikit-learn
