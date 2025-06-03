@@ -1,7 +1,7 @@
 AZURE_OPENAI_BASE_URL = "<azure_openai_base_url>"
 AZURE_OPENAI_API_KEY = "<azure_openai_api_key>"
 AZURE_OPENAI_API_VERSION = "<azure_openai_api_version>"
-OPENAI_API_KEY="<openai_api_key>"
+OPENAI_API_KEY = "<openai_api_key>"
 LLAMA3_BASE_URL = "<llama3_base_url>"
 LLAMA3_API_KEY = "<llama3_api_key>"
 GEMMA_BASE_URL = "<gemma_base_url>"
