@@ -1,0 +1,15 @@
+pyyaml
+pytz
+jsonlines
+rich
+tqdm
+joblib
+langchain
+langchain-openai
+openai
+langchain-core
+pandas
+scikit-learn
+numpy
+itertools
+pydantic
