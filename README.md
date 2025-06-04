@@ -17,7 +17,7 @@ Install required dependencies:
 pip install -r requirements.txt
 ```
 
-We use a mix of API-based (e.g., OpenAI, Azure, GCP) and locally hosted models (via [VLLM's OpenAI compatible server](https://docs.vllm.ai/en/v0.8.3/serving/openai_compatible_server.html). PStore all API keys, base URLs, and configurations in the ```config.py``` file.
+We use a mix of API-based (e.g., OpenAI, Azure, GCP) and locally hosted models (via [VLLM's OpenAI compatible server](https://docs.vllm.ai/en/v0.8.3/serving/openai_compatible_server.html). Store all API keys, base URLs, and configurations in the `config.py` file.
 
 ## Taxonomy Creation
 The taxonomy for creating the Indic-Bias benchmark was driven by human experts. 
