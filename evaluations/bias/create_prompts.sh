@@ -11,63 +11,63 @@ model_list=(
 
 #For plausible scenarios task
 
-# for identity_type in "${identity_types[@]}"
-# do
-#     echo "Creating prompts for ${identity_type}..."
-#     python evaluations/bias/create_prompts.py --plausible\
-#         --identities_path "synth_data_gen/taxonomy/identites.json" --identity_type $identity_type\
-#         --templates_path "data/selection_1/bias_indic_plausible_scenario_templates.jsonl"\
-#         --output_path "data/populated_templates/bias/bias_indic_plausible_scenario_${identity_type}.jsonl"
+for identity_type in "${identity_types[@]}"
+do
+    echo "Creating prompts for ${identity_type}..."
+    python evaluations/bias/create_prompts.py --plausible\
+        --identities_path "synth_data_gen/taxonomy/identites.json" --identity_type $identity_type\
+        --templates_path "data/selection_1/bias_indic_plausible_scenario_templates.jsonl"\
+        --output_path "data/populated_templates/bias/bias_indic_plausible_scenario_${identity_type}.jsonl"
 
-#     for model_name in "${model_list[@]}"
-#     do
-#         echo "    Creating batch for ${model_name}..."
-#         python utils/create_llm_batch.py\
-#             --input_path "data/populated_templates/bias/bias_indic_plausible_scenario_${identity_type}_positive.jsonl"\
-#             --output_path "data/evaluations/input_batches/bias/bias_indic_plausible_scenario_${identity_type}_positive_${model_name}.jsonl"\
-#             --model_name $model_name\
-#             --max_tokens 1024\
-#             --temperature 0
+    for model_name in "${model_list[@]}"
+    do
+        echo "    Creating batch for ${model_name}..."
+        python utils/create_llm_batch.py\
+            --input_path "data/populated_templates/bias/bias_indic_plausible_scenario_${identity_type}_positive.jsonl"\
+            --output_path "data/evaluations/input_batches/bias/bias_indic_plausible_scenario_${identity_type}_positive_${model_name}.jsonl"\
+            --model_name $model_name\
+            --max_tokens 1024\
+            --temperature 0
 
-#         python utils/create_llm_batch.py\
-#                 --input_path "data/populated_templates/bias/bias_indic_plausible_scenario_${identity_type}_negative.jsonl"\
-#                 --output_path "data/evaluations/input_batches/bias/bias_indic_plausible_scenario_${identity_type}_negative_${model_name}.jsonl"\
-#                 --model_name $model_name\
-#                 --max_tokens 1024\
-#                 --temperature 0
-#     done
-# done
+        python utils/create_llm_batch.py\
+                --input_path "data/populated_templates/bias/bias_indic_plausible_scenario_${identity_type}_negative.jsonl"\
+                --output_path "data/evaluations/input_batches/bias/bias_indic_plausible_scenario_${identity_type}_negative_${model_name}.jsonl"\
+                --model_name $model_name\
+                --max_tokens 1024\
+                --temperature 0
+    done
+done
 
 
 
 #for judgement task
 
-# for identity_type in "${identity_types[@]}"
-# do
-#     echo "Creating prompts for ${identity_type}..."
-#     python evaluations/bias/create_prompts.py --judgement\
-#         --identities_path "synth_data_gen/taxonomy/identites.json" --identity_type $identity_type\
-#         --templates_path "data/selection_1/bias_indic_judgement_templates.jsonl"\
-#         --output_path "data/populated_templates/bias/bias_indic_judgement_${identity_type}.jsonl"
+for identity_type in "${identity_types[@]}"
+do
+    echo "Creating prompts for ${identity_type}..."
+    python evaluations/bias/create_prompts.py --judgement\
+        --identities_path "synth_data_gen/taxonomy/identites.json" --identity_type $identity_type\
+        --templates_path "data/selection_1/bias_indic_judgement_templates.jsonl"\
+        --output_path "data/populated_templates/bias/bias_indic_judgement_${identity_type}.jsonl"
 
-#     for model_name in "${model_list[@]}"
-#     do
-#         echo "    Creating batch for ${model_name}..."
-#         python utils/create_llm_batch.py\
-#             --input_path "data/populated_templates/bias/bias_indic_judgement_${identity_type}_positive.jsonl"\
-#             --output_path "data/evaluations/input_batches/bias/bias_indic_judgement_${identity_type}_positive_${model_name}.jsonl"\
-#             --model_name $model_name\
-#             --max_tokens 1024\
-#             --temperature 0
+    for model_name in "${model_list[@]}"
+    do
+        echo "    Creating batch for ${model_name}..."
+        python utils/create_llm_batch.py\
+            --input_path "data/populated_templates/bias/bias_indic_judgement_${identity_type}_positive.jsonl"\
+            --output_path "data/evaluations/input_batches/bias/bias_indic_judgement_${identity_type}_positive_${model_name}.jsonl"\
+            --model_name $model_name\
+            --max_tokens 1024\
+            --temperature 0
 
-#         python utils/create_llm_batch.py\
-#                 --input_path "data/populated_templates/bias/bias_indic_judgement_${identity_type}_negative.jsonl"\
-#                 --output_path "data/evaluations/input_batches/bias/bias_indic_judgement_${identity_type}_negative_${model_name}.jsonl"\
-#                 --model_name $model_name\
-#                 --max_tokens 1024\
-#                 --temperature 0
-#     done
-# done
+        python utils/create_llm_batch.py\
+                --input_path "data/populated_templates/bias/bias_indic_judgement_${identity_type}_negative.jsonl"\
+                --output_path "data/evaluations/input_batches/bias/bias_indic_judgement_${identity_type}_negative_${model_name}.jsonl"\
+                --model_name $model_name\
+                --max_tokens 1024\
+                --temperature 0
+    done
+done
 
 
 
