@@ -65,13 +65,13 @@ python evaluations/<TYPE>/create_prompts.py \
 ```
 Where, ```<TYPE>``` is ```bias``` or ```stereotype```.
 - ```TASK_NAME```: Flag to specify for which task prompt to create. Possible values here are:
-  - ```--plausible```: Generate plausible scenario prompts.
-  - ```--plausible_cot```: Generate plausible prompts with Chain-of-Thought reasoning.
-  - ```--plausible_none```: Add a "none of the above" option to plausible prompts.
-  - ```--judgement```: Generate judgmental prompts.
-  - ```--judgement_cot```: Generate judgment prompts with Chain-of-Thought reasoning.
-  - ```--judgement_none```: Add a "none of the above" option to judgment prompts.
-  - ```--generation```: Generate open-ended generation prompts.
+  - ```--plausible```: For plausible scenario task.
+  - ```--plausible_cot```: For plausible scenario task with Chain-of-Thought reasoning.
+  - ```--plausible_none```: For plausible scenario task with a "none of the above" option.
+  - ```--judgement```: For Judgment task.
+  - ```--judgement_cot```: For Judgment task with Chain-of-Thought reasoning.
+  - ```--judgement_none```: For Judgment task with a "none of the above" option.
+  - ```--generation```: For the Generation task.
 - ```IDENTITIES_PATH```: Path to the file containing identity terms (e.g., religion.json, caste.json).
 - ```IDENTITY_TYPE```: Type of identity (choose from ```['tribe', 'caste', 'religion', 'region']```).
 - ```TEMPLATES_PATH```: Path to the file containing prompt templates in JSON format.
@@ -114,14 +114,7 @@ python utils/parallel_llm_call.py \
 Alternatively, one could use Batch API provided by OpenAI and GCP. Check [this](https://github.com/AI4Bharat/indic-bias/blob/master/utils/batch_llm_call.py) script. 
 
 ### 3. Evaluator LLM
-To evaluate the generation task, we use LLM-as-an-Evaluator paradigm. We again follow a two step process here - create prompt and then create batch. We then call our evaluator LLM (```Llama-3.3-70B-Instruct``` in our case).
-
-To create the prompts, run the below command:
-
----
-
-Use the following command to generate evaluation prompts for comparing two responses:
-
+To evaluate the `generation` task, we use LLM-as-an-Evaluator paradigm. We again follow a two step process here - create prompt and then create batch. We then call our evaluator LLM (```Llama-3.3-70B-Instruct``` in our case).
 ```bash
 python evaluations/bias/evaluator_llm.py \
   --results_file RESULTS_FILE \
@@ -147,6 +140,73 @@ python evaluations/stereotype/evaluator_llm.py \
 - ```OUTPUT_FILE```: Path to the output file where generated prompts will be stored.
 
 Then create the llm batch and call the LLM, by following the same previous steps.
+
+### 4. Compute the Results
+Finally, after running all the inferences and collecting the responses, we parse these responses and compute the ELO rating and other metrics reported.
+
+Run the below command to parse the results and compute the ELO rating for Bias Tasks.
+```bash
+python evaluations/bias/compute_elo_ranking.py \
+  --<TASK_NAME>
+  --results_file_path RESULTS_FILE_PATH \
+  --original_data_file_path ORIGINAL_DATA_FILE_PATH \
+  --output_file_path OUTPUT_FILE_PATH
+```
+- ```TASK_NAME```: Flag to specify for which task prompt to create. Possible values here are:
+  - ```--plausible```: For plausible scenario task.
+  - ```--plausible_cot```: For plausible scenario with CoT task.
+  - ```--judgement```: For Judgment task.
+  - ```--judgement_cot```: For Judgment CoT task.
+  - ```--generation```: For Generation task.
+- ```RESULTS_FILE_PATH```: Path to the file containing model results.
+- ```ORIGINAL_DATA_FILE_PATH```: Path to the original data used to create the results.
+- ```OUTPUT_FILE_PATH```: Path to save the final generated prompts.
+
+Run the below command to compute the Stereotype Association Rates (SAR) for the Stereotype Tasks.
+
+```bash
+python evaluations/stereotype/compute_scores.py \
+  --<TASK_NAME>
+  --results_file_path RESULTS_FILE_PATH \
+  --original_data_file_path ORIGINAL_DATA_FILE_PATH \
+  --output_file_path OUTPUT_FILE_PATH
+```
+- ```TASK_NAME```: Flag to specify for which task prompt to create. Possible values here are:
+  - ```--plausible```: For plausible scenario task.
+  - ```--plausible_cot```: For plausible scenario with CoT task.
+  - ```--judgement```: For Judgment task.
+  - ```--judgement_cot```: For Judgment CoT task.
+  - ```--generation```: For Generation task.
+- ```RESULTS_FILE_PATH```: Path to the file containing model results.
+- ```ORIGINAL_DATA_FILE_PATH```: Path to the original data used to create the results.
+- ```OUTPUT_FILE_PATH```: Path to save the final generated prompts.
+
+## Citation
+
+If you used this repository or our models, please cite our work:
+
+```bibtex
+@inproceedings{doddapaneni-etal-2024-finding,
+    title = "Finding Blind Spots in Evaluator {LLM}s with Interpretable Checklists",
+    author = "Doddapaneni, Sumanth  and
+      Khan, Mohammed Safi Ur Rahman  and
+      Verma, Sshubam  and
+      Khapra, Mitesh M",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.911/",
+    doi = "10.18653/v1/2024.emnlp-main.911",
+    pages = "16279--16309",
+    abstract = "Large Language Models (LLMs) are increasingly relied upon to evaluate text outputs of other LLMs, thereby influencing leaderboards and development decisions. However, concerns persist over the accuracy of these assessments and the potential for misleading conclusions. In this work, we investigate the effectiveness of LLMs as evaluators for text generation tasks. We propose FBI, a novel framework designed to examine the proficiency of Evaluator LLMs in assessing four critical abilities in other LLMs: factual accuracy, instruction following, coherence in long-form writing, and reasoning proficiency. By introducing targeted perturbations in answers generated by LLMs, that clearly impact one of these key capabilities, we test whether an Evaluator LLM can detect these quality drops. By creating a total of 2400 perturbed answers covering 22 perturbation categories, we conduct a comprehensive study using different evaluation strategies on five prominent LLMs commonly used as evaluators in the literature. Our findings reveal significant shortcomings in current Evaluator LLMs, which failed to identify quality drops in over 50{\%} of cases on average. Single-answer and pairwise evaluations demonstrated notable limitations, whereas reference-based evaluations showed comparatively better performance. \textit{These results underscore the unreliable nature of current Evaluator LLMs and advocate for cautious implementation in practical applications.}"
+}
+```
+
 
 
 
