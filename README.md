@@ -2,7 +2,7 @@
 
 FairI = "**Fair**"ness for "**I**"ndia
 
-[📜 Paper](https://arxiv.org/abs/2406.13439) | [🤗 HF Dataset](https://huggingface.co/datasets/ai4bharat/fbi)
+[📜 Paper](https://arxiv.org/abs/2406.13439) | [🤗 HF Dataset](https://huggingface.co/datasets/ai4bharat/Indic-Bias)
 
 We present **Indic-Bias**, a comprehensive benchmark to evaluate the fairness of LLMs across 85 Indian Identity groups, focusing on **Bias** and **Stereotypes**. We create three tasks - Plausibility, Judgment, and Generation, and evaluate 14 popular LLMs to identify allocative and representational harms. 
 
