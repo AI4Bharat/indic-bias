@@ -8,6 +8,10 @@ We present **Indic-Bias**, a comprehensive benchmark to evaluate the fairness of
 
 👉 The detailed list of all the identities can be found [here](https://github.com/AI4Bharat/indic-bias/blob/master/synth_data_gen/taxonomy/identites.json).
 
+👉 The detailed list of all the social constructs created for bias can be found [here](https://github.com/AI4Bharat/indic-bias/blob/master/synth_data_gen/taxonomy/bias_indic_topics.json).
+
+👉 The detailed list of all the stereotypes for each identity can be found [here](https://github.com/AI4Bharat/indic-bias/blob/master/synth_data_gen/taxonomy/stereotype_map.json).
+
 
 ## Setup
 
