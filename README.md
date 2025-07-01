@@ -2,7 +2,7 @@
 
 FairI = "**Fair**"ness for "**I**"ndia
 
-[📜 Paper](https://arxiv.org/abs/2406.13439) | [🤗 HF Dataset](https://huggingface.co/datasets/ai4bharat/Indic-Bias)
+[📜 Paper](https://arxiv.org/abs/2506.23111) | [🤗 HF Dataset](https://huggingface.co/datasets/ai4bharat/Indic-Bias)
 
 We present **Indic-Bias**, a comprehensive benchmark to evaluate the fairness of LLMs across 85 Indian Identity groups, focusing on **Bias** and **Stereotypes**. We create three tasks - Plausibility, Judgment, and Generation, and evaluate 14 popular LLMs to identify allocative and representational harms. 
 
@@ -198,7 +198,12 @@ python evaluations/stereotype/compute_scores.py \
 If you used this repository or our models, please cite our work:
 
 ```bibtex
-pending
+@article{nawale2025fairi,
+  title   = {FairI Tales: Evaluation of Fairness in Indian Contexts with a Focus on Bias and Stereotypes},
+  author  = {Janki Atul Nawale and Mohammed Safi Ur Rahman Khan and Janani D and Mansi Gupta and Danish Pruthi and Mitesh M. Khapra},
+  year    = {2025},
+  journal = {arXiv preprint arXiv: 2506.23111}
+}
 ```
 
 
